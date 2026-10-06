@@ -155,12 +155,15 @@ Sin claves en ningún sitio: todo se autentica con Microsoft Entra ID.
 ```
 src/
   Centinela.Domain          Entidades y máquina de estados (sin dependencias)
+    Cases/ Norms/
   Centinela.Application     Agentes, orquestador, vigilante, comprobación de citas (no conoce a Foundry)
+    Abstractions/ Agents/ Workflow/ Verification/ Documents/ Observability/
   Centinela.Infrastructure  Foundry, AI Search, Cosmos DB, BOE, telemetría
   Centinela.Api             API mínima + panel de aprobación (+ modo demo)
   Centinela.Worker          Vigilante programado (desactivado por defecto)
   Centinela.Evaluation      Conjuntos etiquetados, medidores y puerta de evaluación (no se despliega)
   Centinela.Cli             Comandos: cribar, analizar, caso, vigilar, puerta, evaluar-*…
+    Commands/ Support/
 tests/Centinela.Tests       Más de 350 pruebas, ninguna necesita Azure
 infra/                      Bicep: Foundry, Search, Cosmos
 evaluaciones/               Conjuntos etiquetados, umbrales de la puerta y resultados
