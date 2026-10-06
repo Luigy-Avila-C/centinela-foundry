@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Centinela.Worker-c4f097ec-bfd5-42af-bb87-0c661b114eb1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Centinela.Application\Centinela.Application.csproj" />
+    <ProjectReference Include="..\Centinela.Infrastructure\Centinela.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Centinela · Panel de aprobación</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Centinela <span>Panel de aprobación</span></h1>
+    <form id="key-form" autocomplete="off">
+      <label for="key">Clave de la API</label>
+      <input id="key" type="password" placeholder="X-Api-Key">
+      <button type="submit">Entrar</button>
+    </form>
+  </header>
+
+  <div id="demo-banner" class="demo" hidden>
+    <strong>Modo demostración.</strong> Los casos son ejecuciones reales del sistema sobre una empresa <strong>ficticia</strong> y
+    normas públicas del BOE. Todo vive en memoria: puedes aprobar y rechazar sin que se guarde nada.
+  </div>
+
+  <main>
+    <section id="list-pane" aria-label="Casos">
+      <div class="toolbar">
+        <label for="filter">Mostrar</label>
+        <select id="filter">
+          <option value="AwaitingHumanApproval">Pendientes de aprobación</option>
+          <option value="Approved">Aprobados</option>
+          <option value="Rejected">Rechazados</option>
+          <option value="Failed">Fallidos / bloqueados</option>
+          <option value="">Todos</option>
+        </select>
+        <button id="reload" type="button">Recargar</button>
+      </div>
+      <ul id="cases" class="cases"></ul>
+      <p id="list-msg" class="msg"></p>
+    </section>
+
+    <section id="detail-pane" aria-label="Detalle del caso">
+      <p class="msg">Elige un caso de la lista.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

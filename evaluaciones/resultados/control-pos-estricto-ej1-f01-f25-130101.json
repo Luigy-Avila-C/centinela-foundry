@@ -1,0 +1,570 @@
+[
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f01",
+    "FactText": "La orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1, del Real Decreto 238/2026.",
+    "Covered": true,
+    "Pointed": [
+      "La presente orden tiene por objeto regular los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f02",
+    "FactText": "El ámbito de aplicación de la orden es el del artículo 3 del Real Decreto 238/2026, sin perjuicio de las excepciones previstas en su artículo 4 y disposición adicional segunda y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007.",
+    "Covered": true,
+    "Pointed": [
+      "El ámbito de aplicación de la Orden HAC/1028/2026 será el que se establece en el artículo 3 del Real Decreto 238/2026, de 25 de marzo.",
+      "El ámbito de aplicación de la Orden HAC/1028/2026 se entiende sin perjuicio de las excepciones o particularidades previstas en el artículo 4 y disposición adicional segunda del Real Decreto 238/2026, de 25 de marzo, y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f03",
+    "FactText": "Las facturas electrónicas emitidas o interconectadas con la solución pública deben ajustarse al modelo semántico de datos EN16931 con sintaxis UBL.",
+    "Covered": true,
+    "Pointed": [
+      "Las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 del Comité Europeo de Normalización bajo la sintaxis UBL."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f04",
+    "FactText": "Cuando la solución pública actúa como medio de emisión de facturas, el contenido de la factura se ajusta a los elementos definidos en el anexo I de la orden.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de emisión o generación de facturas, el contenido de la factura electrónica se ajustará a los elementos definidos en el anexo I de esta orden."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f05",
+    "FactText": "Cuando la solución pública actúa como medio de interconexión, la factura contendrá como mínimo los elementos del anexo I y podrá incluir contenido adicional.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de interconexión, la factura electrónica contendrá, como mínimo, los elementos definidos en el anexo I de esta orden.",
+      "Las facturas electrónicas interconectadas a través de la solución pública de facturación electrónica podrán incluir contenido adicional al previsto en el anexo I, siempre que cumpla los requisitos previstos en el apartado primero."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f06",
+    "FactText": "Las facturas emitidas o interconectadas con la solución pública quedan a disposición inmediata de la Administración, por lo que no se debe remitir copia fiel de ellas.",
+    "Covered": true,
+    "Pointed": [
+      "Las facturas electrónicas para cuya emisión o interconexión se utilice la solución pública de facturación electrónica quedan a disposición inmediata de la Administración.",
+      "No se debe remitir copia fiel de las facturas electrónicas emitidas o interconectadas mediante la solución pública de facturación electrónica."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f07",
+    "FactText": "Una factura improcedente por inexistencia de la operación puede darse de baja en la solución pública, quedando trazabilidad de la baja.",
+    "Covered": true,
+    "Pointed": [
+      "En los casos en los que la factura objeto de emisión o de interconexión resultase ser improcedente por inexistencia de la operación, se podrá dar de baja en la solución pública de facturación electrónica.",
+      "Cuando se dé de baja una factura en la solución pública de facturación electrónica por inexistencia de la operación, quedará en todo caso trazabilidad de la citada baja."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f08",
+    "FactText": "Las facturas emitidas o interconectadas con la solución pública no pueden incorporar otros ficheros integrados o embebidos, salvo que las interconectadas pueden remitirse junto con la firma electrónica.",
+    "Covered": true,
+    "Pointed": [
+      "Las facturas electrónicas emitidas o interconectadas a través de la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos.",
+      "No obstante la prohibición de incorporar otros ficheros integrados o embebidos, las facturas electrónicas interconectadas a través de la solución pública de facturación electrónica podrán remitirse junto con la firma electrónica."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f09",
+    "FactText": "Los empresarios y profesionales obligados que no utilicen la solución pública para emitir o interconectar deben remitir a ella, simultáneamente a la emisión, una copia electrónica fiel de cada factura en sintaxis UBL.",
+    "Covered": true,
+    "Pointed": [
+      "Las plataformas, soluciones o sistemas de facturación que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electrónicas que no utilicen la solución pública de facturación electrónica para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la citada solución pública."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f10",
+    "FactText": "Si el cumplimiento material de la obligación de expedir factura lo asume el destinatario o un tercero, la copia fiel la remite la plataforma o sistema que utilicen ese destinatario o tercero.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando las partes de la operación hayan optado por el cumplimiento material de la obligación de expedir factura por el destinatario de la operación o por terceros, de conformidad con lo previsto en el artículo 5 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, la copia fiel deberá ser remitida por las plataformas, soluciones o sistemas de facturación utilizados por el destinatario o tercero."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f11",
+    "FactText": "La copia fiel debe contener la información de los conceptos de la factura original que tengan correspondencia semántica equivalente, cumpliendo el contenido mínimo del Reglamento de facturación y los elementos del anexo I.",
+    "Covered": true,
+    "Pointed": [
+      "Las copias fieles deberán contener la información de los conceptos de las facturas electrónicas originales que tengan correspondencia semántica equivalente y estén contemplados en la sintaxis de la solución pública de facturación electrónica.",
+      "Las copias fieles deberán cumplir en todo caso con el contenido mínimo regulado en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, y ajustarse a los elementos previstos en el anexo I."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f12",
+    "FactText": "La copia fiel debe identificarse como tal en el campo denominado «indicador de copia» del anexo I.",
+    "Covered": true,
+    "Pointed": [
+      "La copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f13",
+    "FactText": "Las copias fieles remitidas a la solución pública no pueden incorporar otros ficheros integrados o embebidos.",
+    "Covered": true,
+    "Pointed": [
+      "Las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f14",
+    "FactText": "Cuando la solución pública actúa como medio de facturación, la emisión se realiza mediante el formulario de generación de facturas electrónicas, que habilita la emisión de forma individual.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de facturación, la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas.",
+      "La emisión de facturas electrónicas mediante la solución pública de facturación electrónica se habilitará de forma individual y ofrecerá las funciones previstas en la disposición adicional primera del Real Decreto 238/2026, de 25 de marzo."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f15",
+    "FactText": "Cuando la solución pública actúa como medio de interconexión, la interconexión se realiza mediante los servicios web habilitados.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de interconexión, la interconexión deberá realizarse mediante los servicios web habilitados a tal efecto."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f16",
+    "FactText": "La remisión de las copias fieles se realiza por el servicio web, con la identificación del artículo 4.3 para que se trate como copia fiel.",
+    "Covered": true,
+    "Pointed": [
+      "La remisión de copias fieles deberá realizarse a través del servicio web previsto en el apartado anterior, con la identificación a que se refiere el artículo 4.3 de esta orden para que se trate como una copia fiel."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f17",
+    "FactText": "En el envío por servicio web, las facturas y copias fieles se validan (sintaxis, semántica y especificaciones) y la Agencia Tributaria responde con la relación de admitidas o rechazadas y el motivo del rechazo.",
+    "Covered": true,
+    "Pointed": [
+      "En el caso de envío a través del servicio web previsto en los apartados 2 y 3, las facturas electrónicas y las copias fieles se someterán a un proceso de validación de la sintaxis, semántica y especificaciones previstas en los artículos 3 y 4, respectivamente.",
+      "Tras la validación, la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta que contendrá la relación de las facturas o copias fieles admitidas o, en su caso, la relación de los envíos rechazados con errores junto con la identificación del motivo por el que han sido calificados de este modo."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f18",
+    "FactText": "Tras el envío, la solución pública facilita un acuse de recibo con el código seguro de verificación.",
+    "Covered": true,
+    "Pointed": [
+      "Tras el envío, la solución pública de facturación electrónica facilitará un acuse de recibo informando del código seguro de verificación correspondiente."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f19",
+    "FactText": "Se rechazan los envíos de copias fieles de facturas para las que ya conste una copia fiel o una factura electrónica original emitida o intercambiada usando la solución pública.",
+    "Covered": true,
+    "Pointed": [
+      "Se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel en la solución pública de facturación electrónica.",
+      "Se rechazarán los envíos de copias fieles de facturas electrónicas para las que conste una factura electrónica original emitida o intercambiada usando la solución pública de facturación electrónica."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f20",
+    "FactText": "Si la solución se usa como medio de interconexión y ya se remitió una copia fiel de la factura original, debe darse de baja previamente esa copia fiel.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando se utilice la solución pública de facturación electrónica como medio de interconexión y ya se haya remitido una copia fiel de la factura electrónica original a la misma, deberá procederse con carácter previo a la baja de la copia fiel."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f21",
+    "FactText": "Una copia fiel rechazada se entiende no admitida, sin perjuicio de la validez de la factura original, y el obligado debe subsanar la causa y volver a remitirla manteniendo la correspondencia con la factura original.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la copia fiel de una factura electrónica remitida a la solución pública de facturación electrónica sea rechazada por no superar las validaciones exigidas por esta orden, dicha copia se entenderá no admitida en la solución pública.",
+      "La no admisión de la copia fiel en la solución pública no afecta a la validez de la factura electrónica original que, en su caso, hubiera sido emitida y puesta a disposición de su destinatario a través de una plataforma privada de intercambio de facturas electrónicas.",
+      "En los casos de rechazo de la copia fiel, el obligado a remitir la copia fiel deberá subsanar la causa que hubiera motivado el rechazo y efectuar una nueva remisión de la copia fiel a la solución pública de facturación electrónica, manteniendo en todo caso la correspondencia con la factura electrónica original efectivamente emitida."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f22",
+    "FactText": "Si el rechazo de la copia fiel se debe a errores de la factura original distintos de los que dan lugar a rectificación según el artículo 15 del Reglamento de facturación, se subsana emitiendo una factura original correcta y remitiendo simultáneamente una copia fiel.",
+    "Covered": true,
+    "Pointed": [
+      "Si el rechazo de la copia fiel se debe a errores sintácticos, semánticos o de contenido en la factura electrónica original, distintos de aquellos que motivan la rectificación de facturas prevista en el artículo 15 del Reglamento por el que se regulan las obligaciones de facturación, se deberán subsanar los mismos mediante la emisión de una factura electrónica original correcta, y remitirse de forma simultánea una copia fiel a la solución pública de facturación electrónica."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f23",
+    "FactText": "Si por razones técnicas imputables a la solución pública no se puede utilizar durante más de veinticuatro horas, la remisión de facturas y copias fieles puede hacerse durante los cuatro días hábiles siguientes a la subsanación de la incidencia.",
+    "Covered": true,
+    "Pointed": [
+      "En aquellos supuestos en que, por razones de carácter técnico imputables a la solución pública de factura electrónica, no fuera posible su utilización por un periodo superior a veinticuatro horas, la remisión de las facturas electrónicas y de las copias fieles podrá realizarse durante los cuatro días hábiles siguientes a la subsanación de la incidencia técnica."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f24",
+    "FactText": "El código único de la factura es la concatenación del NIF del emisor, la serie y número de la factura y la fecha de expedición, según el anexo I.",
+    "Covered": true,
+    "Pointed": [
+      "El código único de la factura electrónica en la solución pública de facturación electrónica queda definido por la concatenación del conjunto de valores correspondientes al NIF del emisor, a la serie y número de la factura y a la fecha de expedición, según lo especificado en el anexo I."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-4.1",
+    "FactId": "f25",
+    "FactText": "El destinatario de la factura debe informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago.",
+    "Covered": false,
+    "Pointed": [],
+    "Reason": "Falta: «El destinatario de la factura debe informar de la fecha del pago efectivo completo»: la cita no figura literalmente en la afirmación 51; «El destinatario de la factura debe informar de la fecha de vencimiento del plazo de pago»: la cita no figura literalmente en la afirmación 51",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f01",
+    "FactText": "La orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1, del Real Decreto 238/2026.",
+    "Covered": true,
+    "Pointed": [
+      "La presente orden tiene por objeto regular los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f02",
+    "FactText": "El ámbito de aplicación de la orden es el del artículo 3 del Real Decreto 238/2026, sin perjuicio de las excepciones previstas en su artículo 4 y disposición adicional segunda y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007.",
+    "Covered": true,
+    "Pointed": [
+      "El ámbito de aplicación de la Orden HAC/1028/2026 será el que se establece en el artículo 3 del Real Decreto 238/2026, de 25 de marzo.",
+      "El ámbito de aplicación de la Orden HAC/1028/2026 se entiende sin perjuicio de las excepciones o particularidades previstas en el artículo 4 y disposición adicional segunda del Real Decreto 238/2026, de 25 de marzo, y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre."
+    ],
+    "Reason": "4 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f03",
+    "FactText": "Las facturas electrónicas emitidas o interconectadas con la solución pública deben ajustarse al modelo semántico de datos EN16931 con sintaxis UBL.",
+    "Covered": true,
+    "Pointed": [
+      "Las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 del Comité Europeo de Normalización bajo la sintaxis UBL."
+    ],
+    "Reason": "4 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f04",
+    "FactText": "Cuando la solución pública actúa como medio de emisión de facturas, el contenido de la factura se ajusta a los elementos definidos en el anexo I de la orden.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de emisión o generación de facturas, el contenido de la factura electrónica se ajustará a los elementos definidos en el anexo I de esta orden."
+    ],
+    "Reason": "4 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f05",
+    "FactText": "Cuando la solución pública actúa como medio de interconexión, la factura contendrá como mínimo los elementos del anexo I y podrá incluir contenido adicional.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de interconexión, la factura electrónica contendrá, como mínimo, los elementos definidos en el anexo I de esta orden.",
+      "Las facturas electrónicas interconectadas a través de la solución pública de facturación electrónica podrán incluir contenido adicional al previsto en el anexo I, siempre que cumpla los requisitos previstos en el apartado primero."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f06",
+    "FactText": "Las facturas emitidas o interconectadas con la solución pública quedan a disposición inmediata de la Administración, por lo que no se debe remitir copia fiel de ellas.",
+    "Covered": true,
+    "Pointed": [
+      "Las facturas electrónicas para cuya emisión o interconexión se utilice la solución pública de facturación electrónica quedan a disposición inmediata de la Administración.",
+      "No se debe remitir copia fiel de las facturas electrónicas emitidas o interconectadas mediante la solución pública de facturación electrónica."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f07",
+    "FactText": "Una factura improcedente por inexistencia de la operación puede darse de baja en la solución pública, quedando trazabilidad de la baja.",
+    "Covered": true,
+    "Pointed": [
+      "En los casos en los que la factura objeto de emisión o de interconexión resultase ser improcedente por inexistencia de la operación, se podrá dar de baja en la solución pública de facturación electrónica.",
+      "Cuando se dé de baja una factura en la solución pública de facturación electrónica por inexistencia de la operación, quedará en todo caso trazabilidad de la citada baja."
+    ],
+    "Reason": "4 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f08",
+    "FactText": "Las facturas emitidas o interconectadas con la solución pública no pueden incorporar otros ficheros integrados o embebidos, salvo que las interconectadas pueden remitirse junto con la firma electrónica.",
+    "Covered": true,
+    "Pointed": [
+      "Las facturas electrónicas emitidas o interconectadas a través de la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos.",
+      "No obstante la prohibición de incorporar otros ficheros integrados o embebidos, las facturas electrónicas interconectadas a través de la solución pública de facturación electrónica podrán remitirse junto con la firma electrónica."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f09",
+    "FactText": "Los empresarios y profesionales obligados que no utilicen la solución pública para emitir o interconectar deben remitir a ella, simultáneamente a la emisión, una copia electrónica fiel de cada factura en sintaxis UBL.",
+    "Covered": true,
+    "Pointed": [
+      "Las plataformas, soluciones o sistemas de facturación que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electrónicas que no utilicen la solución pública de facturación electrónica para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la citada solución pública."
+    ],
+    "Reason": "6 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f10",
+    "FactText": "Si el cumplimiento material de la obligación de expedir factura lo asume el destinatario o un tercero, la copia fiel la remite la plataforma o sistema que utilicen ese destinatario o tercero.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando las partes de la operación hayan optado por el cumplimiento material de la obligación de expedir factura por el destinatario de la operación o por terceros, de conformidad con lo previsto en el artículo 5 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, la copia fiel deberá ser remitida por las plataformas, soluciones o sistemas de facturación utilizados por el destinatario o tercero."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f11",
+    "FactText": "La copia fiel debe contener la información de los conceptos de la factura original que tengan correspondencia semántica equivalente, cumpliendo el contenido mínimo del Reglamento de facturación y los elementos del anexo I.",
+    "Covered": true,
+    "Pointed": [
+      "Las copias fieles deberán contener la información de los conceptos de las facturas electrónicas originales que tengan correspondencia semántica equivalente y estén contemplados en la sintaxis de la solución pública de facturación electrónica.",
+      "Las copias fieles deberán cumplir en todo caso con el contenido mínimo regulado en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, y ajustarse a los elementos previstos en el anexo I."
+    ],
+    "Reason": "4 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f12",
+    "FactText": "La copia fiel debe identificarse como tal en el campo denominado «indicador de copia» del anexo I.",
+    "Covered": true,
+    "Pointed": [
+      "La copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f13",
+    "FactText": "Las copias fieles remitidas a la solución pública no pueden incorporar otros ficheros integrados o embebidos.",
+    "Covered": true,
+    "Pointed": [
+      "Las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f14",
+    "FactText": "Cuando la solución pública actúa como medio de facturación, la emisión se realiza mediante el formulario de generación de facturas electrónicas, que habilita la emisión de forma individual.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de facturación, la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas.",
+      "La emisión de facturas electrónicas mediante la solución pública de facturación electrónica se habilitará de forma individual y ofrecerá las funciones previstas en la disposición adicional primera del Real Decreto 238/2026, de 25 de marzo."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f15",
+    "FactText": "Cuando la solución pública actúa como medio de interconexión, la interconexión se realiza mediante los servicios web habilitados.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la solución pública de facturación electrónica actúe como medio de interconexión, la interconexión deberá realizarse mediante los servicios web habilitados a tal efecto."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f16",
+    "FactText": "La remisión de las copias fieles se realiza por el servicio web, con la identificación del artículo 4.3 para que se trate como copia fiel.",
+    "Covered": true,
+    "Pointed": [
+      "La remisión de copias fieles deberá realizarse a través del servicio web previsto en el apartado anterior, con la identificación a que se refiere el artículo 4.3 de esta orden para que se trate como una copia fiel."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f17",
+    "FactText": "En el envío por servicio web, las facturas y copias fieles se validan (sintaxis, semántica y especificaciones) y la Agencia Tributaria responde con la relación de admitidas o rechazadas y el motivo del rechazo.",
+    "Covered": true,
+    "Pointed": [
+      "En el caso de envío a través del servicio web previsto en los apartados 2 y 3, las facturas electrónicas y las copias fieles se someterán a un proceso de validación de la sintaxis, semántica y especificaciones previstas en los artículos 3 y 4, respectivamente.",
+      "Tras la validación, la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta que contendrá la relación de las facturas o copias fieles admitidas o, en su caso, la relación de los envíos rechazados con errores junto con la identificación del motivo por el que han sido calificados de este modo."
+    ],
+    "Reason": "7 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f18",
+    "FactText": "Tras el envío, la solución pública facilita un acuse de recibo con el código seguro de verificación.",
+    "Covered": true,
+    "Pointed": [
+      "Tras el envío, la solución pública de facturación electrónica facilitará un acuse de recibo informando del código seguro de verificación correspondiente."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f19",
+    "FactText": "Se rechazan los envíos de copias fieles de facturas para las que ya conste una copia fiel o una factura electrónica original emitida o intercambiada usando la solución pública.",
+    "Covered": true,
+    "Pointed": [
+      "Se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel en la solución pública de facturación electrónica.",
+      "Se rechazarán los envíos de copias fieles de facturas electrónicas para las que conste una factura electrónica original emitida o intercambiada usando la solución pública de facturación electrónica."
+    ],
+    "Reason": "2 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f20",
+    "FactText": "Si la solución se usa como medio de interconexión y ya se remitió una copia fiel de la factura original, debe darse de baja previamente esa copia fiel.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando se utilice la solución pública de facturación electrónica como medio de interconexión y ya se haya remitido una copia fiel de la factura electrónica original a la misma, deberá procederse con carácter previo a la baja de la copia fiel."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f21",
+    "FactText": "Una copia fiel rechazada se entiende no admitida, sin perjuicio de la validez de la factura original, y el obligado debe subsanar la causa y volver a remitirla manteniendo la correspondencia con la factura original.",
+    "Covered": true,
+    "Pointed": [
+      "Cuando la copia fiel de una factura electrónica remitida a la solución pública de facturación electrónica sea rechazada por no superar las validaciones exigidas por esta orden, dicha copia se entenderá no admitida en la solución pública.",
+      "La no admisión de la copia fiel en la solución pública no afecta a la validez de la factura electrónica original que, en su caso, hubiera sido emitida y puesta a disposición de su destinatario a través de una plataforma privada de intercambio de facturas electrónicas.",
+      "En los casos de rechazo de la copia fiel, el obligado a remitir la copia fiel deberá subsanar la causa que hubiera motivado el rechazo y efectuar una nueva remisión de la copia fiel a la solución pública de facturación electrónica, manteniendo en todo caso la correspondencia con la factura electrónica original efectivamente emitida."
+    ],
+    "Reason": "5 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f22",
+    "FactText": "Si el rechazo de la copia fiel se debe a errores de la factura original distintos de los que dan lugar a rectificación según el artículo 15 del Reglamento de facturación, se subsana emitiendo una factura original correcta y remitiendo simultáneamente una copia fiel.",
+    "Covered": true,
+    "Pointed": [
+      "Si el rechazo de la copia fiel se debe a errores sintácticos, semánticos o de contenido en la factura electrónica original, distintos de aquellos que motivan la rectificación de facturas prevista en el artículo 15 del Reglamento por el que se regulan las obligaciones de facturación, se deberán subsanar los mismos mediante la emisión de una factura electrónica original correcta, y remitirse de forma simultánea una copia fiel a la solución pública de facturación electrónica."
+    ],
+    "Reason": "3 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f23",
+    "FactText": "Si por razones técnicas imputables a la solución pública no se puede utilizar durante más de veinticuatro horas, la remisión de facturas y copias fieles puede hacerse durante los cuatro días hábiles siguientes a la subsanación de la incidencia.",
+    "Covered": false,
+    "Pointed": [],
+    "Reason": "Falta: «Remisión de facturas electrónicas durante los cuatro días hábiles siguientes a la subsanación de la incidencia»: la cita no figura literalmente en la afirmación 49",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f24",
+    "FactText": "El código único de la factura es la concatenación del NIF del emisor, la serie y número de la factura y la fecha de expedición, según el anexo I.",
+    "Covered": true,
+    "Pointed": [
+      "El código único de la factura electrónica en la solución pública de facturación electrónica queda definido por la concatenación del conjunto de valores correspondientes al NIF del emisor, a la serie y número de la factura y a la fecha de expedición, según lo especificado en el anexo I."
+    ],
+    "Reason": "5 elementos, todos con cita verificada.",
+    "Removed": 0
+  },
+  {
+    "Judge": "gpt-5.1",
+    "FactId": "f25",
+    "FactText": "El destinatario de la factura debe informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago.",
+    "Covered": true,
+    "Pointed": [
+      "El destinatario de la factura debe informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+    ],
+    "Reason": "4 elementos, todos con cita verificada.",
+    "Removed": 0
+  }
+]

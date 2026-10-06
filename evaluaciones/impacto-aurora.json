@@ -1,0 +1,62 @@
+{
+  "descripcion": "Qué pasajes de los documentos internos de «Distribuciones Aurora, S.L.» (empresa FICTICIA) quedan afectados por la Orden HAC/1028/2026, y cuáles no. Se usa para medir el evaluador de impacto.",
+  "norma": "BOE-A-2026-20587",
+  "advertencias": [
+    "Los documentos y las etiquetas los ha escrito la misma persona (el autor del sistema), y los documentos se escribieron con las etiquetas en la cabeza. Esto mide si el agente razona bien sobre casos diseñados por el autor, no su rendimiento sobre documentos reales de una empresa.",
+    "Cada etiqueta se justifica con hechos de la Orden (f01-f51 de cobertura-orden-hac-1028-2026.json), no con conocimiento jurídico externo: 'afectado' significa que el pasaje contradice lo que la Orden establece o describe un proceso al que le falta algo que la Orden exige.",
+    "Casos 'dudoso': ambiguos a propósito. Se reportan pero no cuentan en precisión ni sensibilidad.",
+    "Hay pocos positivos (4 en dev, 3 en test): cualquier porcentaje tiene un intervalo de confianza muy ancho."
+  ],
+  "criterio_fijado_antes_de_medir": {
+    "test": "sensibilidad >= 80 % (con 3 positivos, eso es 3 de 3) y precision >= 70 %; todo hallazgo con cita literal verificada del pasaje",
+    "ajuste": "como mucho dos iteraciones de prompt mirando solo 'dev'; 'test' se mide una vez"
+  },
+  "casos": [
+    { "documento": "01-politica-de-facturacion", "seccion": "1. Objeto", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Texto general sin prácticas concretas." },
+    { "documento": "01-politica-de-facturacion", "seccion": "2. Emisión de facturas", "split": "dev", "esperado": "afectado", "gravedad": "alta", "hechos": ["f09", "f03"], "nota": "No remite copia fiel UBL a la solución pública, que la Orden exige a quien no la usa para emitir." },
+    { "documento": "01-politica-de-facturacion", "seccion": "3. Numeración y series", "split": "dev", "esperado": "no_afectado", "hechos": ["f24"], "nota": "Serie y número correlativos: compatibles con el código único, que lo calcula la solución." },
+    { "documento": "01-politica-de-facturacion", "seccion": "4. Plazos de pago", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Plazo de pago a clientes: no regulado por la Orden." },
+
+    { "documento": "02-procedimiento-de-conservacion-y-plataformas", "seccion": "1. Conservación de las facturas emitidas", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "La Orden no cambia la conservación de las facturas propias emitidas." },
+    { "documento": "02-procedimiento-de-conservacion-y-plataformas", "seccion": "2. Facturas recibidas", "split": "dev", "esperado": "no_afectado", "hechos": ["f44", "f42", "f43"], "nota": "Distractor: recuperar facturas es una facultad del destinatario (f44); la obligación de recuperar es de las plataformas privadas (f42, f43)." },
+    { "documento": "02-procedimiento-de-conservacion-y-plataformas", "seccion": "3. Copias de seguridad", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "02-procedimiento-de-conservacion-y-plataformas", "seccion": "4. Intercambio con grandes clientes", "split": "dev", "esperado": "afectado", "gravedad": "media", "hechos": ["f42", "f43"], "nota": "Usa una plataforma privada que no recupera mensajes ni consulta la solución pública; la Orden obliga a las plataformas privadas a hacerlo." },
+
+    { "documento": "03-facturas-rectificativas-errores-y-bajas", "seccion": "1. Facturas rectificativas", "split": "dev", "esperado": "no_afectado", "hechos": ["f22"], "nota": "La rectificación del artículo 15 del Reglamento no cambia." },
+    { "documento": "03-facturas-rectificativas-errores-y-bajas", "seccion": "2. Facturas emitidas por error o sin operación", "split": "dev", "esperado": "afectado", "gravedad": "alta", "hechos": ["f07", "f20"], "nota": "Borra la factura y reutiliza el número sin constancia; la Orden exige baja con trazabilidad." },
+    { "documento": "03-facturas-rectificativas-errores-y-bajas", "seccion": "3. Errores de datos detectados por el cliente", "split": "dev", "esperado": "afectado", "gravedad": "media", "hechos": ["f22"], "nota": "Corrige el PDF y reenvía con el mismo número; la Orden pide emitir una factura original correcta y remitir copia fiel." },
+    { "documento": "03-facturas-rectificativas-errores-y-bajas", "seccion": "4. Gestión de impagados", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+
+    { "documento": "05-politica-de-proteccion-de-datos", "seccion": "1. Responsable y finalidades", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Distractor de RGPD." },
+    { "documento": "05-politica-de-proteccion-de-datos", "seccion": "2. Derechos de las personas", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Distractor de RGPD." },
+    { "documento": "05-politica-de-proteccion-de-datos", "seccion": "3. Medidas de seguridad", "split": "dev", "esperado": "no_afectado", "hechos": ["f31"], "nota": "Distractor: cita el artículo 32 del RGPD con las mismas palabras que la Orden, pero la empresa ya lo cumple y la Orden no cambia nada." },
+    { "documento": "05-politica-de-proteccion-de-datos", "seccion": "4. Conservación", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Distractor de RGPD." },
+
+    { "documento": "06-contrato-tipo-con-clientes", "seccion": "Cláusula 1. Objeto", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "06-contrato-tipo-con-clientes", "seccion": "Cláusula 2. Facturación", "split": "dev", "esperado": "dudoso", "hechos": ["f09"], "nota": "Fija el PDF por correo como vía de factura al cliente. La Orden exige copia UBL a la solución pública pero no prohíbe el PDF al cliente: se puede argumentar en los dos sentidos." },
+    { "documento": "06-contrato-tipo-con-clientes", "seccion": "Cláusula 3. Pago e intereses de demora", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Menciona la Ley 3/2004, que la Orden también cita, pero no cambia nada." },
+    { "documento": "06-contrato-tipo-con-clientes", "seccion": "Cláusula 4. Jurisdicción", "split": "dev", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+
+    { "documento": "04-manual-de-cobros-y-pagos", "seccion": "1. Registro de cobros", "split": "test", "esperado": "no_afectado", "hechos": ["f28"], "nota": "Comunicar cobros es una facultad del emisor (f28), no una obligación." },
+    { "documento": "04-manual-de-cobros-y-pagos", "seccion": "2. Pago a proveedores", "split": "test", "esperado": "afectado", "gravedad": "media", "hechos": ["f25"], "nota": "No comunica fecha de pago ni de vencimiento; la Orden obliga al destinatario a informarlas." },
+    { "documento": "04-manual-de-cobros-y-pagos", "seccion": "3. Conciliación bancaria", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "04-manual-de-cobros-y-pagos", "seccion": "4. Caída del sistema", "split": "test", "esperado": "no_afectado", "hechos": ["f23"], "nota": "Distractor: el plazo de 24 horas / 4 días hábiles es para fallos de la solución pública, no del sistema de la empresa." },
+
+    { "documento": "07-manual-de-seguridad-de-la-informacion", "seccion": "1. Contraseñas", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "07-manual-de-seguridad-de-la-informacion", "seccion": "2. Control de accesos", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "07-manual-de-seguridad-de-la-informacion", "seccion": "3. Referencias de seguridad", "split": "test", "esperado": "no_afectado", "hechos": ["f32"], "nota": "Distractor: menciona el Esquema Nacional de Seguridad, pero esa obligación es de los sistemas de la solución pública, no de la empresa." },
+    { "documento": "07-manual-de-seguridad-de-la-informacion", "seccion": "4. Gestión de incidentes", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+
+    { "documento": "08-acceso-a-la-sede-electronica-de-la-aeat", "seccion": "1. Certificado electrónico de la empresa", "split": "test", "esperado": "no_afectado", "hechos": ["f47"], "nota": "Certificado vigente: cumple lo que la Orden pide." },
+    { "documento": "08-acceso-a-la-sede-electronica-de-la-aeat", "seccion": "2. Actuación de la gestoría", "split": "test", "esperado": "afectado", "gravedad": "alta", "hechos": ["f49", "f50"], "nota": "La gestoría operará el formulario y la consulta sin apoderamiento inscrito; la Orden exige un apoderado inscrito en el Registro de apoderamientos." },
+    { "documento": "08-acceso-a-la-sede-electronica-de-la-aeat", "seccion": "3. Uso de Cl@ve", "split": "test", "esperado": "no_afectado", "hechos": ["f48"], "nota": "La Orden permite Cl@ve en los formularios; no lo impone." },
+
+    { "documento": "09-politica-de-compras-y-aprobacion-de-facturas", "seccion": "1. Selección de proveedores", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "09-politica-de-compras-y-aprobacion-de-facturas", "seccion": "2. Rechazo de facturas de proveedores", "split": "test", "esperado": "afectado", "gravedad": "media", "hechos": ["f25", "f27"], "nota": "Rechaza por teléfono sin constancia ni comunicación; la Orden obliga al destinatario a informar del rechazo (y sin rechazo se presume aceptada)." },
+    { "documento": "09-politica-de-compras-y-aprobacion-de-facturas", "seccion": "3. Límites de aprobación", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+
+    { "documento": "10-manual-de-calidad", "seccion": "1. Objetivos de calidad", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "10-manual-de-calidad", "seccion": "2. Auditorías internas", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." },
+    { "documento": "10-manual-de-calidad", "seccion": "3. Atención de reclamaciones", "split": "test", "esperado": "no_afectado", "hechos": [], "nota": "Sin relación con la Orden." }
+  ]
+}

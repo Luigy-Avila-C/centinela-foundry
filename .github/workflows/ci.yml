@@ -1,0 +1,67 @@
+# Integración continua: compila, pasa las pruebas y valida la infraestructura. No necesita Azure ni secretos
+# y es gratis: las pruebas no llaman a ningún modelo. Las evaluaciones con modelos están aparte (evaluaciones.yml).
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Restaurar
+        run: dotnet restore
+
+      - name: Compilar
+        run: dotnet build --no-restore --configuration Release
+
+      - name: Pruebas
+        run: dotnet test --no-build --configuration Release --logger "trx;LogFileName=resultados.trx" --results-directory TestResults
+
+      - name: Guardar resultados de las pruebas
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados-pruebas
+          path: TestResults/*.trx
+
+  infraestructura:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      # Solo compila el Bicep (valida sintaxis y tipos); no despliega nada ni necesita iniciar sesión en Azure.
+      - name: Validar Bicep
+        run: az bicep build --file infra/main.bicep --stdout > /dev/null
+
+  panel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar la sintaxis del JavaScript del panel
+        run: node --check src/Centinela.Api/wwwroot/app.js
+
+      # El panel pinta texto generado por modelos: nunca como HTML ni con scripts en línea (también lo comprueban las pruebas).
+      - name: El panel no usa innerHTML ni scripts en línea
+        run: |
+          if grep -n "innerHTML" src/Centinela.Api/wwwroot/app.js; then echo "innerHTML no está permitido"; exit 1; fi
+          if grep -n "<script>" src/Centinela.Api/wwwroot/index.html; then echo "scripts en línea no permitidos"; exit 1; fi

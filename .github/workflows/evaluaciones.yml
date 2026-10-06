@@ -1,0 +1,66 @@
+# Puerta de evaluación con modelos reales (centinela puerta). CUESTA DINERO (≈ 0,15 USD por ejecución con los precios de
+# referencia) y necesita acceso a Azure, por eso:
+#   - no se ejecuta en cada commit, solo a mano o en PR que tocan prompts, agentes o conjuntos de evaluación;
+#   - nunca en PR de forks (no tendrían secretos y no se les debe dejar gastar);
+#   - pasa por un entorno protegido («azure-evaluaciones») donde una persona debe aprobar cada ejecución.
+#
+# REQUISITOS PREVIOS (no se incluyen en el repositorio: dependen de tu cuenta de Azure y de tu organización de GitHub):
+#   1. Una identidad de aplicación en Entra ID con credencial federada de GitHub (OIDC), sin secretos de larga vida.
+#   2. Roles sobre los recursos: «Azure AI User» (Foundry) y «Search Index Data Reader» (búsqueda).
+#   3. Secretos del repositorio: AZURE_CLIENT_ID, AZURE_TENANT_ID, AZURE_SUBSCRIPTION_ID.
+#   4. Variables del repositorio: FOUNDRY_PROJECT_ENDPOINT y SEARCH_ENDPOINT.
+#   5. Un entorno «azure-evaluaciones» con revisores obligatorios.
+name: Evaluaciones
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "src/Centinela.Application/**"
+      - "evaluaciones/**"
+      - "datos/**"
+
+permissions:
+  contents: read
+  id-token: write # necesario para el inicio de sesión OIDC en Azure
+
+concurrency:
+  group: evaluaciones-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  puerta:
+    # Sin forks: sus ejecuciones no tienen secretos y no deben poder disparar gasto.
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment: azure-evaluaciones
+    env:
+      Foundry__ProjectEndpoint: ${{ vars.FOUNDRY_PROJECT_ENDPOINT }}
+      Search__Endpoint: ${{ vars.SEARCH_ENDPOINT }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - uses: azure/login@v2
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+
+      - name: Compilar
+        run: dotnet build --configuration Release
+
+      # Termina con código 1 si alguna comprobación de regresión falla.
+      - name: Puerta de evaluación
+        run: dotnet run --no-build --configuration Release --project src/Centinela.Cli -- puerta --salida puerta.json
+
+      - name: Guardar el resultado
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultado-puerta
+          path: puerta.json

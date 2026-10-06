@@ -1,0 +1,2047 @@
+{
+  "id": "cca38006-a76f-4803-b655-2050e6b53f43",
+  "docType": "case",
+  "schemaVersion": 1,
+  "title": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+  "sourceId": "BOE-A-2026-20587",
+  "publishedOn": "2026-10-05",
+  "status": "AwaitingHumanApproval",
+  "revision": 3,
+  "findings": 7,
+  "actions": 7,
+  "pendingData": 5,
+  "escalated": true,
+  "savedAt": "2026-10-06T14:06:58.2010403+00:00",
+  "snapshot": {
+    "id": "cca38006-a76f-4803-b655-2050e6b53f43",
+    "change": {
+      "sourceId": "BOE-A-2026-20587",
+      "source": "BOE",
+      "title": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587",
+      "publishedOn": "2026-10-05",
+      "rawText": "",
+      "sections": [
+        {
+          "id": "BOE-A-2026-20587_005",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 1. Objeto.",
+          "text": "Art\u00EDculo 1. Objeto.\nLa presente orden tiene por objeto regular los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica previstos en la disposici\u00F3n final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, de acuerdo con el art\u00EDculo 2 bis de la Ley 56/2007, de 28 de diciembre, de Medidas de Impulso de la Sociedad de la Informaci\u00F3n.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_006",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 2. \u00C1mbito de aplicaci\u00F3n y definiciones.",
+          "text": "Art\u00EDculo 2. \u00C1mbito de aplicaci\u00F3n y definiciones.\n1. El \u00E1mbito de aplicaci\u00F3n de la presente orden ser\u00E1 el que se establece en el art\u00EDculo 3 del Real Decreto 238/2026, de 25 de marzo, sin perjuicio de las excepciones o particularidades previstas en el art\u00EDculo 4 y disposici\u00F3n adicional segunda del mismo real decreto y en el apartado s\u00E9ptimo de la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.\n2. Los t\u00E9rminos utilizados en la presente orden se ajustar\u00E1n a las definiciones previstas en el art\u00EDculo 2 del Real Decreto 238/2026, de 25 de marzo.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_007",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 3. Contenido y elementos t\u00E9cnicos de los servicios de emisi\u00F3n de facturas y de interconexi\u00F3n de la soluci\u00F3n p\u00FAb\u2026",
+          "text": "Art\u00EDculo 3. Contenido y elementos t\u00E9cnicos de los servicios de emisi\u00F3n de facturas y de interconexi\u00F3n de la soluci\u00F3n p\u00FAblica de factura electr\u00F3nica.\n1. Las facturas electr\u00F3nicas emitidas o interconectadas usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se deber\u00E1n ajustar al modelo sem\u00E1ntico de datos EN16931 del Comit\u00E9 Europeo de Normalizaci\u00F3n bajo la sintaxis UBL (Universal Business Language). Las especificaciones t\u00E9cnicas y volumetr\u00EDa ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.\n2. En los supuestos en los que la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de emisi\u00F3n o generaci\u00F3n de facturas, de acuerdo con lo dispuesto en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo, el contenido de la factura electr\u00F3nica se ajustar\u00E1 a los elementos definidos en el anexo I de esta orden en los que se concreta el contenido de las facturas de acuerdo a lo previsto en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.\n3. En los supuestos en los que la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, la factura electr\u00F3nica contendr\u00E1, como m\u00EDnimo, los elementos definidos en el anexo I de esta orden en los que se concreta el contenido de las facturas de acuerdo a lo previsto en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre. Estas facturas interconectadas podr\u00E1n incluir contenido adicional al previsto en el anexo I, que cumpla los requisitos previstos en el apartado primero.\n4. Las facturas electr\u00F3nicas para cuya emisi\u00F3n o interconexi\u00F3n se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica quedan a disposici\u00F3n inmediata de la Administraci\u00F3n, por lo que no se debe remitir copia fiel de las mismas.\n5. En los casos en los que la factura objeto de emisi\u00F3n o de interconexi\u00F3n resultase ser improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, quedando en todo caso trazabilidad de la citada baja. El mensaje de baja se ajustar\u00E1 a lo dispuesto en el anexo I.\n6. Las facturas electr\u00F3nicas emitidas o interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.\nNo obstante lo anterior, las facturas electr\u00F3nicas interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1n remitirse junto con la firma electr\u00F3nica.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_008",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 4. Elementos t\u00E9cnicos de la copia fiel enviada a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "text": "Art\u00EDculo 4. Elementos t\u00E9cnicos de la copia fiel enviada a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\n1. Las plataformas, soluciones o sistemas de facturaci\u00F3n que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electr\u00F3nicas que no utilicen la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la emisi\u00F3n o interconexi\u00F3n, deben remitir simult\u00E1neamente a su emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL a la citada soluci\u00F3n p\u00FAblica. Dichas copias quedar\u00E1n marcadas claramente como tales en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nCuando las partes de la operaci\u00F3n hayan optado por el cumplimiento material de la obligaci\u00F3n de expedir factura por el destinatario de la operaci\u00F3n o por terceros, de conformidad con lo previsto en el art\u00EDculo 5 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, o cuando la emisi\u00F3n por terceros sea consecuencia de la aplicaci\u00F3n de disposiciones normativas de obligado cumplimiento, la copia fiel deber\u00E1 ser remitida por las plataformas, soluciones o sistemas de facturaci\u00F3n utilizados por el destinatario o tercero.\n2. Las copias fieles deber\u00E1n contener la informaci\u00F3n de los conceptos de las facturas electr\u00F3nicas originales que tengan correspondencia sem\u00E1ntica equivalente y est\u00E9n contemplados en la sintaxis de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, cumpliendo en todo caso con el contenido m\u00EDnimo regulado en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre y ajustado a los elementos previstos en el anexo I. Las especificaciones t\u00E9cnicas y el tama\u00F1o m\u00E1ximo para estas copias fieles ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.\n3. La copia fiel de la factura deber\u00E1 identificarse como tal en el elemento o campo denominado \u00ABindicador de copia\u00BB del anexo I de esta orden.\n4. Las copias fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_009",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 5. Procedimiento para el uso de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de emisi\u00F3n o intercon\u2026",
+          "text": "Art\u00EDculo 5. Procedimiento para el uso de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de emisi\u00F3n o interconexi\u00F3n de facturas y remisi\u00F3n de copias fieles.\n1. En los supuestos en los que la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de facturaci\u00F3n, la emisi\u00F3n de la factura se realizar\u00E1 mediante la utilizaci\u00F3n del formulario de generaci\u00F3n de facturas electr\u00F3nicas. Se habilitar\u00E1 la emisi\u00F3n de forma individual y ofrecer\u00E1 las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo.\nEstos servicios estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.\n2. En los supuestos en los que la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, la misma deber\u00E1 realizarse mediante los servicios web habilitados a tal efecto.\n3. La remisi\u00F3n de las copias fieles deber\u00E1 realizarse a trav\u00E9s del servicio web previsto en el apartado anterior, con la identificaci\u00F3n a que se refiere el art\u00EDculo 4.3 de esta orden para que se trate como una copia fiel.\n4. En el caso de env\u00EDo a trav\u00E9s del servicio web previsto en los apartados 2 y 3, las facturas electr\u00F3nicas y las copias fieles se someter\u00E1n a un proceso de validaci\u00F3n de la sintaxis, sem\u00E1ntica y especificaciones previstas en los art\u00EDculos 3 y 4, respectivamente.\nTras esta validaci\u00F3n, la Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 mensaje de respuesta que contendr\u00E1 la relaci\u00F3n de las facturas o copias fieles admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo por el que han sido calificados de este modo.\nEn el caso de que se utilice el formulario web previsto en el apartado 1, la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual para cada factura de forma previa a su emisi\u00F3n.\nTras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente.\n5. Se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que ya conste una copia fiel en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, as\u00ED como para las que conste una factura electr\u00F3nica original emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nCuando se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de interconexi\u00F3n y ya se haya remitido una copia fiel de la factura electr\u00F3nica original a la misma, deber\u00E1 procederse con car\u00E1cter previo a la baja de la copia fiel.\nTambi\u00E9n se rechazar\u00E1n las facturas electr\u00F3nicas para las que ya consta una factura electr\u00F3nica original, emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nA los efectos de lo previsto en los p\u00E1rrafos anteriores, las facturas electr\u00F3nicas originales y copias fieles se identificar\u00E1n por su c\u00F3digo \u00FAnico, regulado en el art\u00EDculo 6.\nEn los casos en los que la factura electr\u00F3nica original resultase ser improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica su copia fiel, quedando en todo caso trazabilidad de la citada baja. El mensaje de baja se ajustar\u00E1 a lo dispuesto en el anexo I.\n6. Cuando la copia fiel de una factura electr\u00F3nica remitida a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica sea rechazada por no superar las validaciones exigidas por esta orden, dicha copia se entender\u00E1 no admitida en la soluci\u00F3n p\u00FAblica, sin perjuicio de la validez de la factura electr\u00F3nica original que, en su caso, hubiera sido emitida y puesta a disposici\u00F3n de su destinatario a trav\u00E9s de una plataforma privada de intercambio de facturas electr\u00F3nicas.\nEn estos casos, el obligado a remitir la copia fiel deber\u00E1 subsanar la causa que hubiera motivado el rechazo y efectuar una nueva remisi\u00F3n de la copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, manteniendo en todo caso la correspondencia con la factura electr\u00F3nica original efectivamente emitida.\nEn los casos en los que el rechazo de la copia fiel se deba a errores sint\u00E1cticos, sem\u00E1nticos o de contenido en la factura electr\u00F3nica original, distintos de aquellos que motivan la rectificaci\u00F3n de facturas prevista en el art\u00EDculo 15 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se deber\u00E1n subsanar los mismos mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta, y remitirse de forma simult\u00E1nea una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\n7. En aquellos supuestos en que, por razones de car\u00E1cter t\u00E9cnico imputables a la soluci\u00F3n p\u00FAblica de factura electr\u00F3nica, no fuera posible su utilizaci\u00F3n por un periodo superior a veinticuatro horas, la remisi\u00F3n de las facturas electr\u00F3nicas y de las copias fieles podr\u00E1 realizarse durante los cuatro d\u00EDas h\u00E1biles siguientes a la subsanaci\u00F3n de la incidencia t\u00E9cnica.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_010",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 6. Codificaci\u00F3n \u00FAnica de las facturas electr\u00F3nicas en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica e inserci\u00F3\u2026",
+          "text": "Art\u00EDculo 6. Codificaci\u00F3n \u00FAnica de las facturas electr\u00F3nicas en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica e inserci\u00F3n en la sintaxis de la factura.\nEl c\u00F3digo \u00FAnico de la factura quedar\u00E1 definido por la concatenaci\u00F3n del conjunto de valores correspondientes al NIF del emisor, a la serie y n\u00FAmero de la factura y a la fecha de expedici\u00F3n, seg\u00FAn lo especificado en el anexo I.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_011",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 7. Servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la soluci\u00F3n p\u00FAblica de facturaci\u00F3\u2026",
+          "text": "Art\u00EDculo 7. Servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\n1. El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago. Podr\u00E1, asimismo, informar de la fecha de recepci\u00F3n de las mercanc\u00EDas o de la prestaci\u00F3n de los servicios, o bien la fecha de recepci\u00F3n de la factura, cuando cualquiera de estas resulte relevante conforme a lo dispuesto en el art\u00EDculo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa espec\u00EDfica que resulte de aplicaci\u00F3n, en los t\u00E9rminos previstos en el art\u00EDculo 12, apartados 1 y 3 del Real Decreto 238/2026, de 25 de marzo.\nTanto en la comunicaci\u00F3n como en la consulta de los estados de la factura y de pago en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumir\u00E1 que son aceptadas.\n2. El emisor de la factura podr\u00E1 comunicar la informaci\u00F3n sobre el cobro o del impago de las facturas, as\u00ED como posibles diferencias respecto a las fechas contenidas en la comunicaci\u00F3n de pago realizada por el destinatario en los t\u00E9rminos previstos en el art\u00EDculo 12.4 de Real Decreto 238/2026, de 25 de marzo.\n3. El contenido de estas comunicaciones ser\u00E1 el previsto en el anexo II de esta orden y la sintaxis a la que deber\u00E1n ajustarse ser\u00E1 UBL con las especificaciones t\u00E9cnicas y volumetr\u00EDa que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.\n4. La obligaci\u00F3n del destinatario de informar sobre el estado de pago de la factura electr\u00F3nica se entender\u00E1 cumplida cuando la propia factura, o su copia fiel, incluya una fecha de pago anterior o coincidente con su fecha de expedici\u00F3n y coincidente con la fecha de la operaci\u00F3n o de devengo. Lo anterior no ser\u00E1 de aplicaci\u00F3n cuando el destinatario comunique expresamente el estado de pago.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_012",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 8. Procedimiento para el uso del servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la \u2026",
+          "text": "Art\u00EDculo 8. Procedimiento para el uso del servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\n1. La informaci\u00F3n asociada al estado y pago de la factura prevista en el art\u00EDculo 7 podr\u00E1 remitirse a trav\u00E9s de una de las siguientes formas:\na) Mediante los servicios web.\nb) Mediante la utilizaci\u00F3n del formulario de comunicaci\u00F3n de estados de la factura y de pago. Se habilitar\u00E1 la remisi\u00F3n de la informaci\u00F3n de forma individual por cada factura y ofrecer\u00E1 las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo.\nEstos servicios de env\u00EDo estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.\n2. En el supuesto previsto en el apartado 1.a), ser\u00E1 necesaria la previa identificaci\u00F3n de la factura con su codificaci\u00F3n \u00FAnica de acuerdo a lo previsto en el art\u00EDculo 6.\n3. La Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 un mensaje de respuesta que contendr\u00E1 la relaci\u00F3n de comunicaciones de estados y de pagos admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo por el que han sido calificados de este modo.\nEn el caso de que se utilice el formulario web previsto en el apartado 1.b), la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual por cada comunicaci\u00F3n.\nTras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente.\n4. En aquellos supuestos en que, por razones de car\u00E1cter t\u00E9cnico imputables a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, no fuera posible su utilizaci\u00F3n por un periodo superior a veinticuatro horas, la remisi\u00F3n de la informaci\u00F3n asociada al estado y pago de las facturas podr\u00E1 realizarse durante los cuatro d\u00EDas h\u00E1biles siguientes a la subsanaci\u00F3n de la incidencia t\u00E9cnica.\n5. En los casos en los que la comunicaci\u00F3n resultase ser improcedente o err\u00F3nea por no corresponderse con la informaci\u00F3n suministrada, se podr\u00E1 anular en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, quedando en todo caso trazabilidad de la citada anulaci\u00F3n. El mensaje de anulaci\u00F3n se ajustar\u00E1 al contenido previsto en el anexo II.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_013",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 9. Servicio de recuperaci\u00F3n de facturas de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "text": "Art\u00EDculo 9. Servicio de recuperaci\u00F3n de facturas de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\n1. De acuerdo con lo dispuesto en el art\u00EDculo 8.2 del Real Decreto 238/2026, de 25 de marzo, las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica estar\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados, cumpliendo con los requisitos de representaci\u00F3n e identificaci\u00F3n previstos en el art\u00EDculo 11.\n2. Las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes y, una vez recuperadas, ponerlas a su disposici\u00F3n de forma inmediata, a los efectos del cumplimiento de sus obligaciones de conservaci\u00F3n. Las caracter\u00EDsticas de este acceso ser\u00E1n las que se determinen en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.\n3. El destinatario de las facturas podr\u00E1 recuperar en cualquier momento sus facturas recibidas, directamente o a trav\u00E9s de un acceso automatizado a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_014",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 10. Servicios de consulta y descarga de facturas, copias fieles y estados de las facturas y de pagos.",
+          "text": "Art\u00EDculo 10. Servicios de consulta y descarga de facturas, copias fieles y estados de las facturas y de pagos.\n1. Los emisores, destinatarios y, en su caso, terceros que hayan emitido en nombre del emisor, podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles, a trav\u00E9s de una de las siguientes formas:\na) Mediante los servicios web.\nb) Mediante la utilizaci\u00F3n del formulario.\n2. Los emisores y destinatarios de las facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas a trav\u00E9s de una de las siguientes formas:\na) Mediante los servicios web.\nb) Mediante la utilizaci\u00F3n del formulario.\n3. Las condiciones t\u00E9cnicas de estos accesos ser\u00E1n las previstas en la Sede Electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_015",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Art\u00EDculo 11. Formas de autenticaci\u00F3n, identificaci\u00F3n y representaci\u00F3n para acceder a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n \u2026",
+          "text": "Art\u00EDculo 11. Formas de autenticaci\u00F3n, identificaci\u00F3n y representaci\u00F3n para acceder a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\n1. La utilizaci\u00F3n de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica requerir\u00E1 la autenticaci\u00F3n e identificaci\u00F3n electr\u00F3nica del remitente mediante el uso de los certificados electr\u00F3nicos v\u00E1lidos en cada momento en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria. Adem\u00E1s, dichos certificados electr\u00F3nicos deber\u00E1n ajustarse a las condiciones que se establezcan en la normativa vigente en cada momento en relaci\u00F3n con los atributos m\u00EDnimos que deben incluir los certificados electr\u00F3nicos cualificados y los mecanismos que permiten verificar su vigencia y contenido en el \u00E1mbito de las Administraciones P\u00FAblicas.\nEn el caso de que se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas, de comunicaci\u00F3n de estados de la factura y pagos, o de consulta de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, el remitente podr\u00E1 utilizar tambi\u00E9n como medio de autenticaci\u00F3n e identificaci\u00F3n el sistema Cl@ve, regulado en la Orden PRE/1838/2014, de 8 de octubre, por la que se publica el Acuerdo de Consejo de Ministros, de 19 de septiembre de 2014, por el que se aprueba Cl@ve, la plataforma com\u00FAn del Sector P\u00FAblico Administrativo Estatal para la identificaci\u00F3n, autenticaci\u00F3n y firma electr\u00F3nica mediante el uso de claves concertadas.\n2. La soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1 ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura o por un tercero que act\u00FAe en su representaci\u00F3n, de acuerdo con lo establecido en los art\u00EDculos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gesti\u00F3n e inspecci\u00F3n tributaria y de desarrollo de las normas comunes de los procedimientos de aplicaci\u00F3n de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podr\u00E1 hacerse efectiva la colaboraci\u00F3n social en la gesti\u00F3n de los tributos, y se extiende \u00E9sta expresamente a la presentaci\u00F3n telem\u00E1tica de determinados modelos de declaraci\u00F3n y otros documentos tributarios.\nEn el caso de que se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas por un tercero en nombre del empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura, o el formulario de comunicaci\u00F3n de estados de las facturas y de pagos, este tercero deber\u00E1 ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria regulado por la Resoluci\u00F3n de 18 de mayo de 2010, de la Direcci\u00F3n General de la Agencia Estatal de Administraci\u00F3n Tributaria, en relaci\u00F3n con el registro y gesti\u00F3n de apoderamientos y el registro y gesti\u00F3n de las sucesiones y de las representaciones legales de menores e incapacitados para la realizaci\u00F3n de tr\u00E1mites y actuaciones por Internet ante la Agencia Tributaria.\nTambi\u00E9n ser\u00E1 necesario que el tercero est\u00E9 apoderado en los t\u00E9rminos del p\u00E1rrafo anterior, para acceder al servicio de recuperaci\u00F3n de facturas recibidas previsto en el art\u00EDculo 9, bien sea directamente o a trav\u00E9s de un acceso automatizado, y para acceder a los servicios de consulta previstos en el art\u00EDculo 10, bien sea mediante servicio web como mediante formulario.\nLos servicios de emisi\u00F3n y de interconexi\u00F3n de facturas electr\u00F3nicas, de remisi\u00F3n de copias fieles, de recuperaci\u00F3n de facturas, de consulta de facturas y copias fieles, y de comunicaci\u00F3n de estados de la factura y pagos a la soluci\u00F3n p\u00FAblica, tanto en la forma de servicio web como en la de formulario, se ajustar\u00E1n a lo previsto en la presente orden y a las especificaciones, condiciones t\u00E9cnicas y volumetr\u00EDa previstos en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_016",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Disposici\u00F3n adicional primera. Protecci\u00F3n de datos personales y seguridad de la informaci\u00F3n.",
+          "text": "Disposici\u00F3n adicional primera. Protecci\u00F3n de datos personales y seguridad de la informaci\u00F3n.\n1. La totalidad de las actuaciones reguladas en esta orden se llevar\u00E1n a cabo con el debido respeto a lo establecido en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, y en la Ley Org\u00E1nica 3/2018, de 5 de diciembre, de Protecci\u00F3n de Datos Personales y garant\u00EDa de los derechos digitales, as\u00ED como en la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre, y en el resto de la normativa aplicable en la materia.\nLos tratamientos de datos personales efectuados al amparo de esta orden se ajustar\u00E1n a los principios relativos al tratamiento establecidos en el art\u00EDculo 5 del Reglamento (UE) 2016/679, en particular a los de licitud, lealtad, transparencia, limitaci\u00F3n de la finalidad, minimizaci\u00F3n de datos, exactitud, limitaci\u00F3n del plazo de conservaci\u00F3n e integridad y confidencialidad.\nAsimismo, los responsables de los tratamientos adoptar\u00E1n las medidas t\u00E9cnicas y organizativas apropiadas previstas en el art\u00EDculo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo, incluida la protecci\u00F3n contra el tratamiento no autorizado o il\u00EDcito y contra su p\u00E9rdida, destrucci\u00F3n o da\u00F1o accidental.\n2. Los sistemas de informaci\u00F3n que soportan la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1n cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo, de acuerdo con su categorizaci\u00F3n y con el correspondiente an\u00E1lisis de riesgos.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_017",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Disposici\u00F3n adicional segunda. Puesta en funcionamiento de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "text": "Disposici\u00F3n adicional segunda. Puesta en funcionamiento de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nLa soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1 estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electr\u00F3nicas al menos dos meses antes de la primera aplicaci\u00F3n efectiva de esta orden, de acuerdo con la disposici\u00F3n final \u00FAnica.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        },
+        {
+          "id": "BOE-A-2026-20587_018",
+          "documentId": "BOE-A-2026-20587",
+          "documentTitle": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, de acuerdo con lo dispuesto en la disposici\u00F3n final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturaci\u00F3n electr\u00F3nica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "label": "Disposici\u00F3n final \u00FAnica. Entrada en vigor y producci\u00F3n de efectos.",
+          "text": "Disposici\u00F3n final \u00FAnica. Entrada en vigor y producci\u00F3n de efectos.\nEsta orden entrar\u00E1 en vigor el d\u00EDa siguiente al de su publicaci\u00F3n en el \u00ABBolet\u00EDn Oficial del Estado\u00BB, d\u00E1ndose inicio al c\u00F3mputo de los plazos previstos en la disposici\u00F3n final octava de la Ley 18/2022, de 28 de septiembre, de creaci\u00F3n y crecimiento de empresas, y en las disposiciones transitorias primera a tercera y disposici\u00F3n final cuarta, del Real Decreto 238/2026, de 25 de marzo.\nMadrid, 2 de octubre de 2026.\u2013El Ministro de Hacienda, Arcadi Espa\u00F1a Garc\u00EDa.",
+          "publishedOn": "2026-10-05",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20587"
+        }
+      ]
+    },
+    "status": "AwaitingHumanApproval",
+    "analysis": {
+      "summary": "Este fragmento regula los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica prevista en el Real Decreto 238/2026.\nEste fragmento regula el \u00E1mbito de aplicaci\u00F3n y las definiciones de la Orden HAC/1028/2026 sobre la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula los requisitos t\u00E9cnicos y de contenido de las facturas electr\u00F3nicas emitidas o interconectadas mediante la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, as\u00ED como su disponibilidad, baja y restricciones sobre ficheros embebidos.\nEste fragmento regula los elementos t\u00E9cnicos y requisitos de las copias fieles de facturas electr\u00F3nicas que deben enviarse a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula el procedimiento para el uso de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de emisi\u00F3n, interconexi\u00F3n y remisi\u00F3n de copias fieles de facturas electr\u00F3nicas.\nEste fragmento regula la definici\u00F3n y composici\u00F3n del c\u00F3digo \u00FAnico de las facturas electr\u00F3nicas en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula el servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, estableciendo obligaciones y facultades para destinatarios y emisores, as\u00ED como los requisitos t\u00E9cnicos y condiciones para el cumplimiento de dichas obligaciones.\nEste fragmento regula el procedimiento para el uso del servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula el servicio de recuperaci\u00F3n de facturas electr\u00F3nicas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, estableciendo obligaciones para plataformas privadas y derechos para destinatarios.\nEste fragmento regula los servicios de consulta y descarga de facturas electr\u00F3nicas, copias fieles y estados de las facturas y de pagos en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula las formas de autenticaci\u00F3n, identificaci\u00F3n y representaci\u00F3n para acceder a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula la protecci\u00F3n de datos personales y la seguridad de la informaci\u00F3n en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.\nEste fragmento regula el plazo m\u00EDnimo de disponibilidad de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para empresarios y profesionales obligados a emitir y recibir facturas electr\u00F3nicas.\nEste fragmento regula la entrada en vigor de la Orden HAC/1028/2026 y el inicio del c\u00F3mputo de plazos para la facturaci\u00F3n electr\u00F3nica obligatoria.",
+      "affectedArticles": [
+        "Art\u00EDculo 1. Objeto.",
+        "Art\u00EDculo 2. \u00C1mbito de aplicaci\u00F3n y definiciones.",
+        "Art\u00EDculo 3. Contenido y elementos t\u00E9cnicos de los servicios de emisi\u00F3n de facturas y de interconexi\u00F3n de la soluci\u00F3n p\u00FAb\u2026",
+        "Art\u00EDculo 4. Elementos t\u00E9cnicos de la copia fiel enviada a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+        "Art\u00EDculo 5. Procedimiento para el uso de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de emisi\u00F3n o intercon\u2026",
+        "Art\u00EDculo 6. Codificaci\u00F3n \u00FAnica de las facturas electr\u00F3nicas en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica e inserci\u00F3\u2026",
+        "Art\u00EDculo 7. Servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la soluci\u00F3n p\u00FAblica de facturaci\u00F3\u2026",
+        "Art\u00EDculo 8. Procedimiento para el uso del servicio electr\u00F3nico de comunicaci\u00F3n de estados de la factura y de pagos a la \u2026",
+        "Art\u00EDculo 9. Servicio de recuperaci\u00F3n de facturas de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+        "Art\u00EDculo 10. Servicios de consulta y descarga de facturas, copias fieles y estados de las facturas y de pagos.",
+        "Art\u00EDculo 11. Formas de autenticaci\u00F3n, identificaci\u00F3n y representaci\u00F3n para acceder a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n \u2026",
+        "Disposici\u00F3n adicional primera. Protecci\u00F3n de datos personales y seguridad de la informaci\u00F3n.",
+        "Disposici\u00F3n adicional segunda. Puesta en funcionamiento de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+        "Disposici\u00F3n final \u00FAnica. Entrada en vigor y producci\u00F3n de efectos."
+      ],
+      "citations": [
+        "BOE-A-2026-20587_005",
+        "BOE-A-2026-20587_006",
+        "BOE-A-2026-20587_007",
+        "BOE-A-2026-20587_008",
+        "BOE-A-2026-20587_009",
+        "BOE-A-2026-20587_010",
+        "BOE-A-2026-20587_011",
+        "BOE-A-2026-20587_012",
+        "BOE-A-2026-20587_013",
+        "BOE-A-2026-20587_014",
+        "BOE-A-2026-20587_015",
+        "BOE-A-2026-20587_016",
+        "BOE-A-2026-20587_017",
+        "BOE-A-2026-20587_018"
+      ],
+      "claims": [
+        {
+          "text": "La presente orden regula los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica previstos en la disposici\u00F3n final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_005"
+          ]
+        },
+        {
+          "text": "La regulaci\u00F3n de los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se realiza de acuerdo con el art\u00EDculo 2 bis de la Ley 56/2007, de 28 de diciembre, de Medidas de Impulso de la Sociedad de la Informaci\u00F3n.",
+          "citations": [
+            "BOE-A-2026-20587_005"
+          ]
+        },
+        {
+          "text": "El \u00E1mbito de aplicaci\u00F3n de la Orden HAC/1028/2026 ser\u00E1 el que se establece en el art\u00EDculo 3 del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_006"
+          ]
+        },
+        {
+          "text": "El \u00E1mbito de aplicaci\u00F3n de la Orden HAC/1028/2026 se aplicar\u00E1 sin perjuicio de las excepciones o particularidades previstas en el art\u00EDculo 4 y disposici\u00F3n adicional segunda del Real Decreto 238/2026, de 25 de marzo, y en el apartado s\u00E9ptimo de la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.",
+          "citations": [
+            "BOE-A-2026-20587_006"
+          ]
+        },
+        {
+          "text": "Los t\u00E9rminos utilizados en la Orden HAC/1028/2026 se ajustar\u00E1n a las definiciones previstas en el art\u00EDculo 2 del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_006"
+          ]
+        },
+        {
+          "text": "Las facturas electr\u00F3nicas emitidas o interconectadas usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se deber\u00E1n ajustar al modelo sem\u00E1ntico de datos EN16931 del Comit\u00E9 Europeo de Normalizaci\u00F3n bajo la sintaxis UBL (Universal Business Language).",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Las especificaciones t\u00E9cnicas y volumetr\u00EDa de las facturas electr\u00F3nicas emitidas o interconectadas usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de emisi\u00F3n o generaci\u00F3n de facturas, el contenido de la factura electr\u00F3nica se ajustar\u00E1 a los elementos definidos en el anexo I de esta orden, en los que se concreta el contenido de las facturas de acuerdo a lo previsto en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, la factura electr\u00F3nica contendr\u00E1, como m\u00EDnimo, los elementos definidos en el anexo I de esta orden, en los que se concreta el contenido de las facturas de acuerdo a lo previsto en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Las facturas electr\u00F3nicas interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1n incluir contenido adicional al previsto en el anexo I, siempre que cumpla los requisitos previstos en el apartado primero.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Las facturas electr\u00F3nicas para cuya emisi\u00F3n o interconexi\u00F3n se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica quedan a disposici\u00F3n inmediata de la Administraci\u00F3n.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "No se debe remitir copia fiel de las facturas electr\u00F3nicas emitidas o interconectadas mediante la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "En los casos en los que la factura objeto de emisi\u00F3n o de interconexi\u00F3n resultase ser improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Cuando se d\u00E9 de baja una factura en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica por improcedencia por inexistencia de la operaci\u00F3n, quedar\u00E1 en todo caso trazabilidad de la citada baja.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "El mensaje de baja de una factura en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se ajustar\u00E1 a lo dispuesto en el anexo I.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Las facturas electr\u00F3nicas emitidas o interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "No obstante lo anterior, las facturas electr\u00F3nicas interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1n remitirse junto con la firma electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "text": "Las plataformas, soluciones o sistemas de facturaci\u00F3n que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electr\u00F3nicas que no utilicen la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la emisi\u00F3n o interconexi\u00F3n deben remitir simult\u00E1neamente a su emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL a la citada soluci\u00F3n p\u00FAblica.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Las copias electr\u00F3nicas fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deben quedar marcadas claramente como tales en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Cuando las partes de la operaci\u00F3n hayan optado por el cumplimiento material de la obligaci\u00F3n de expedir factura por el destinatario de la operaci\u00F3n o por terceros, de conformidad con lo previsto en el art\u00EDculo 5 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, la copia fiel deber\u00E1 ser remitida por las plataformas, soluciones o sistemas de facturaci\u00F3n utilizados por el destinatario o tercero.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Cuando la emisi\u00F3n por terceros sea consecuencia de la aplicaci\u00F3n de disposiciones normativas de obligado cumplimiento, la copia fiel deber\u00E1 ser remitida por las plataformas, soluciones o sistemas de facturaci\u00F3n utilizados por el destinatario o tercero.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Las copias fieles deben contener la informaci\u00F3n de los conceptos de las facturas electr\u00F3nicas originales que tengan correspondencia sem\u00E1ntica equivalente y est\u00E9n contemplados en la sintaxis de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Las copias fieles deben cumplir en todo caso con el contenido m\u00EDnimo regulado en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, y ajustarse a los elementos previstos en el anexo I de la Orden HAC/1028/2026.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Las especificaciones t\u00E9cnicas y el tama\u00F1o m\u00E1ximo para las copias fieles ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "La copia fiel de la factura debe identificarse como tal en el elemento o campo denominado \u00ABindicador de copia\u00BB del anexo I de la Orden HAC/1028/2026.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Las copias fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.",
+          "citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de facturaci\u00F3n, la emisi\u00F3n de la factura se realizar\u00E1 mediante la utilizaci\u00F3n del formulario de generaci\u00F3n de facturas electr\u00F3nicas.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "La emisi\u00F3n de facturas electr\u00F3nicas mediante la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se habilitar\u00E1 de forma individual y ofrecer\u00E1 las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Los servicios de emisi\u00F3n de facturas electr\u00F3nicas estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, la interconexi\u00F3n deber\u00E1 realizarse mediante los servicios web habilitados a tal efecto.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "La remisi\u00F3n de las copias fieles deber\u00E1 realizarse a trav\u00E9s del servicio web previsto en el apartado anterior, con la identificaci\u00F3n a que se refiere el art\u00EDculo 4.3 de esta orden para que se trate como una copia fiel.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "En el caso de env\u00EDo a trav\u00E9s del servicio web previsto en los apartados 2 y 3, las facturas electr\u00F3nicas y las copias fieles se someter\u00E1n a un proceso de validaci\u00F3n de la sintaxis, sem\u00E1ntica y especificaciones previstas en los art\u00EDculos 3 y 4, respectivamente.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Tras la validaci\u00F3n de facturas electr\u00F3nicas y copias fieles, la Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 un mensaje de respuesta que contendr\u00E1 la relaci\u00F3n de las facturas o copias fieles admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo por el que han sido calificados de este modo.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Cuando se utilice el formulario web previsto en el apartado 1, la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual para cada factura de forma previa a su emisi\u00F3n.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Tras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que ya conste una copia fiel en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que conste una factura electr\u00F3nica original emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Cuando se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de interconexi\u00F3n y ya se haya remitido una copia fiel de la factura electr\u00F3nica original a la misma, deber\u00E1 procederse con car\u00E1cter previo a la baja de la copia fiel.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Se rechazar\u00E1n las facturas electr\u00F3nicas para las que ya consta una factura electr\u00F3nica original, emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Las facturas electr\u00F3nicas originales y copias fieles se identificar\u00E1n por su c\u00F3digo \u00FAnico, regulado en el art\u00EDculo 6.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "En los casos en los que la factura electr\u00F3nica original resultase ser improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica su copia fiel, quedando en todo caso trazabilidad de la citada baja.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "El mensaje de baja de la copia fiel se ajustar\u00E1 a lo dispuesto en el anexo I.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "Cuando la copia fiel de una factura electr\u00F3nica remitida a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica sea rechazada por no superar las validaciones exigidas por esta orden, dicha copia se entender\u00E1 no admitida en la soluci\u00F3n p\u00FAblica, sin perjuicio de la validez de la factura electr\u00F3nica original que, en su caso, hubiera sido emitida y puesta a disposici\u00F3n de su destinatario a trav\u00E9s de una plataforma privada de intercambio de facturas electr\u00F3nicas.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "En los casos de rechazo de la copia fiel, el obligado a remitir la copia fiel deber\u00E1 subsanar la causa que hubiera motivado el rechazo y efectuar una nueva remisi\u00F3n de la copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, manteniendo en todo caso la correspondencia con la factura electr\u00F3nica original efectivamente emitida.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "En los casos en los que el rechazo de la copia fiel se deba a errores sint\u00E1cticos, sem\u00E1nticos o de contenido en la factura electr\u00F3nica original, distintos de aquellos que motivan la rectificaci\u00F3n de facturas prevista en el art\u00EDculo 15 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se deber\u00E1n subsanar los mismos mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta, y remitirse de forma simult\u00E1nea una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "En aquellos supuestos en que, por razones de car\u00E1cter t\u00E9cnico imputables a la soluci\u00F3n p\u00FAblica de factura electr\u00F3nica, no fuera posible su utilizaci\u00F3n por un periodo superior a veinticuatro horas, la remisi\u00F3n de las facturas electr\u00F3nicas y de las copias fieles podr\u00E1 realizarse durante los cuatro d\u00EDas h\u00E1biles siguientes a la subsanaci\u00F3n de la incidencia t\u00E9cnica.",
+          "citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "text": "El c\u00F3digo \u00FAnico de la factura electr\u00F3nica en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica queda definido por la concatenaci\u00F3n del conjunto de valores correspondientes al NIF del emisor, a la serie y n\u00FAmero de la factura y a la fecha de expedici\u00F3n, seg\u00FAn lo especificado en el anexo I.",
+          "citations": [
+            "BOE-A-2026-20587_010"
+          ]
+        },
+        {
+          "text": "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "El destinatario de la factura podr\u00E1 informar de la fecha de recepci\u00F3n de las mercanc\u00EDas o de la prestaci\u00F3n de los servicios, o bien la fecha de recepci\u00F3n de la factura, cuando cualquiera de estas resulte relevante conforme a lo dispuesto en el art\u00EDculo 4 de la Ley 3/2004, de 29 de diciembre, o en la normativa espec\u00EDfica que resulte de aplicaci\u00F3n, en los t\u00E9rminos previstos en el art\u00EDculo 12, apartados 1 y 3 del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "En la comunicaci\u00F3n y consulta de los estados de la factura y de pago en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumir\u00E1 que son aceptadas.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "El emisor de la factura podr\u00E1 comunicar la informaci\u00F3n sobre el cobro o del impago de las facturas, as\u00ED como posibles diferencias respecto a las fechas contenidas en la comunicaci\u00F3n de pago realizada por el destinatario, en los t\u00E9rminos previstos en el art\u00EDculo 12.4 del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "El contenido de las comunicaciones ser\u00E1 el previsto en el anexo II de esta orden.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "La sintaxis a la que deber\u00E1n ajustarse las comunicaciones ser\u00E1 UBL con las especificaciones t\u00E9cnicas y volumetr\u00EDa que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "La obligaci\u00F3n del destinatario de informar sobre el estado de pago de la factura electr\u00F3nica se entender\u00E1 cumplida cuando la propia factura, o su copia fiel, incluya una fecha de pago anterior o coincidente con su fecha de expedici\u00F3n y coincidente con la fecha de la operaci\u00F3n o de devengo.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "La excepci\u00F3n a la afirmaci\u00F3n anterior se da cuando el destinatario comunique expresamente el estado de pago.",
+          "citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "text": "La informaci\u00F3n asociada al estado y pago de la factura prevista en el art\u00EDculo 7 puede remitirse mediante los servicios web.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "La informaci\u00F3n asociada al estado y pago de la factura prevista en el art\u00EDculo 7 puede remitirse mediante la utilizaci\u00F3n del formulario de comunicaci\u00F3n de estados de la factura y de pago, habilitando la remisi\u00F3n de la informaci\u00F3n de forma individual por cada factura y ofreciendo las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "Los servicios de env\u00EDo de informaci\u00F3n sobre estados y pagos de la factura estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "Cuando se utilicen los servicios web para remitir la informaci\u00F3n asociada al estado y pago de la factura, ser\u00E1 necesaria la previa identificaci\u00F3n de la factura con su codificaci\u00F3n \u00FAnica de acuerdo a lo previsto en el art\u00EDculo 6.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "La Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 un mensaje de respuesta que contendr\u00E1 la relaci\u00F3n de comunicaciones de estados y de pagos admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo por el que han sido calificados de este modo.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "Cuando se utilice el formulario web previsto en el apartado 1.b), la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual por cada comunicaci\u00F3n.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "Tras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "En aquellos supuestos en que, por razones de car\u00E1cter t\u00E9cnico imputables a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, no fuera posible su utilizaci\u00F3n por un periodo superior a veinticuatro horas, la remisi\u00F3n de la informaci\u00F3n asociada al estado y pago de las facturas podr\u00E1 realizarse durante los cuatro d\u00EDas h\u00E1biles siguientes a la subsanaci\u00F3n de la incidencia t\u00E9cnica.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "En los casos en los que la comunicaci\u00F3n resultase ser improcedente o err\u00F3nea por no corresponderse con la informaci\u00F3n suministrada, se podr\u00E1 anular en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, quedando en todo caso trazabilidad de la citada anulaci\u00F3n.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "El mensaje de anulaci\u00F3n de una comunicaci\u00F3n improcedente o err\u00F3nea se ajustar\u00E1 al contenido previsto en el anexo II.",
+          "citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "text": "Las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica est\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados, cumpliendo con los requisitos de representaci\u00F3n e identificaci\u00F3n previstos en el art\u00EDculo 11.",
+          "citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "text": "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes.",
+          "citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "text": "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica, una vez recuperadas las facturas recibidas por sus clientes, deber\u00E1n ponerlas a su disposici\u00F3n de forma inmediata, a los efectos del cumplimiento de sus obligaciones de conservaci\u00F3n.",
+          "citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "text": "Las caracter\u00EDsticas del acceso automatizado a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la recuperaci\u00F3n de facturas ser\u00E1n las que se determinen en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "text": "El destinatario de las facturas podr\u00E1 recuperar en cualquier momento sus facturas recibidas, directamente o a trav\u00E9s de un acceso automatizado a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+          "citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "text": "Los emisores de facturas electr\u00F3nicas podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+          "citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "text": "Los destinatarios de facturas electr\u00F3nicas podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+          "citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "text": "Los terceros que hayan emitido facturas electr\u00F3nicas en nombre del emisor podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+          "citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "text": "Los emisores de facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+          "citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "text": "Los destinatarios de facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+          "citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "text": "Las condiciones t\u00E9cnicas de los accesos a los servicios de consulta y descarga ser\u00E1n las previstas en la Sede Electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "text": "La utilizaci\u00F3n de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica requerir\u00E1 la autenticaci\u00F3n e identificaci\u00F3n electr\u00F3nica del remitente mediante el uso de los certificados electr\u00F3nicos v\u00E1lidos en cada momento en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "Los certificados electr\u00F3nicos utilizados para la autenticaci\u00F3n e identificaci\u00F3n en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1n ajustarse a las condiciones establecidas en la normativa vigente en cada momento en relaci\u00F3n con los atributos m\u00EDnimos que deben incluir los certificados electr\u00F3nicos cualificados y los mecanismos que permiten verificar su vigencia y contenido en el \u00E1mbito de las Administraciones P\u00FAblicas.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "Cuando se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas, de comunicaci\u00F3n de estados de la factura y pagos, o de consulta de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, el remitente podr\u00E1 utilizar tambi\u00E9n como medio de autenticaci\u00F3n e identificaci\u00F3n el sistema Cl@ve, regulado en la Orden PRE/1838/2014, de 8 de octubre.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "La soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1 ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura o por un tercero que act\u00FAe en su representaci\u00F3n, de acuerdo con lo establecido en los art\u00EDculos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gesti\u00F3n e inspecci\u00F3n tributaria y de desarrollo de las normas comunes de los procedimientos de aplicaci\u00F3n de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "Cuando se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas por un tercero en nombre del empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura, o el formulario de comunicaci\u00F3n de estados de las facturas y de pagos, este tercero deber\u00E1 ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria regulado por la Resoluci\u00F3n de 18 de mayo de 2010, de la Direcci\u00F3n General de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "Ser\u00E1 necesario que el tercero est\u00E9 apoderado en los t\u00E9rminos del p\u00E1rrafo anterior para acceder al servicio de recuperaci\u00F3n de facturas recibidas previsto en el art\u00EDculo 9, bien sea directamente o a trav\u00E9s de un acceso automatizado, y para acceder a los servicios de consulta previstos en el art\u00EDculo 10, bien sea mediante servicio web como mediante formulario.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "Los servicios de emisi\u00F3n y de interconexi\u00F3n de facturas electr\u00F3nicas, de remisi\u00F3n de copias fieles, de recuperaci\u00F3n de facturas, de consulta de facturas y copias fieles, y de comunicaci\u00F3n de estados de la factura y pagos a la soluci\u00F3n p\u00FAblica, tanto en la forma de servicio web como en la de formulario, se ajustar\u00E1n a lo previsto en la presente orden y a las especificaciones, condiciones t\u00E9cnicas y volumetr\u00EDa previstos en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+          "citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "text": "Todas las actuaciones reguladas en la Orden HAC/1028/2026 se llevar\u00E1n a cabo con respeto a lo establecido en el Reglamento (UE) 2016/679, la Ley Org\u00E1nica 3/2018, la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007 y el resto de la normativa aplicable en materia de protecci\u00F3n de datos personales.",
+          "citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "text": "Los tratamientos de datos personales efectuados al amparo de la Orden HAC/1028/2026 se ajustar\u00E1n a los principios relativos al tratamiento establecidos en el art\u00EDculo 5 del Reglamento (UE) 2016/679, en particular a los de licitud, lealtad, transparencia, limitaci\u00F3n de la finalidad, minimizaci\u00F3n de datos, exactitud, limitaci\u00F3n del plazo de conservaci\u00F3n, integridad y confidencialidad.",
+          "citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "text": "Los responsables de los tratamientos de datos personales adoptar\u00E1n las medidas t\u00E9cnicas y organizativas apropiadas previstas en el art\u00EDculo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo, incluida la protecci\u00F3n contra el tratamiento no autorizado o il\u00EDcito y contra su p\u00E9rdida, destrucci\u00F3n o da\u00F1o accidental.",
+          "citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "text": "Los sistemas de informaci\u00F3n que soportan la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1n cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo, de acuerdo con su categorizaci\u00F3n y con el correspondiente an\u00E1lisis de riesgos.",
+          "citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "text": "La soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1 estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electr\u00F3nicas al menos dos meses antes de la primera aplicaci\u00F3n efectiva de la Orden HAC/1028/2026, de acuerdo con la disposici\u00F3n final \u00FAnica.",
+          "citations": [
+            "BOE-A-2026-20587_017"
+          ]
+        },
+        {
+          "text": "La Orden HAC/1028/2026 entrar\u00E1 en vigor el d\u00EDa siguiente al de su publicaci\u00F3n en el \u00ABBolet\u00EDn Oficial del Estado\u00BB.",
+          "citations": [
+            "BOE-A-2026-20587_018"
+          ]
+        },
+        {
+          "text": "El c\u00F3mputo de los plazos previstos en la disposici\u00F3n final octava de la Ley 18/2022, de 28 de septiembre, de creaci\u00F3n y crecimiento de empresas, se inicia con la entrada en vigor de esta orden.",
+          "citations": [
+            "BOE-A-2026-20587_018"
+          ]
+        },
+        {
+          "text": "El c\u00F3mputo de los plazos previstos en las disposiciones transitorias primera a tercera y disposici\u00F3n final cuarta del Real Decreto 238/2026, de 25 de marzo, se inicia con la entrada en vigor de esta orden.",
+          "citations": [
+            "BOE-A-2026-20587_018"
+          ]
+        }
+      ],
+      "verdicts": [
+        {
+          "claim": {
+            "text": "La presente orden regula los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica previstos en la disposici\u00F3n final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_005"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el objeto de la orden tal como se describe en el art\u00EDculo 1, incluyendo la referencia a los elementos t\u00E9cnicos y funcionales y a la disposici\u00F3n final tercera, apartado 1, del Real Decreto 238/2026."
+        },
+        {
+          "claim": {
+            "text": "La regulaci\u00F3n de los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se realiza de acuerdo con el art\u00EDculo 2 bis de la Ley 56/2007, de 28 de diciembre, de Medidas de Impulso de la Sociedad de la Informaci\u00F3n.",
+            "citations": [
+              "BOE-A-2026-20587_005"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 1 indica expl\u00EDcitamente que la orden regula los elementos t\u00E9cnicos y funcionales de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica de acuerdo con el art\u00EDculo 2 bis de la Ley 56/2007, de 28 de diciembre, por lo que la afirmaci\u00F3n coincide plenamente con el texto citado."
+        },
+        {
+          "claim": {
+            "text": "El \u00E1mbito de aplicaci\u00F3n de la Orden HAC/1028/2026 ser\u00E1 el que se establece en el art\u00EDculo 3 del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_006"
+            ]
+          },
+          "support": "Partial",
+          "reason": "El texto citado indica que el \u00E1mbito de aplicaci\u00F3n ser\u00E1 el establecido en el art\u00EDculo 3 del Real Decreto 238/2026, pero a\u00F1ade que es \u00ABsin perjuicio de las excepciones o particularidades\u00BB de otros preceptos. La afirmaci\u00F3n reproduce solo la primera parte y omite esa matizaci\u00F3n, generalizando m\u00E1s de lo escrito."
+        },
+        {
+          "claim": {
+            "text": "El \u00E1mbito de aplicaci\u00F3n de la Orden HAC/1028/2026 se aplicar\u00E1 sin perjuicio de las excepciones o particularidades previstas en el art\u00EDculo 4 y disposici\u00F3n adicional segunda del Real Decreto 238/2026, de 25 de marzo, y en el apartado s\u00E9ptimo de la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.",
+            "citations": [
+              "BOE-A-2026-20587_006"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 2.1 indica literalmente que el \u00E1mbito de aplicaci\u00F3n de la orden ser\u00E1 el del art\u00EDculo 3 del Real Decreto 238/2026, \u0027sin perjuicio de las excepciones o particularidades previstas en el art\u00EDculo 4 y disposici\u00F3n adicional segunda del mismo real decreto y en el apartado s\u00E9ptimo de la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre\u0027, coincidiendo con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Los t\u00E9rminos utilizados en la Orden HAC/1028/2026 se ajustar\u00E1n a las definiciones previstas en el art\u00EDculo 2 del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_006"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 2 del art\u00EDculo 2 del texto citado, indicando que los t\u00E9rminos de la orden se ajustar\u00E1n a las definiciones del art\u00EDculo 2 del Real Decreto 238/2026."
+        },
+        {
+          "claim": {
+            "text": "Las facturas electr\u00F3nicas emitidas o interconectadas usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se deber\u00E1n ajustar al modelo sem\u00E1ntico de datos EN16931 del Comit\u00E9 Europeo de Normalizaci\u00F3n bajo la sintaxis UBL (Universal Business Language).",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 1 del art\u00EDculo 3 del texto citado, incluyendo el modelo sem\u00E1ntico EN16931 y la sintaxis UBL."
+        },
+        {
+          "claim": {
+            "text": "Las especificaciones t\u00E9cnicas y volumetr\u00EDa de las facturas electr\u00F3nicas emitidas o interconectadas usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El apartado 1 del art\u00EDculo 3 indica literalmente que las especificaciones t\u00E9cnicas y volumetr\u00EDa ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de emisi\u00F3n o generaci\u00F3n de facturas, el contenido de la factura electr\u00F3nica se ajustar\u00E1 a los elementos definidos en el anexo I de esta orden, en los que se concreta el contenido de las facturas de acuerdo a lo previsto en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 2 del art\u00EDculo 3: cuando la soluci\u00F3n p\u00FAblica act\u00FAe como medio de emisi\u00F3n o generaci\u00F3n de facturas, el contenido de la factura electr\u00F3nica se ajustar\u00E1 a los elementos definidos en el anexo I, conforme al Reglamento de obligaciones de facturaci\u00F3n aprobado por el Real Decreto 1619/2012."
+        },
+        {
+          "claim": {
+            "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, la factura electr\u00F3nica contendr\u00E1, como m\u00EDnimo, los elementos definidos en el anexo I de esta orden, en los que se concreta el contenido de las facturas de acuerdo a lo previsto en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 3 del art\u00EDculo 3 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "Las facturas electr\u00F3nicas interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1n incluir contenido adicional al previsto en el anexo I, siempre que cumpla los requisitos previstos en el apartado primero.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Partial",
+          "reason": "El texto permite que las facturas interconectadas incluyan contenido adicional al previsto en el anexo I, pero solo exige que cumpla los requisitos del apartado primero para el contenido adicional de las facturas interconectadas, no dice que sea un requisito general para cualquier contenido adicional; la afirmaci\u00F3n generaliza ese condicionante."
+        },
+        {
+          "claim": {
+            "text": "Las facturas electr\u00F3nicas para cuya emisi\u00F3n o interconexi\u00F3n se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica quedan a disposici\u00F3n inmediata de la Administraci\u00F3n.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 3.4 indica literalmente que las facturas electr\u00F3nicas para cuya emisi\u00F3n o interconexi\u00F3n se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica quedan a disposici\u00F3n inmediata de la Administraci\u00F3n, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "No se debe remitir copia fiel de las facturas electr\u00F3nicas emitidas o interconectadas mediante la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El apartado 4 indica expresamente que las facturas electr\u00F3nicas para cuya emisi\u00F3n o interconexi\u00F3n se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica quedan a disposici\u00F3n inmediata de la Administraci\u00F3n, por lo que no se debe remitir copia fiel de las mismas, coincidiendo literalmente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "En los casos en los que la factura objeto de emisi\u00F3n o de interconexi\u00F3n resultase ser improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica literalmente que cuando la factura emitida o interconectada resulte improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica."
+        },
+        {
+          "claim": {
+            "text": "Cuando se d\u00E9 de baja una factura en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica por improcedencia por inexistencia de la operaci\u00F3n, quedar\u00E1 en todo caso trazabilidad de la citada baja.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expresamente que cuando una factura resulte improcedente por inexistencia de la operaci\u00F3n se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, quedando en todo caso trazabilidad de la citada baja, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "El mensaje de baja de una factura en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se ajustar\u00E1 a lo dispuesto en el anexo I.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El apartado 5 indica expl\u00EDcitamente que el mensaje de baja se ajustar\u00E1 a lo dispuesto en el anexo I, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las facturas electr\u00F3nicas emitidas o interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 6 del art\u00EDculo 3: se indica expresamente que las facturas electr\u00F3nicas emitidas o interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos."
+        },
+        {
+          "claim": {
+            "text": "No obstante lo anterior, las facturas electr\u00F3nicas interconectadas a trav\u00E9s de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1n remitirse junto con la firma electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_007"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el \u00FAltimo p\u00E1rrafo del apartado 6 del art\u00EDculo 3, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "Las plataformas, soluciones o sistemas de facturaci\u00F3n que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electr\u00F3nicas que no utilicen la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la emisi\u00F3n o interconexi\u00F3n deben remitir simult\u00E1neamente a su emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL a la citada soluci\u00F3n p\u00FAblica.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 1 del art\u00EDculo 4 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "Las copias electr\u00F3nicas fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deben quedar marcadas claramente como tales en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expl\u00EDcitamente que las copias electr\u00F3nicas fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica \u0022quedar\u00E1n marcadas claramente como tales en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica\u0022, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando las partes de la operaci\u00F3n hayan optado por el cumplimiento material de la obligaci\u00F3n de expedir factura por el destinatario de la operaci\u00F3n o por terceros, de conformidad con lo previsto en el art\u00EDculo 5 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, la copia fiel deber\u00E1 ser remitida por las plataformas, soluciones o sistemas de facturaci\u00F3n utilizados por el destinatario o tercero.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del segundo p\u00E1rrafo del apartado 1, omitiendo solo la cl\u00E1usula adicional sobre emisi\u00F3n por terceros por disposiciones normativas, sin alterar el sentido de la obligaci\u00F3n principal descrita."
+        },
+        {
+          "claim": {
+            "text": "Cuando la emisi\u00F3n por terceros sea consecuencia de la aplicaci\u00F3n de disposiciones normativas de obligado cumplimiento, la copia fiel deber\u00E1 ser remitida por las plataformas, soluciones o sistemas de facturaci\u00F3n utilizados por el destinatario o tercero.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del segundo p\u00E1rrafo del apartado 1 del art\u00EDculo 4, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "Las copias fieles deben contener la informaci\u00F3n de los conceptos de las facturas electr\u00F3nicas originales que tengan correspondencia sem\u00E1ntica equivalente y est\u00E9n contemplados en la sintaxis de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expresamente que las copias fieles deber\u00E1n contener la informaci\u00F3n de los conceptos de las facturas electr\u00F3nicas originales que tengan correspondencia sem\u00E1ntica equivalente y est\u00E9n contemplados en la sintaxis de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las copias fieles deben cumplir en todo caso con el contenido m\u00EDnimo regulado en el Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, y ajustarse a los elementos previstos en el anexo I de la Orden HAC/1028/2026.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expresamente que las copias fieles deben cumplir en todo caso con el contenido m\u00EDnimo del Reglamento de facturaci\u00F3n aprobado por el Real Decreto 1619/2012 y ajustarse a los elementos previstos en el anexo I de la orden, coincidiendo \u00EDntegramente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las especificaciones t\u00E9cnicas y el tama\u00F1o m\u00E1ximo para las copias fieles ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica expl\u00EDcitamente que las especificaciones t\u00E9cnicas y el tama\u00F1o m\u00E1ximo para las copias fieles ser\u00E1n las que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La copia fiel de la factura debe identificarse como tal en el elemento o campo denominado \u00ABindicador de copia\u00BB del anexo I de la Orden HAC/1028/2026.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 4.3 establece literalmente que la copia fiel de la factura deber\u00E1 identificarse como tal en el elemento o campo denominado \u00ABindicador de copia\u00BB del anexo I de esta orden, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las copias fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.",
+            "citations": [
+              "BOE-A-2026-20587_008"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 4 del art\u00EDculo 4: \u0027Las copias fieles remitidas a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica no podr\u00E1n incorporar otros ficheros integrados o embebidos.\u0027"
+        },
+        {
+          "claim": {
+            "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de facturaci\u00F3n, la emisi\u00F3n de la factura se realizar\u00E1 mediante la utilizaci\u00F3n del formulario de generaci\u00F3n de facturas electr\u00F3nicas.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 5.1 indica expresamente que cuando la soluci\u00F3n p\u00FAblica act\u00FAe como medio de facturaci\u00F3n, la emisi\u00F3n de la factura se realizar\u00E1 mediante la utilizaci\u00F3n del formulario de generaci\u00F3n de facturas electr\u00F3nicas, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La emisi\u00F3n de facturas electr\u00F3nicas mediante la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica se habilitar\u00E1 de forma individual y ofrecer\u00E1 las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica que cuando la soluci\u00F3n p\u00FAblica act\u00FAe como medio de facturaci\u00F3n, la emisi\u00F3n se realizar\u00E1 mediante el formulario de generaci\u00F3n de facturas electr\u00F3nicas, que se habilitar\u00E1 de forma individual y ofrecer\u00E1 las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Los servicios de emisi\u00F3n de facturas electr\u00F3nicas estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expl\u00EDcitamente que los servicios de emisi\u00F3n mediante el formulario de generaci\u00F3n de facturas electr\u00F3nicas estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, coincidiendo con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, la interconexi\u00F3n deber\u00E1 realizarse mediante los servicios web habilitados a tal efecto.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El apartado 2 del art\u00EDculo 5 establece literalmente que cuando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica act\u00FAe como medio de interconexi\u00F3n, esta deber\u00E1 realizarse mediante los servicios web habilitados a tal efecto, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La remisi\u00F3n de las copias fieles deber\u00E1 realizarse a trav\u00E9s del servicio web previsto en el apartado anterior, con la identificaci\u00F3n a que se refiere el art\u00EDculo 4.3 de esta orden para que se trate como una copia fiel.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 3 del art\u00EDculo 5 del texto citado, incluyendo el uso del servicio web del apartado anterior y la referencia a la identificaci\u00F3n del art\u00EDculo 4.3 para que se trate como copia fiel."
+        },
+        {
+          "claim": {
+            "text": "En el caso de env\u00EDo a trav\u00E9s del servicio web previsto en los apartados 2 y 3, las facturas electr\u00F3nicas y las copias fieles se someter\u00E1n a un proceso de validaci\u00F3n de la sintaxis, sem\u00E1ntica y especificaciones previstas en los art\u00EDculos 3 y 4, respectivamente.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 4 del art\u00EDculo 5 del texto citado, incluyendo el \u00E1mbito (env\u00EDo a trav\u00E9s del servicio web de los apartados 2 y 3), los documentos afectados (facturas electr\u00F3nicas y copias fieles) y el tipo de validaci\u00F3n (sintaxis, sem\u00E1ntica y especificaciones de los art\u00EDculos 3 y 4)."
+        },
+        {
+          "claim": {
+            "text": "Tras la validaci\u00F3n de facturas electr\u00F3nicas y copias fieles, la Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 un mensaje de respuesta que contendr\u00E1 la relaci\u00F3n de las facturas o copias fieles admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo por el que han sido calificados de este modo.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica literalmente que tras la validaci\u00F3n la Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 un mensaje de respuesta con la relaci\u00F3n de facturas o copias fieles admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando se utilice el formulario web previsto en el apartado 1, la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual para cada factura de forma previa a su emisi\u00F3n.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el p\u00E1rrafo correspondiente del apartado 4 del art\u00EDculo 5 del texto citado."
+        },
+        {
+          "claim": {
+            "text": "Tras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del \u00FAltimo p\u00E1rrafo del apartado 4 del art\u00EDculo 5, donde se indica que tras el env\u00EDo la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente."
+        },
+        {
+          "claim": {
+            "text": "Se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que ya conste una copia fiel en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica literalmente que se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que ya conste una copia fiel en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que conste una factura electr\u00F3nica original emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expresamente que se rechazar\u00E1n los env\u00EDos de copias fieles de facturas electr\u00F3nicas para las que conste una factura electr\u00F3nica original emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando se utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica como medio de interconexi\u00F3n y ya se haya remitido una copia fiel de la factura electr\u00F3nica original a la misma, deber\u00E1 procederse con car\u00E1cter previo a la baja de la copia fiel.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del p\u00E1rrafo correspondiente del apartado 5 del art\u00EDculo 5, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "Se rechazar\u00E1n las facturas electr\u00F3nicas para las que ya consta una factura electr\u00F3nica original, emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica literalmente que tambi\u00E9n se rechazar\u00E1n las facturas electr\u00F3nicas para las que ya consta una factura electr\u00F3nica original, emitida o intercambiada usando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica."
+        },
+        {
+          "claim": {
+            "text": "Las facturas electr\u00F3nicas originales y copias fieles se identificar\u00E1n por su c\u00F3digo \u00FAnico, regulado en el art\u00EDculo 6.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica expl\u00EDcitamente que, a estos efectos, las facturas electr\u00F3nicas originales y copias fieles se identificar\u00E1n por su c\u00F3digo \u00FAnico, regulado en el art\u00EDculo 6, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "En los casos en los que la factura electr\u00F3nica original resultase ser improcedente por inexistencia de la operaci\u00F3n, se podr\u00E1 dar de baja en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica su copia fiel, quedando en todo caso trazabilidad de la citada baja.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el p\u00E1rrafo correspondiente del apartado 5 del art\u00EDculo 5, incluyendo la condici\u00F3n (improcedencia por inexistencia de la operaci\u00F3n), la posibilidad de dar de baja la copia fiel en la soluci\u00F3n p\u00FAblica y la obligaci\u00F3n de mantener la trazabilidad de dicha baja."
+        },
+        {
+          "claim": {
+            "text": "El mensaje de baja de la copia fiel se ajustar\u00E1 a lo dispuesto en el anexo I.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expresamente que el mensaje de baja se ajustar\u00E1 a lo dispuesto en el anexo I, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando la copia fiel de una factura electr\u00F3nica remitida a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica sea rechazada por no superar las validaciones exigidas por esta orden, dicha copia se entender\u00E1 no admitida en la soluci\u00F3n p\u00FAblica, sin perjuicio de la validez de la factura electr\u00F3nica original que, en su caso, hubiera sido emitida y puesta a disposici\u00F3n de su destinatario a trav\u00E9s de una plataforma privada de intercambio de facturas electr\u00F3nicas.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 6 del art\u00EDculo 5 del texto citado, por lo que est\u00E1 completamente respaldada."
+        },
+        {
+          "claim": {
+            "text": "En los casos de rechazo de la copia fiel, el obligado a remitir la copia fiel deber\u00E1 subsanar la causa que hubiera motivado el rechazo y efectuar una nueva remisi\u00F3n de la copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, manteniendo en todo caso la correspondencia con la factura electr\u00F3nica original efectivamente emitida.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del segundo p\u00E1rrafo del apartado 6 del art\u00EDculo 5, incluyendo la obligaci\u00F3n de subsanar la causa del rechazo, remitir de nuevo la copia fiel y mantener la correspondencia con la factura electr\u00F3nica original efectivamente emitida."
+        },
+        {
+          "claim": {
+            "text": "En los casos en los que el rechazo de la copia fiel se deba a errores sint\u00E1cticos, sem\u00E1nticos o de contenido en la factura electr\u00F3nica original, distintos de aquellos que motivan la rectificaci\u00F3n de facturas prevista en el art\u00EDculo 15 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se deber\u00E1n subsanar los mismos mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta, y remitirse de forma simult\u00E1nea una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del p\u00E1rrafo tercero del apartado 6 del art\u00EDculo 5 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "En aquellos supuestos en que, por razones de car\u00E1cter t\u00E9cnico imputables a la soluci\u00F3n p\u00FAblica de factura electr\u00F3nica, no fuera posible su utilizaci\u00F3n por un periodo superior a veinticuatro horas, la remisi\u00F3n de las facturas electr\u00F3nicas y de las copias fieles podr\u00E1 realizarse durante los cuatro d\u00EDas h\u00E1biles siguientes a la subsanaci\u00F3n de la incidencia t\u00E9cnica.",
+            "citations": [
+              "BOE-A-2026-20587_009"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 7 del art\u00EDculo 5, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "El c\u00F3digo \u00FAnico de la factura electr\u00F3nica en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica queda definido por la concatenaci\u00F3n del conjunto de valores correspondientes al NIF del emisor, a la serie y n\u00FAmero de la factura y a la fecha de expedici\u00F3n, seg\u00FAn lo especificado en el anexo I.",
+            "citations": [
+              "BOE-A-2026-20587_010"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del art\u00EDculo citado, incluyendo los elementos que conforman el c\u00F3digo \u00FAnico y la referencia al anexo I."
+        },
+        {
+          "claim": {
+            "text": "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 1 del art\u00EDculo 7: se indica que el destinatario deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago."
+        },
+        {
+          "claim": {
+            "text": "El destinatario de la factura podr\u00E1 informar de la fecha de recepci\u00F3n de las mercanc\u00EDas o de la prestaci\u00F3n de los servicios, o bien la fecha de recepci\u00F3n de la factura, cuando cualquiera de estas resulte relevante conforme a lo dispuesto en el art\u00EDculo 4 de la Ley 3/2004, de 29 de diciembre, o en la normativa espec\u00EDfica que resulte de aplicaci\u00F3n, en los t\u00E9rminos previstos en el art\u00EDculo 12, apartados 1 y 3 del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo dispuesto en el apartado 1 del art\u00EDculo 7, incluyendo las referencias al art\u00EDculo 4 de la Ley 3/2004 y al art\u00EDculo 12.1 y 3 del Real Decreto 238/2026, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "En la comunicaci\u00F3n y consulta de los estados de la factura y de pago en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumir\u00E1 que son aceptadas.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el segundo p\u00E1rrafo del apartado 1 del art\u00EDculo 7: se indica que, en la comunicaci\u00F3n y consulta de los estados de la factura y de pago, en ausencia de rechazo o factura rectificativa posterior, las facturas se presumir\u00E1 que son aceptadas."
+        },
+        {
+          "claim": {
+            "text": "El emisor de la factura podr\u00E1 comunicar la informaci\u00F3n sobre el cobro o del impago de las facturas, as\u00ED como posibles diferencias respecto a las fechas contenidas en la comunicaci\u00F3n de pago realizada por el destinatario, en los t\u00E9rminos previstos en el art\u00EDculo 12.4 del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 2 del art\u00EDculo 7 del texto citado, incluyendo el sujeto (emisor), el contenido de la comunicaci\u00F3n (cobro, impago y diferencias de fechas) y la referencia al art\u00EDculo 12.4 del Real Decreto 238/2026."
+        },
+        {
+          "claim": {
+            "text": "El contenido de las comunicaciones ser\u00E1 el previsto en el anexo II de esta orden.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 7.3 indica literalmente que el contenido de estas comunicaciones ser\u00E1 el previsto en el anexo II de esta orden, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La sintaxis a la que deber\u00E1n ajustarse las comunicaciones ser\u00E1 UBL con las especificaciones t\u00E9cnicas y volumetr\u00EDa que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 7.3 indica literalmente que la sintaxis a la que deber\u00E1n ajustarse las comunicaciones ser\u00E1 UBL con las especificaciones t\u00E9cnicas y volumetr\u00EDa que consten en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La obligaci\u00F3n del destinatario de informar sobre el estado de pago de la factura electr\u00F3nica se entender\u00E1 cumplida cuando la propia factura, o su copia fiel, incluya una fecha de pago anterior o coincidente con su fecha de expedici\u00F3n y coincidente con la fecha de la operaci\u00F3n o de devengo.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 4 del art\u00EDculo 7 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "La excepci\u00F3n a la afirmaci\u00F3n anterior se da cuando el destinatario comunique expresamente el estado de pago.",
+            "citations": [
+              "BOE-A-2026-20587_011"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica que la obligaci\u00F3n de informar se entiende cumplida en ciertos casos y a\u00F1ade literalmente que lo anterior no ser\u00E1 de aplicaci\u00F3n cuando el destinatario comunique expresamente el estado de pago, lo que coincide con la afirmaci\u00F3n sobre la excepci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La informaci\u00F3n asociada al estado y pago de la factura prevista en el art\u00EDculo 7 puede remitirse mediante los servicios web.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expl\u00EDcitamente que la informaci\u00F3n asociada al estado y pago de la factura prevista en el art\u00EDculo 7 podr\u00E1 remitirse mediante los servicios web, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La informaci\u00F3n asociada al estado y pago de la factura prevista en el art\u00EDculo 7 puede remitirse mediante la utilizaci\u00F3n del formulario de comunicaci\u00F3n de estados de la factura y de pago, habilitando la remisi\u00F3n de la informaci\u00F3n de forma individual por cada factura y ofreciendo las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026, de 25 de marzo.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 1.b) del art\u00EDculo 8: se indica que la informaci\u00F3n puede remitirse mediante el formulario, que este permite la remisi\u00F3n individual por factura y que ofrece las funciones previstas en la disposici\u00F3n adicional primera del Real Decreto 238/2026."
+        },
+        {
+          "claim": {
+            "text": "Los servicios de env\u00EDo de informaci\u00F3n sobre estados y pagos de la factura estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expl\u00EDcitamente que los servicios de env\u00EDo estar\u00E1n habilitados en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando se utilicen los servicios web para remitir la informaci\u00F3n asociada al estado y pago de la factura, ser\u00E1 necesaria la previa identificaci\u00F3n de la factura con su codificaci\u00F3n \u00FAnica de acuerdo a lo previsto en el art\u00EDculo 6.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El apartado 2 del art\u00EDculo 8 establece expresamente que en el supuesto del apartado 1.a) (servicios web) ser\u00E1 necesaria la previa identificaci\u00F3n de la factura con su codificaci\u00F3n \u00FAnica de acuerdo a lo previsto en el art\u00EDculo 6, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "La Agencia Estatal de Administraci\u00F3n Tributaria emitir\u00E1 un mensaje de respuesta que contendr\u00E1 la relaci\u00F3n de comunicaciones de estados y de pagos admitidas o, en su caso, la relaci\u00F3n de los env\u00EDos rechazados con errores junto con la identificaci\u00F3n del motivo por el que han sido calificados de este modo.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo dispuesto en el apartado 3 del art\u00EDculo 8 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "Cuando se utilice el formulario web previsto en el apartado 1.b), la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual por cada comunicaci\u00F3n.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica expl\u00EDcitamente que cuando se utilice el formulario web del apartado 1.b), la respuesta de la Agencia Estatal de Administraci\u00F3n Tributaria se emitir\u00E1 de forma individual por cada comunicaci\u00F3n, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Tras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 3 del art\u00EDculo 8: tras el env\u00EDo, la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica facilitar\u00E1 un acuse de recibo informando del c\u00F3digo seguro de verificaci\u00F3n correspondiente."
+        },
+        {
+          "claim": {
+            "text": "En aquellos supuestos en que, por razones de car\u00E1cter t\u00E9cnico imputables a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, no fuera posible su utilizaci\u00F3n por un periodo superior a veinticuatro horas, la remisi\u00F3n de la informaci\u00F3n asociada al estado y pago de las facturas podr\u00E1 realizarse durante los cuatro d\u00EDas h\u00E1biles siguientes a la subsanaci\u00F3n de la incidencia t\u00E9cnica.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 4 del art\u00EDculo 8 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "En los casos en los que la comunicaci\u00F3n resultase ser improcedente o err\u00F3nea por no corresponderse con la informaci\u00F3n suministrada, se podr\u00E1 anular en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, quedando en todo caso trazabilidad de la citada anulaci\u00F3n.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 5 del art\u00EDculo 8, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "El mensaje de anulaci\u00F3n de una comunicaci\u00F3n improcedente o err\u00F3nea se ajustar\u00E1 al contenido previsto en el anexo II.",
+            "citations": [
+              "BOE-A-2026-20587_012"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica expl\u00EDcitamente que el mensaje de anulaci\u00F3n se ajustar\u00E1 al contenido previsto en el anexo II, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica est\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados, cumpliendo con los requisitos de representaci\u00F3n e identificaci\u00F3n previstos en el art\u00EDculo 11.",
+            "citations": [
+              "BOE-A-2026-20587_013"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 1 del art\u00EDculo 9: se indica que las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica est\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados, cumpliendo los requisitos de representaci\u00F3n e identificaci\u00F3n del art\u00EDculo 11."
+        },
+        {
+          "claim": {
+            "text": "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes.",
+            "citations": [
+              "BOE-A-2026-20587_013"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 9.2 establece literalmente que las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes."
+        },
+        {
+          "claim": {
+            "text": "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica, una vez recuperadas las facturas recibidas por sus clientes, deber\u00E1n ponerlas a su disposici\u00F3n de forma inmediata, a los efectos del cumplimiento de sus obligaciones de conservaci\u00F3n.",
+            "citations": [
+              "BOE-A-2026-20587_013"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 9.2 establece expresamente que las plataformas privadas deber\u00E1n recuperar las facturas recibidas por sus clientes y, una vez recuperadas, ponerlas a su disposici\u00F3n de forma inmediata a los efectos del cumplimiento de sus obligaciones de conservaci\u00F3n, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las caracter\u00EDsticas del acceso automatizado a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la recuperaci\u00F3n de facturas ser\u00E1n las que se determinen en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_013"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto citado indica expl\u00EDcitamente que las caracter\u00EDsticas del acceso ser\u00E1n las que se determinen en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, coincidiendo plenamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "El destinatario de las facturas podr\u00E1 recuperar en cualquier momento sus facturas recibidas, directamente o a trav\u00E9s de un acceso automatizado a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "citations": [
+              "BOE-A-2026-20587_013"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 3 del art\u00EDculo 9, por lo que est\u00E1 completamente respaldada por el texto citado."
+        },
+        {
+          "claim": {
+            "text": "Los emisores de facturas electr\u00F3nicas podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+            "citations": [
+              "BOE-A-2026-20587_014"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 10.1 establece que los emisores podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles mediante los servicios web o mediante la utilizaci\u00F3n del formulario, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Los destinatarios de facturas electr\u00F3nicas podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+            "citations": [
+              "BOE-A-2026-20587_014"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 10.1 indica que los destinatarios podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles mediante los servicios web o mediante la utilizaci\u00F3n del formulario, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Los terceros que hayan emitido facturas electr\u00F3nicas en nombre del emisor podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+            "citations": [
+              "BOE-A-2026-20587_014"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 10.1 establece que los emisores, destinatarios y, en su caso, terceros que hayan emitido en nombre del emisor podr\u00E1n acceder a las facturas electr\u00F3nicas y copias fieles mediante los servicios web o mediante la utilizaci\u00F3n del formulario, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Los emisores de facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+            "citations": [
+              "BOE-A-2026-20587_014"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 10.2 establece que los emisores de las facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas mediante los servicios web o mediante la utilizaci\u00F3n del formulario, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Los destinatarios de facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas a trav\u00E9s de los servicios web o mediante la utilizaci\u00F3n del formulario.",
+            "citations": [
+              "BOE-A-2026-20587_014"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 10.2 establece expl\u00EDcitamente que los destinatarios de las facturas electr\u00F3nicas podr\u00E1n consultar los estados y pagos de las mismas mediante los servicios web o mediante la utilizaci\u00F3n del formulario, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Las condiciones t\u00E9cnicas de los accesos a los servicios de consulta y descarga ser\u00E1n las previstas en la Sede Electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_014"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 10.3 establece literalmente que las condiciones t\u00E9cnicas de estos accesos ser\u00E1n las previstas en la Sede Electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria, lo que coincide con la afirmaci\u00F3n sobre los servicios de consulta y descarga."
+        },
+        {
+          "claim": {
+            "text": "La utilizaci\u00F3n de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica requerir\u00E1 la autenticaci\u00F3n e identificaci\u00F3n electr\u00F3nica del remitente mediante el uso de los certificados electr\u00F3nicos v\u00E1lidos en cada momento en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 1 del art\u00EDculo 11, donde se establece ese requisito de autenticaci\u00F3n e identificaci\u00F3n mediante certificados electr\u00F3nicos v\u00E1lidos en la Sede electr\u00F3nica de la AEAT."
+        },
+        {
+          "claim": {
+            "text": "Los certificados electr\u00F3nicos utilizados para la autenticaci\u00F3n e identificaci\u00F3n en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1n ajustarse a las condiciones establecidas en la normativa vigente en cada momento en relaci\u00F3n con los atributos m\u00EDnimos que deben incluir los certificados electr\u00F3nicos cualificados y los mecanismos que permiten verificar su vigencia y contenido en el \u00E1mbito de las Administraciones P\u00FAblicas.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El art\u00EDculo 11.1 indica expresamente que los certificados electr\u00F3nicos deber\u00E1n ajustarse a las condiciones de la normativa vigente sobre los atributos m\u00EDnimos de los certificados electr\u00F3nicos cualificados y los mecanismos para verificar su vigencia y contenido en el \u00E1mbito de las Administraciones P\u00FAblicas, coincidiendo \u00EDntegramente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "Cuando se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas, de comunicaci\u00F3n de estados de la factura y pagos, o de consulta de la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, el remitente podr\u00E1 utilizar tambi\u00E9n como medio de autenticaci\u00F3n e identificaci\u00F3n el sistema Cl@ve, regulado en la Orden PRE/1838/2014, de 8 de octubre.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 1 del art\u00EDculo 11 sobre el uso del sistema Cl@ve como medio de autenticaci\u00F3n e identificaci\u00F3n al utilizar los formularios indicados, incluyendo la referencia a la Orden PRE/1838/2014."
+        },
+        {
+          "claim": {
+            "text": "La soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica podr\u00E1 ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura o por un tercero que act\u00FAe en su representaci\u00F3n, de acuerdo con lo establecido en los art\u00EDculos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gesti\u00F3n e inspecci\u00F3n tributaria y de desarrollo de las normas comunes de los procedimientos de aplicaci\u00F3n de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del apartado 2 del art\u00EDculo 11 del texto citado, sin a\u00F1adir ni omitir elementos relevantes."
+        },
+        {
+          "claim": {
+            "text": "Cuando se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas por un tercero en nombre del empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura, o el formulario de comunicaci\u00F3n de estados de las facturas y de pagos, este tercero deber\u00E1 ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria regulado por la Resoluci\u00F3n de 18 de mayo de 2010, de la Direcci\u00F3n General de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del p\u00E1rrafo correspondiente del art\u00EDculo 11.2, incluyendo la condici\u00F3n de que el tercero sea un apoderado inscrito en el Registro de apoderamientos regulado por la Resoluci\u00F3n de 18 de mayo de 2010."
+        },
+        {
+          "claim": {
+            "text": "Ser\u00E1 necesario que el tercero est\u00E9 apoderado en los t\u00E9rminos del p\u00E1rrafo anterior para acceder al servicio de recuperaci\u00F3n de facturas recibidas previsto en el art\u00EDculo 9, bien sea directamente o a trav\u00E9s de un acceso automatizado, y para acceder a los servicios de consulta previstos en el art\u00EDculo 10, bien sea mediante servicio web como mediante formulario.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido del p\u00E1rrafo correspondiente del art\u00EDculo 11, incluyendo la necesidad de apoderamiento, la referencia al art\u00EDculo 9 y 10, y las formas de acceso (directo, automatizado, servicio web y formulario)."
+        },
+        {
+          "claim": {
+            "text": "Los servicios de emisi\u00F3n y de interconexi\u00F3n de facturas electr\u00F3nicas, de remisi\u00F3n de copias fieles, de recuperaci\u00F3n de facturas, de consulta de facturas y copias fieles, y de comunicaci\u00F3n de estados de la factura y pagos a la soluci\u00F3n p\u00FAblica, tanto en la forma de servicio web como en la de formulario, se ajustar\u00E1n a lo previsto en la presente orden y a las especificaciones, condiciones t\u00E9cnicas y volumetr\u00EDa previstos en la Sede electr\u00F3nica de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "citations": [
+              "BOE-A-2026-20587_015"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el \u00FAltimo p\u00E1rrafo del texto citado, por lo que est\u00E1 completamente respaldada por dicho texto."
+        },
+        {
+          "claim": {
+            "text": "Todas las actuaciones reguladas en la Orden HAC/1028/2026 se llevar\u00E1n a cabo con respeto a lo establecido en el Reglamento (UE) 2016/679, la Ley Org\u00E1nica 3/2018, la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007 y el resto de la normativa aplicable en materia de protecci\u00F3n de datos personales.",
+            "citations": [
+              "BOE-A-2026-20587_016"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica que la totalidad de las actuaciones reguladas en la orden se llevar\u00E1n a cabo con el debido respeto al Reglamento (UE) 2016/679, la Ley Org\u00E1nica 3/2018, la disposici\u00F3n adicional vigesimoprimera de la Ley 56/2007 y el resto de la normativa aplicable en la materia, coincidiendo con lo afirmado."
+        },
+        {
+          "claim": {
+            "text": "Los tratamientos de datos personales efectuados al amparo de la Orden HAC/1028/2026 se ajustar\u00E1n a los principios relativos al tratamiento establecidos en el art\u00EDculo 5 del Reglamento (UE) 2016/679, en particular a los de licitud, lealtad, transparencia, limitaci\u00F3n de la finalidad, minimizaci\u00F3n de datos, exactitud, limitaci\u00F3n del plazo de conservaci\u00F3n, integridad y confidencialidad.",
+            "citations": [
+              "BOE-A-2026-20587_016"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo indicado en el texto citado sobre la adecuaci\u00F3n de los tratamientos de datos personales a los principios del art\u00EDculo 5 del Reglamento (UE) 2016/679, incluyendo los principios concretos mencionados."
+        },
+        {
+          "claim": {
+            "text": "Los responsables de los tratamientos de datos personales adoptar\u00E1n las medidas t\u00E9cnicas y organizativas apropiadas previstas en el art\u00EDculo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo, incluida la protecci\u00F3n contra el tratamiento no autorizado o il\u00EDcito y contra su p\u00E9rdida, destrucci\u00F3n o da\u00F1o accidental.",
+            "citations": [
+              "BOE-A-2026-20587_016"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el texto citado sobre la obligaci\u00F3n de los responsables de tratamiento de adoptar las medidas t\u00E9cnicas y organizativas del art\u00EDculo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo, incluyendo la protecci\u00F3n frente a tratamiento no autorizado o il\u00EDcito y frente a p\u00E9rdida, destrucci\u00F3n o da\u00F1o accidental."
+        },
+        {
+          "claim": {
+            "text": "Los sistemas de informaci\u00F3n que soportan la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1n cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo, de acuerdo con su categorizaci\u00F3n y con el correspondiente an\u00E1lisis de riesgos.",
+            "citations": [
+              "BOE-A-2026-20587_016"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente lo establecido en el apartado 2 de la disposici\u00F3n adicional primera, incluyendo la referencia al Esquema Nacional de Seguridad, al Real Decreto 311/2022, a la categorizaci\u00F3n y al an\u00E1lisis de riesgos."
+        },
+        {
+          "claim": {
+            "text": "La soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica deber\u00E1 estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electr\u00F3nicas al menos dos meses antes de la primera aplicaci\u00F3n efectiva de la Orden HAC/1028/2026, de acuerdo con la disposici\u00F3n final \u00FAnica.",
+            "citations": [
+              "BOE-A-2026-20587_017"
+            ]
+          },
+          "support": "Supported",
+          "reason": "La afirmaci\u00F3n reproduce literalmente el contenido de la disposici\u00F3n adicional segunda, incluyendo el plazo de dos meses, los sujetos obligados y la referencia a la disposici\u00F3n final \u00FAnica de la misma orden."
+        },
+        {
+          "claim": {
+            "text": "La Orden HAC/1028/2026 entrar\u00E1 en vigor el d\u00EDa siguiente al de su publicaci\u00F3n en el \u00ABBolet\u00EDn Oficial del Estado\u00BB.",
+            "citations": [
+              "BOE-A-2026-20587_018"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica literalmente que la orden entrar\u00E1 en vigor el d\u00EDa siguiente al de su publicaci\u00F3n en el \u00ABBolet\u00EDn Oficial del Estado\u00BB, coincidiendo exactamente con la afirmaci\u00F3n."
+        },
+        {
+          "claim": {
+            "text": "El c\u00F3mputo de los plazos previstos en la disposici\u00F3n final octava de la Ley 18/2022, de 28 de septiembre, de creaci\u00F3n y crecimiento de empresas, se inicia con la entrada en vigor de esta orden.",
+            "citations": [
+              "BOE-A-2026-20587_018"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto indica que con la entrada en vigor de la orden se da inicio al c\u00F3mputo de los plazos previstos en la disposici\u00F3n final octava de la Ley 18/2022, coincidiendo exactamente con lo afirmado."
+        },
+        {
+          "claim": {
+            "text": "El c\u00F3mputo de los plazos previstos en las disposiciones transitorias primera a tercera y disposici\u00F3n final cuarta del Real Decreto 238/2026, de 25 de marzo, se inicia con la entrada en vigor de esta orden.",
+            "citations": [
+              "BOE-A-2026-20587_018"
+            ]
+          },
+          "support": "Supported",
+          "reason": "El texto establece expl\u00EDcitamente que con la entrada en vigor de la orden se da inicio al c\u00F3mputo de los plazos previstos en las disposiciones transitorias primera a tercera y en la disposici\u00F3n final cuarta del Real Decreto 238/2026, coincidiendo exactamente con lo afirmado."
+        }
+      ],
+      "unsupported": []
+    },
+    "lastVerdict": {
+      "passed": false,
+      "issues": [
+        "[01-politica-de-facturacion_002] dato_inventado: El borrador introduce la cifra \u00AB008\u00BB, que no aparece en el pasaje original, en las obligaciones ni en la norma. (cita: \u00AB008\u00BB)",
+        "[01-politica-de-facturacion_002] dato_inventado: El borrador introduce la cifra \u00AB20587\u00BB, que no aparece en el pasaje original, en las obligaciones ni en la norma. (cita: \u00AB20587\u00BB)",
+        "[01-politica-de-facturacion_002] problema_persiste: El borrador conserva tal cual lo que el pasaje ten\u00EDa de incumplimiento: \u00ABNo se genera ning\u00FAn otro formato de factura ni se remite copia de las facturas a ninguna p\u2026\u00BB. Hay que eliminarlo o cambiarlo. (cita: \u00ABNo se genera ning\u00FAn otro formato de factura ni se remite copia de las facturas a ninguna plataforma, sede o servicio externo.\u00BB)"
+      ],
+      "revision": 3
+    },
+    "revision": 3,
+    "reviewerComment": null,
+    "findings": [
+      {
+        "documentId": "08-acceso-a-la-sede-electronica-de-la-aeat",
+        "documentTitle": "Acceso a la Sede electr\u00F3nica de la Agencia Tributaria",
+        "severity": "High",
+        "rationale": "La gestor\u00EDa act\u00FAa en nombre de la empresa sin estar inscrita como apoderado en el Registro, lo que contradice la obligaci\u00F3n.",
+        "passageId": "08-acceso-a-la-sede-electronica-de-la-aeat_002",
+        "passageLabel": "2. Actuaci\u00F3n de la gestor\u00EDa",
+        "passageQuote": "No tenemos registrada ninguna autorizaci\u00F3n a favor de la gestor\u00EDa en el Registro de apoderamientos de la Agencia Tributaria.",
+        "normCitations": [
+          "BOE-A-2026-20587_015"
+        ],
+        "obligations": [
+          "Cuando se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas por un tercero en nombre del empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura, o el formulario de comunicaci\u00F3n de estados de las facturas y de pagos, este tercero deber\u00E1 ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria regulado por la Resoluci\u00F3n de 18 de mayo de 2010, de la Direcci\u00F3n General de la Agencia Estatal de Administraci\u00F3n Tributaria."
+        ],
+        "suggestedAction": "Registrar una autorizaci\u00F3n a favor de la gestor\u00EDa en el Registro de apoderamientos de la Agencia Tributaria antes de que act\u00FAe en nombre de la empresa.",
+        "passageText": "2. Actuaci\u00F3n de la gestor\u00EDa\nLa gestor\u00EDa \u00ABFiscal Norte\u00BB presenta nuestros modelos tributarios en nombre de la empresa usando el certificado electr\u00F3nico de su propio despacho. A partir del pr\u00F3ximo trimestre la gestor\u00EDa tambi\u00E9n emitir\u00E1 y consultar\u00E1 nuestras facturas electr\u00F3nicas en la Sede, con el mismo sistema. No tenemos registrada ninguna autorizaci\u00F3n a favor de la gestor\u00EDa en el Registro de apoderamientos de la Agencia Tributaria.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "este tercero deber\u00E1 ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria"
+        ]
+      },
+      {
+        "documentId": "03-facturas-rectificativas-errores-y-bajas",
+        "documentTitle": "Facturas rectificativas, errores y bajas",
+        "severity": "High",
+        "rationale": "La obligaci\u00F3n exige trazabilidad de la baja, pero el pasaje afirma que no se deja constancia en ning\u00FAn registro.",
+        "passageId": "03-facturas-rectificativas-errores-y-bajas_002",
+        "passageLabel": "2. Facturas emitidas por error o sin operaci\u00F3n",
+        "passageQuote": "administraci\u00F3n la borra del ERP y reutiliza su n\u00FAmero para la siguiente factura. No se deja constancia en ning\u00FAn registro de que esa factura existi\u00F3.",
+        "normCitations": [
+          "BOE-A-2026-20587_007"
+        ],
+        "obligations": [
+          "Cuando se d\u00E9 de baja una factura en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica por improcedencia por inexistencia de la operaci\u00F3n, quedar\u00E1 en todo caso trazabilidad de la citada baja."
+        ],
+        "suggestedAction": "Modificar el procedimiento para que quede constancia y trazabilidad de la baja de la factura, sin reutilizar el n\u00FAmero.",
+        "passageText": "2. Facturas emitidas por error o sin operaci\u00F3n\nCuando una factura se emite por error o por una operaci\u00F3n que finalmente no se realiza, administraci\u00F3n la borra del ERP y reutiliza su n\u00FAmero para la siguiente factura. No se deja constancia en ning\u00FAn registro de que esa factura existi\u00F3.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "quedar\u00E1 en todo caso trazabilidad de la citada baja"
+        ]
+      },
+      {
+        "documentId": "01-politica-de-facturacion",
+        "documentTitle": "Pol\u00EDtica de facturaci\u00F3n",
+        "severity": "High",
+        "rationale": "La empresa afirma que no remite copia de las facturas a ninguna plataforma, sede o servicio externo, incumpliendo la obligaci\u00F3n de remitir una copia electr\u00F3nica fiel en sintaxis UBL a la soluci\u00F3n p\u00FAblica.",
+        "passageId": "01-politica-de-facturacion_002",
+        "passageLabel": "2. Emisi\u00F3n de facturas",
+        "passageQuote": "No se genera ning\u00FAn otro formato de factura ni se remite copia de las facturas a ninguna plataforma, sede o servicio externo.",
+        "normCitations": [
+          "BOE-A-2026-20587_008"
+        ],
+        "obligations": [
+          "Las plataformas, soluciones o sistemas de facturaci\u00F3n que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electr\u00F3nicas que no utilicen la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la emisi\u00F3n o interconexi\u00F3n deben remitir simult\u00E1neamente a su emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL a la citada soluci\u00F3n p\u00FAblica."
+        ],
+        "suggestedAction": "Modificar el proceso para generar y remitir una copia electr\u00F3nica fiel de cada factura en sintaxis UBL a la soluci\u00F3n p\u00FAblica simult\u00E1neamente a su emisi\u00F3n.",
+        "passageText": "2. Emisi\u00F3n de facturas\nLas facturas se generan en nuestro ERP \u00ABAurora-ERP\u00BB el mismo d\u00EDa de la entrega de la mercanc\u00EDa. El ERP las exporta en formato PDF y administraci\u00F3n las env\u00EDa por correo electr\u00F3nico al cliente. No se genera ning\u00FAn otro formato de factura ni se remite copia de las facturas a ninguna plataforma, sede o servicio externo.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "Las plataformas, soluciones o sistemas de facturaci\u00F3n que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electr\u00F3nicas que no utilicen la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la emisi\u00F3n o interconexi\u00F3n deben remitir simult\u00E1neamente a su emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL a la citada soluci\u00F3n p\u00FAblica."
+        ]
+      },
+      {
+        "documentId": "02-procedimiento-de-conservacion-y-plataformas",
+        "documentTitle": "Procedimiento de conservaci\u00F3n e intercambio de facturas",
+        "severity": "High",
+        "rationale": "La plataforma utilizada por la empresa afirma no recuperar mensajes de factura intercambiados, incumpliendo la obligaci\u00F3n si usara la soluci\u00F3n p\u00FAblica. | La plataforma no automatiza el acceso a la soluci\u00F3n p\u00FAblica ni recupera facturas recibidas, incumpliendo la obligaci\u00F3n si usara la soluci\u00F3n p\u00FAblica.",
+        "passageId": "02-procedimiento-de-conservacion-y-plataformas_004",
+        "passageLabel": "4. Intercambio con grandes clientes",
+        "passageQuote": "Esa plataforma solo transmite el fichero de factura al cliente; no consulta ning\u00FAn servicio p\u00FAblico de facturaci\u00F3n ni recupera ning\u00FAn mensaje de factura intercambiado",
+        "normCitations": [
+          "BOE-A-2026-20587_013"
+        ],
+        "obligations": [
+          "Las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica est\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados, cumpliendo con los requisitos de representaci\u00F3n e identificaci\u00F3n previstos en el art\u00EDculo 11.",
+          "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes."
+        ],
+        "suggestedAction": "La plataforma deber\u00EDa recuperar los mensajes de factura electr\u00F3nica intercambiados cuando utilice la soluci\u00F3n p\u00FAblica. | La plataforma deber\u00EDa automatizar el acceso a la soluci\u00F3n p\u00FAblica para recuperar las facturas recibidas por sus clientes.",
+        "passageText": "4. Intercambio con grandes clientes\nCon nuestros tres mayores clientes intercambiamos las facturas a trav\u00E9s de la plataforma privada \u00ABFacturaNet\u00BB, contratada a un proveedor externo. Esa plataforma solo transmite el fichero de factura al cliente; no consulta ning\u00FAn servicio p\u00FAblico de facturaci\u00F3n ni recupera ning\u00FAn mensaje de factura intercambiado, y nunca hemos revisado c\u00F3mo lo hace.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "Las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica est\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados",
+          "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes."
+        ]
+      },
+      {
+        "documentId": "03-facturas-rectificativas-errores-y-bajas",
+        "documentTitle": "Facturas rectificativas, errores y bajas",
+        "severity": "High",
+        "rationale": "La empresa afirma que corrige el PDF y no emite una nueva factura, contradiciendo la obligaci\u00F3n de emitir una factura electr\u00F3nica original correcta y remitir una copia fiel.",
+        "passageId": "03-facturas-rectificativas-errores-y-bajas_003",
+        "passageLabel": "3. Errores de datos detectados por el cliente",
+        "passageQuote": "administraci\u00F3n corrige el PDF, conserva el mismo n\u00FAmero y se lo reenv\u00EDa al cliente por correo electr\u00F3nico. No se emite una nueva factura.",
+        "normCitations": [
+          "BOE-A-2026-20587_009"
+        ],
+        "obligations": [
+          "En los casos en los que el rechazo de la copia fiel se deba a errores sint\u00E1cticos, sem\u00E1nticos o de contenido en la factura electr\u00F3nica original, distintos de aquellos que motivan la rectificaci\u00F3n de facturas prevista en el art\u00EDculo 15 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se deber\u00E1n subsanar los mismos mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta, y remitirse de forma simult\u00E1nea una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica."
+        ],
+        "suggestedAction": "La empresa debe emitir una nueva factura electr\u00F3nica original correcta y remitir una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+        "passageText": "3. Errores de datos detectados por el cliente\nSi un cliente nos comunica que una factura tiene un dato incorrecto (por ejemplo, una direcci\u00F3n), administraci\u00F3n corrige el PDF, conserva el mismo n\u00FAmero y se lo reenv\u00EDa al cliente por correo electr\u00F3nico. No se emite una nueva factura.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "se deber\u00E1n subsanar los mismos mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta, y remitirse de forma simult\u00E1nea una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica."
+        ]
+      },
+      {
+        "documentId": "09-politica-de-compras-y-aprobacion-de-facturas",
+        "documentTitle": "Pol\u00EDtica de compras y aprobaci\u00F3n de facturas",
+        "severity": "High",
+        "rationale": "La empresa afirma que no informa del rechazo de la factura, contradiciendo la obligaci\u00F3n de informar.",
+        "passageId": "09-politica-de-compras-y-aprobacion-de-facturas_002",
+        "passageLabel": "2. Rechazo de facturas de proveedores",
+        "passageQuote": "No se deja constancia escrita del rechazo ni se comunica a ninguna plataforma o servicio de facturaci\u00F3n.",
+        "normCitations": [
+          "BOE-A-2026-20587_011"
+        ],
+        "obligations": [
+          "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+        ],
+        "suggestedAction": "La empresa debe dejar constancia escrita y comunicar el rechazo de la factura seg\u00FAn lo exige la norma.",
+        "passageText": "2. Rechazo de facturas de proveedores\nCuando el responsable de \u00E1rea no est\u00E1 de acuerdo con una factura de un proveedor, la rechaza llam\u00E1ndole por tel\u00E9fono. No se deja constancia escrita del rechazo ni se comunica a ninguna plataforma o servicio de facturaci\u00F3n.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+        ]
+      },
+      {
+        "documentId": "04-manual-de-cobros-y-pagos",
+        "documentTitle": "Manual de cobros y pagos",
+        "severity": "High",
+        "rationale": "El pasaje afirma expl\u00EDcitamente que la empresa no comunica la informaci\u00F3n que la obligaci\u00F3n exige.",
+        "passageId": "04-manual-de-cobros-y-pagos_002",
+        "passageLabel": "2. Pago a proveedores",
+        "passageQuote": "Administraci\u00F3n no comunica a nadie la fecha en la que paga una factura ni la fecha en la que vence su plazo de pago.",
+        "normCitations": [
+          "BOE-A-2026-20587_011"
+        ],
+        "obligations": [
+          "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+        ],
+        "suggestedAction": "La empresa debe establecer un procedimiento para informar la fecha de pago efectivo y la fecha de vencimiento del plazo de pago de las facturas a los proveedores.",
+        "passageText": "2. Pago a proveedores\nPagamos las facturas de proveedores a 60 d\u00EDas desde la fecha de la factura, mediante transferencia el d\u00EDa 10 del mes siguiente al vencimiento. Administraci\u00F3n no comunica a nadie la fecha en la que paga una factura ni la fecha en la que vence su plazo de pago.",
+        "passageEffect": "incumple",
+        "requirements": [
+          "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "documentId": "08-acceso-a-la-sede-electronica-de-la-aeat",
+        "proposedText": "2. Actuaci\u00F3n de la gestor\u00EDa\nLa gestor\u00EDa \u00ABFiscal Norte\u00BB presenta nuestros modelos tributarios en nombre de la empresa usando el certificado electr\u00F3nico de su propio despacho. A partir del pr\u00F3ximo trimestre la gestor\u00EDa tambi\u00E9n emitir\u00E1 y consultar\u00E1 nuestras facturas electr\u00F3nicas en la Sede, con el mismo sistema. Antes de que la gestor\u00EDa act\u00FAe en nombre de la empresa para la emisi\u00F3n y consulta de facturas electr\u00F3nicas, se deber\u00E1 registrar una autorizaci\u00F3n a favor de la gestor\u00EDa en el Registro de apoderamientos de la Agencia Tributaria.",
+        "justification": "Se elimina la frase que describe la carencia actual y se sustituye por un compromiso de registrar la autorizaci\u00F3n antes de que la gestor\u00EDa act\u00FAe, cumpliendo as\u00ED la obligaci\u00F3n de que el tercero figure inscrito en el Registro de apoderamientos.",
+        "deadline": null,
+        "passageId": "08-acceso-a-la-sede-electronica-de-la-aeat_002",
+        "passageLabel": "2. Actuaci\u00F3n de la gestor\u00EDa",
+        "originalText": "2. Actuaci\u00F3n de la gestor\u00EDa\nLa gestor\u00EDa \u00ABFiscal Norte\u00BB presenta nuestros modelos tributarios en nombre de la empresa usando el certificado electr\u00F3nico de su propio despacho. A partir del pr\u00F3ximo trimestre la gestor\u00EDa tambi\u00E9n emitir\u00E1 y consultar\u00E1 nuestras facturas electr\u00F3nicas en la Sede, con el mismo sistema. No tenemos registrada ninguna autorizaci\u00F3n a favor de la gestor\u00EDa en el Registro de apoderamientos de la Agencia Tributaria.",
+        "normCitations": [
+          "BOE-A-2026-20587_015"
+        ],
+        "coverage": [
+          {
+            "obligation": "Cuando se utilice el formulario de generaci\u00F3n de facturas electr\u00F3nicas por un tercero en nombre del empresario, profesional o sujeto pasivo obligado a la expedici\u00F3n de la factura, o el formulario de comunicaci\u00F3n de estados de las facturas y de pagos, este tercero deber\u00E1 ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria regulado por la Resoluci\u00F3n de 18 de mayo de 2010, de la Direcci\u00F3n General de la Agencia Estatal de Administraci\u00F3n Tributaria.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "Antes de que la gestor\u00EDa act\u00FAe en nombre de la empresa para la emisi\u00F3n y consulta de facturas electr\u00F3nicas, se deber\u00E1 registrar una autorizaci\u00F3n a favor de la gestor\u00EDa en el Registro de apoderamientos de la Agencia Tributaria."
+          }
+        ],
+        "pendingData": []
+      },
+      {
+        "documentId": "03-facturas-rectificativas-errores-y-bajas",
+        "proposedText": "2. Facturas emitidas por error o sin operaci\u00F3n\nCuando una factura se emite por error o por una operaci\u00F3n que finalmente no se realiza, administraci\u00F3n proceder\u00E1 a dar de baja la factura en el sistema, dejando constancia y trazabilidad de la citada baja conforme a lo dispuesto en la Orden HAC/1028/2026. El n\u00FAmero de la factura no ser\u00E1 reutilizado para la siguiente factura. Se conservar\u00E1 en el registro la informaci\u00F3n necesaria para garantizar la trazabilidad de la baja de la factura emitida por error o sin operaci\u00F3n.",
+        "justification": "Se elimina la pr\u00E1ctica de borrar la factura y reutilizar el n\u00FAmero, y se introduce la obligaci\u00F3n de dejar constancia y trazabilidad de la baja, tal como exige la norma. Se a\u00F1ade que el n\u00FAmero no se reutiliza y que se conserva la informaci\u00F3n necesaria para la trazabilidad.",
+        "deadline": null,
+        "passageId": "03-facturas-rectificativas-errores-y-bajas_002",
+        "passageLabel": "2. Facturas emitidas por error o sin operaci\u00F3n",
+        "originalText": "2. Facturas emitidas por error o sin operaci\u00F3n\nCuando una factura se emite por error o por una operaci\u00F3n que finalmente no se realiza, administraci\u00F3n la borra del ERP y reutiliza su n\u00FAmero para la siguiente factura. No se deja constancia en ning\u00FAn registro de que esa factura existi\u00F3.",
+        "normCitations": [
+          "BOE-A-2026-20587_007"
+        ],
+        "coverage": [
+          {
+            "obligation": "Cuando se d\u00E9 de baja una factura en la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica por improcedencia por inexistencia de la operaci\u00F3n, quedar\u00E1 en todo caso trazabilidad de la citada baja.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "administraci\u00F3n proceder\u00E1 a dar de baja la factura en el sistema, dejando constancia y trazabilidad de la citada baja conforme a lo dispuesto en la Orden HAC/1028/2026."
+          }
+        ],
+        "pendingData": []
+      },
+      {
+        "documentId": "01-politica-de-facturacion",
+        "proposedText": "2. Emisi\u00F3n de facturas\nLas facturas se generan en nuestro ERP \u00ABAurora-ERP\u00BB el mismo d\u00EDa de la entrega de la mercanc\u00EDa. El ERP las exporta en formato PDF y administraci\u00F3n las env\u00EDa por correo electr\u00F3nico al cliente. Hasta ahora, no se genera ning\u00FAn otro formato de factura ni se remite copia de las facturas a ninguna plataforma, sede o servicio externo; en adelante, se generar\u00E1 simult\u00E1neamente a la emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL y se remitir\u00E1 a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, conforme a lo dispuesto en BOE-A-2026-20587_008. [COMPLETAR: qui\u00E9n ser\u00E1 responsable de la generaci\u00F3n y remisi\u00F3n de la copia UBL] [COMPLETAR: sistema o procedimiento que realizar\u00E1 la generaci\u00F3n y remisi\u00F3n de la copia UBL]",
+        "justification": "Se ha eliminado la referencia inventada a la Orden HAC/1028/2026 y se ha sustituido por la referencia literal al identificador normativo BOE-A-2026-20587_008. Se ha reescrito la frase problem\u00E1tica como situaci\u00F3n anterior m\u00E1s compromiso, y se ha a\u00F1adido el compromiso de generar y remitir la copia UBL, dejando los datos pendientes de completar.",
+        "deadline": null,
+        "passageId": "01-politica-de-facturacion_002",
+        "passageLabel": "2. Emisi\u00F3n de facturas",
+        "originalText": "2. Emisi\u00F3n de facturas\nLas facturas se generan en nuestro ERP \u00ABAurora-ERP\u00BB el mismo d\u00EDa de la entrega de la mercanc\u00EDa. El ERP las exporta en formato PDF y administraci\u00F3n las env\u00EDa por correo electr\u00F3nico al cliente. No se genera ning\u00FAn otro formato de factura ni se remite copia de las facturas a ninguna plataforma, sede o servicio externo.",
+        "normCitations": [
+          "BOE-A-2026-20587_008"
+        ],
+        "coverage": [
+          {
+            "obligation": "Las plataformas, soluciones o sistemas de facturaci\u00F3n que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electr\u00F3nicas que no utilicen la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para la emisi\u00F3n o interconexi\u00F3n deben remitir simult\u00E1neamente a su emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL a la citada soluci\u00F3n p\u00FAblica.",
+            "howAddressed": "se generar\u00E1 simult\u00E1neamente a la emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL y se remitir\u00E1 a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, conforme a lo dispuesto en BOE-A-2026-20587_008.",
+            "quote": "se generar\u00E1 simult\u00E1neamente a la emisi\u00F3n una copia electr\u00F3nica fiel de cada factura en la sintaxis UBL y se remitir\u00E1 a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, conforme a lo dispuesto en BOE-A-2026-20587_008."
+          }
+        ],
+        "pendingData": [
+          "qui\u00E9n ser\u00E1 responsable de la generaci\u00F3n y remisi\u00F3n de la copia UBL",
+          "sistema o procedimiento que realizar\u00E1 la generaci\u00F3n y remisi\u00F3n de la copia UBL"
+        ]
+      },
+      {
+        "documentId": "02-procedimiento-de-conservacion-y-plataformas",
+        "proposedText": "4. Intercambio con grandes clientes\nCon nuestros tres mayores clientes intercambiamos las facturas a trav\u00E9s de la plataforma privada \u00ABFacturaNet\u00BB, contratada a un proveedor externo. Hasta ahora, esa plataforma solo transmit\u00EDa el fichero de factura al cliente; no consultaba ning\u00FAn servicio p\u00FAblico de facturaci\u00F3n ni recuperaba ning\u00FAn mensaje de factura intercambiado, y nunca hemos revisado c\u00F3mo lo hace. En adelante, la plataforma deber\u00E1 recuperar los mensajes de factura electr\u00F3nica intercambiados cuando utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica. Adem\u00E1s, la plataforma deber\u00E1 automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por nuestros clientes y, una vez recuperadas, ponerlas a su disposici\u00F3n de forma inmediata. [COMPLETAR: qui\u00E9n ser\u00E1 responsable de verificar la implementaci\u00F3n de estos requisitos y cu\u00E1ndo se realizar\u00E1 la revisi\u00F3n]",
+        "justification": "Se elimina la referencia innecesaria al art\u00EDculo 11 y a la Orden HAC/1028/2026, manteniendo solo el compromiso de recuperar los mensajes y automatizar el acceso, conforme a las obligaciones y el alcance aplicable. Se conserva la descripci\u00F3n de la situaci\u00F3n anterior y se a\u00F1ade el compromiso futuro, cumpliendo con el cambio m\u00EDnimo.",
+        "deadline": null,
+        "passageId": "02-procedimiento-de-conservacion-y-plataformas_004",
+        "passageLabel": "4. Intercambio con grandes clientes",
+        "originalText": "4. Intercambio con grandes clientes\nCon nuestros tres mayores clientes intercambiamos las facturas a trav\u00E9s de la plataforma privada \u00ABFacturaNet\u00BB, contratada a un proveedor externo. Esa plataforma solo transmite el fichero de factura al cliente; no consulta ning\u00FAn servicio p\u00FAblico de facturaci\u00F3n ni recupera ning\u00FAn mensaje de factura intercambiado, y nunca hemos revisado c\u00F3mo lo hace.",
+        "normCitations": [
+          "BOE-A-2026-20587_013"
+        ],
+        "coverage": [
+          {
+            "obligation": "Las plataformas privadas que intercambien facturas electr\u00F3nicas utilizando la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica est\u00E1n obligadas a recuperar los mensajes de factura electr\u00F3nica intercambiados, cumpliendo con los requisitos de representaci\u00F3n e identificaci\u00F3n previstos en el art\u00EDculo 11.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "En adelante, la plataforma deber\u00E1 recuperar los mensajes de factura electr\u00F3nica intercambiados cuando utilice la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica."
+          },
+          {
+            "obligation": "Las plataformas privadas de facturaci\u00F3n electr\u00F3nica deber\u00E1n automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por sus clientes.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "Adem\u00E1s, la plataforma deber\u00E1 automatizar el acceso a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica para recuperar las facturas recibidas por nuestros clientes y, una vez recuperadas, ponerlas a su disposici\u00F3n de forma inmediata."
+          }
+        ],
+        "pendingData": [
+          "qui\u00E9n ser\u00E1 responsable de verificar la implementaci\u00F3n de estos requisitos y cu\u00E1ndo se realizar\u00E1 la revisi\u00F3n"
+        ]
+      },
+      {
+        "documentId": "03-facturas-rectificativas-errores-y-bajas",
+        "proposedText": "3. Errores de datos detectados por el cliente\nSi un cliente nos comunica que una factura tiene un dato incorrecto (por ejemplo, una direcci\u00F3n), hasta ahora administraci\u00F3n correg\u00EDa el PDF, conservaba el mismo n\u00FAmero y se lo reenviaba al cliente por correo electr\u00F3nico, sin emitir una nueva factura. En adelante, se deber\u00E1 subsanar el error mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta y, de forma simult\u00E1nea, remitir una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, conforme a lo dispuesto en la Orden HAC/1028/2026. [COMPLETAR: qui\u00E9n ser\u00E1 responsable de emitir la nueva factura y remitir la copia fiel]",
+        "justification": "Se elimina la pr\u00E1ctica de solo corregir el PDF y reenviarlo, y se introduce el compromiso de emitir una nueva factura electr\u00F3nica original correcta y remitir una copia fiel a la soluci\u00F3n p\u00FAblica, tal como exige la norma. Se mantiene la referencia a la situaci\u00F3n anterior para reflejar el cambio de procedimiento.",
+        "deadline": null,
+        "passageId": "03-facturas-rectificativas-errores-y-bajas_003",
+        "passageLabel": "3. Errores de datos detectados por el cliente",
+        "originalText": "3. Errores de datos detectados por el cliente\nSi un cliente nos comunica que una factura tiene un dato incorrecto (por ejemplo, una direcci\u00F3n), administraci\u00F3n corrige el PDF, conserva el mismo n\u00FAmero y se lo reenv\u00EDa al cliente por correo electr\u00F3nico. No se emite una nueva factura.",
+        "normCitations": [
+          "BOE-A-2026-20587_009"
+        ],
+        "coverage": [
+          {
+            "obligation": "En los casos en los que el rechazo de la copia fiel se deba a errores sint\u00E1cticos, sem\u00E1nticos o de contenido en la factura electr\u00F3nica original, distintos de aquellos que motivan la rectificaci\u00F3n de facturas prevista en el art\u00EDculo 15 del Reglamento por el que se regulan las obligaciones de facturaci\u00F3n, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se deber\u00E1n subsanar los mismos mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta, y remitirse de forma simult\u00E1nea una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "En adelante, se deber\u00E1 subsanar el error mediante la emisi\u00F3n de una factura electr\u00F3nica original correcta y, de forma simult\u00E1nea, remitir una copia fiel a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica, conforme a lo dispuesto en la Orden HAC/1028/2026."
+          }
+        ],
+        "pendingData": [
+          "qui\u00E9n ser\u00E1 responsable de emitir la nueva factura y remitir la copia fiel"
+        ]
+      },
+      {
+        "documentId": "09-politica-de-compras-y-aprobacion-de-facturas",
+        "proposedText": "2. Rechazo de facturas de proveedores\nCuando el responsable de \u00E1rea no est\u00E1 de acuerdo con una factura de un proveedor, la rechaza llam\u00E1ndole por tel\u00E9fono. Hasta ahora, no se dejaba constancia escrita del rechazo ni se comunicaba a ninguna plataforma o servicio de facturaci\u00F3n; en adelante, el rechazo de la factura, la fecha del pago efectivo completo de la factura y la fecha de vencimiento del plazo de pago deber\u00E1n ser informados y comunicados a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica conforme a lo dispuesto en la Orden HAC/1028/2026. [COMPLETAR: qui\u00E9n ser\u00E1 responsable de realizar la comunicaci\u00F3n y el procedimiento concreto a seguir].",
+        "justification": "Se ha a\u00F1adido la obligaci\u00F3n de informar y comunicar la fecha del pago efectivo completo y la fecha de vencimiento del plazo de pago, adem\u00E1s del rechazo, para cubrir el alcance completo de la obligaci\u00F3n seg\u00FAn la norma y la incidencia del auditor.",
+        "deadline": null,
+        "passageId": "09-politica-de-compras-y-aprobacion-de-facturas_002",
+        "passageLabel": "2. Rechazo de facturas de proveedores",
+        "originalText": "2. Rechazo de facturas de proveedores\nCuando el responsable de \u00E1rea no est\u00E1 de acuerdo con una factura de un proveedor, la rechaza llam\u00E1ndole por tel\u00E9fono. No se deja constancia escrita del rechazo ni se comunica a ninguna plataforma o servicio de facturaci\u00F3n.",
+        "normCitations": [
+          "BOE-A-2026-20587_011"
+        ],
+        "coverage": [
+          {
+            "obligation": "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "en adelante, el rechazo de la factura, la fecha del pago efectivo completo de la factura y la fecha de vencimiento del plazo de pago deber\u00E1n ser informados y comunicados a la soluci\u00F3n p\u00FAblica de facturaci\u00F3n electr\u00F3nica conforme a lo dispuesto en la Orden HAC/1028/2026."
+          }
+        ],
+        "pendingData": [
+          "qui\u00E9n ser\u00E1 responsable de realizar la comunicaci\u00F3n y el procedimiento concreto a seguir"
+        ]
+      },
+      {
+        "documentId": "04-manual-de-cobros-y-pagos",
+        "proposedText": "2. Pago a proveedores\nPagamos las facturas de proveedores a 60 d\u00EDas desde la fecha de la factura, mediante transferencia el d\u00EDa 10 del mes siguiente al vencimiento. Hasta ahora, Administraci\u00F3n no comunicaba a nadie la fecha en la que paga una factura ni la fecha en la que vence su plazo de pago; en adelante, Administraci\u00F3n deber\u00E1 informar de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago a los proveedores, conforme a lo establecido en la normativa aplicable.",
+        "justification": "Se ha eliminado la afirmaci\u00F3n de que Administraci\u00F3n no comunica las fechas y se ha a\u00F1adido el compromiso de informar tanto la fecha de pago efectivo como la de vencimiento del plazo de pago, cumpliendo as\u00ED la obligaci\u00F3n de la Orden HAC/1028/2026.",
+        "deadline": null,
+        "passageId": "04-manual-de-cobros-y-pagos_002",
+        "passageLabel": "2. Pago a proveedores",
+        "originalText": "2. Pago a proveedores\nPagamos las facturas de proveedores a 60 d\u00EDas desde la fecha de la factura, mediante transferencia el d\u00EDa 10 del mes siguiente al vencimiento. Administraci\u00F3n no comunica a nadie la fecha en la que paga una factura ni la fecha en la que vence su plazo de pago.",
+        "normCitations": [
+          "BOE-A-2026-20587_011"
+        ],
+        "coverage": [
+          {
+            "obligation": "El destinatario de la factura deber\u00E1 informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago.",
+            "howAddressed": "una frase: c\u00F3mo se cumple",
+            "quote": "Administraci\u00F3n deber\u00E1 informar de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago a los proveedores, conforme a lo establecido en la normativa aplicable."
+          }
+        ],
+        "pendingData": []
+      }
+    ],
+    "log": [
+      "2026-10-06T13:38:45.5736881\u002B00:00 | Caso creado",
+      "2026-10-06T13:39:05.9302164\u002B00:00 | Pasa el cribado",
+      "2026-10-06T13:40:35.5769616\u002B00:00 | An\u00E1lisis normativo completado",
+      "2026-10-06T13:41:04.6932497\u002B00:00 | Impacto evaluado: 7 documentos revisados",
+      "2026-10-06T13:41:16.8122065\u002B00:00 | Borrador v1 redactado",
+      "2026-10-06T13:41:24.0302717\u002B00:00 | Auditor\u00EDa pide cambios (4 observaciones)",
+      "2026-10-06T13:41:31.9648296\u002B00:00 | Borrador v2 redactado",
+      "2026-10-06T13:41:38.4727719\u002B00:00 | Auditor\u00EDa pide cambios (2 observaciones)",
+      "2026-10-06T13:41:42.9191529\u002B00:00 | Borrador v3 redactado",
+      "2026-10-06T13:41:48.7932630\u002B00:00 | Auditor\u00EDa no superada tras el m\u00E1ximo de rondas; se escala a una persona"
+    ],
+    "usage": [
+      {
+        "stage": "An\u00E1lisis",
+        "model": "gpt-4.1",
+        "calls": 14,
+        "inputTokens": 47657,
+        "outputTokens": 7662
+      },
+      {
+        "stage": "An\u00E1lisis",
+        "model": "gpt-5.1",
+        "calls": 91,
+        "inputTokens": 99820,
+        "outputTokens": 6714
+      },
+      {
+        "stage": "An\u00E1lisis",
+        "model": "text-embedding-3-small",
+        "calls": 14,
+        "inputTokens": 4730,
+        "outputTokens": 0
+      },
+      {
+        "stage": "Auditor\u00EDa",
+        "model": "gpt-5.1",
+        "calls": 21,
+        "inputTokens": 36393,
+        "outputTokens": 1005
+      },
+      {
+        "stage": "Cribado",
+        "model": "gpt-4.1-mini",
+        "calls": 1,
+        "inputTokens": 1636,
+        "outputTokens": 74
+      },
+      {
+        "stage": "Guardi\u00E1n",
+        "model": "gpt-4.1-mini",
+        "calls": 25,
+        "inputTokens": 37845,
+        "outputTokens": 200
+      },
+      {
+        "stage": "Impacto",
+        "model": "gpt-4.1",
+        "calls": 25,
+        "inputTokens": 30022,
+        "outputTokens": 2102
+      },
+      {
+        "stage": "Impacto",
+        "model": "text-embedding-3-small",
+        "calls": 6,
+        "inputTokens": 5687,
+        "outputTokens": 0
+      },
+      {
+        "stage": "Redacci\u00F3n",
+        "model": "gpt-4.1",
+        "calls": 13,
+        "inputTokens": 26100,
+        "outputTokens": 5022
+      }
+    ]
+  },
+  "expensive": true
+}

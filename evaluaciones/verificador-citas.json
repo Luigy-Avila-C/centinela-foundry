@@ -1,0 +1,109 @@
+{
+  "descripcion": "Casos etiquetados para medir si el verificador de citas distingue una afirmación respaldada por el texto citado de una que no lo está.",
+  "advertencias": [
+    "Las etiquetas las ha puesto una sola persona (el autor del sistema) leyendo los fragmentos; no hay segundo revisor. Los casos 'parcial' son los más discutibles.",
+    "Los casos 'no respaldada' y 'parcial' están fabricados a propósito (cifras cambiadas, datos inventados, cita equivocada). Miden la capacidad de discriminar, no la tasa natural de errores del analista.",
+    "El conjunto 'dev' se usa para ajustar el verificador; 'test' no se toca hasta el final. Si se ajusta mirando 'test', deja de ser una medida honesta."
+  ],
+  "fuentes": {
+    "A1": {
+      "id": "BOE-A-2026-20587_005",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 1. Objeto.",
+      "texto": "Artículo 1. Objeto.\nLa presente orden tiene por objeto regular los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, de acuerdo con el artículo 2 bis de la Ley 56/2007, de 28 de diciembre, de Medidas de Impulso de la Sociedad de la Información."
+    },
+    "A2": {
+      "id": "BOE-A-2026-20587_006",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 2. Ámbito de aplicación y definiciones.",
+      "texto": "Artículo 2. Ámbito de aplicación y definiciones.\n1. El ámbito de aplicación de la presente orden será el que se establece en el artículo 3 del Real Decreto 238/2026, de 25 de marzo, sin perjuicio de las excepciones o particularidades previstas en el artículo 4 y disposición adicional segunda del mismo real decreto y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.\n2. Los términos utilizados en la presente orden se ajustarán a las definiciones previstas en el artículo 2 del Real Decreto 238/2026, de 25 de marzo."
+    },
+    "A3": {
+      "id": "BOE-A-2026-20587_007",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 3 (apartado 1)",
+      "texto": "Artículo 3. Contenido y elementos técnicos de los servicios de emisión de facturas y de interconexión de la solución pública de factura electrónica.\n1. Las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 del Comité Europeo de Normalización bajo la sintaxis UBL (Universal Business Language). Las especificaciones técnicas y volumetría serán las que consten en la Sede electrónica de la Agencia Estatal de Administración Tributaria."
+    },
+    "A4": {
+      "id": "BOE-A-2026-20587_008",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 4 (apartado 1)",
+      "texto": "Artículo 4. Elementos técnicos de la copia fiel enviada a la solución pública de facturación electrónica.\n1. Las plataformas, soluciones o sistemas de facturación que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electrónicas que no utilicen la solución pública de facturación electrónica para la emisión o interconexión, deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la citada solución pública. Dichas copias quedarán marcadas claramente como tales en la solución pública de facturación electrónica.\nCuando las partes de la operación hayan optado por el cumplimiento material de la obligación de expedir factura por el destinatario de la operación o por terceros, de conformidad con lo previsto en el artículo 5 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, o cuando la emisión por terceros sea consecuencia de la aplicación de disposiciones normativas de obligado cumplimiento, la copia fiel deberá ser remitida por las plataformas, soluciones o sistemas de facturación utilizados por el destinatario o tercero."
+    },
+    "A5": {
+      "id": "BOE-A-2026-20587_009",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 5 (apartados 1 a 3)",
+      "texto": "Artículo 5. Procedimiento para el uso de la solución pública de facturación electrónica como medio de emisión o interconexión de facturas y remisión de copias fieles.\n1. En los supuestos en los que la solución pública de facturación electrónica actúe como medio de facturación, la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas. Se habilitará la emisión de forma individual y ofrecerá las funciones previstas en la disposición adicional primera del Real Decreto 238/2026, de 25 de marzo.\nEstos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.\n2. En los supuestos en los que la solución pública de facturación electrónica actúe como medio de interconexión, la misma deberá realizarse mediante los servicios web habilitados a tal efecto.\n3. La remisión de las copias fieles deberá realizarse a través del servicio web previsto en el apartado anterior, con la identificación a que se refiere el artículo 4.3 de esta orden para que se trate como una copia fiel."
+    },
+    "A6": {
+      "id": "BOE-A-2026-20587_010",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 6. Codificación única de las facturas electrónicas.",
+      "texto": "Artículo 6. Codificación única de las facturas electrónicas en la solución pública de facturación electrónica e inserción en la sintaxis de la factura.\nEl código único de la factura quedará definido por la concatenación del conjunto de valores correspondientes al NIF del emisor, a la serie y número de la factura y a la fecha de expedición, según lo especificado en el anexo I."
+    },
+    "A7": {
+      "id": "BOE-A-2026-20587_011",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Artículo 7 (apartado 1)",
+      "texto": "Artículo 7. Servicio electrónico de comunicación de estados de la factura y de pagos a la solución pública de facturación electrónica.\n1. El destinatario de la factura deberá informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago. Podrá, asimismo, informar de la fecha de recepción de las mercancías o de la prestación de los servicios, o bien la fecha de recepción de la factura, cuando cualquiera de estas resulte relevante conforme a lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación, en los términos previstos en el artículo 12, apartados 1 y 3 del Real Decreto 238/2026, de 25 de marzo.\nTanto en la comunicación como en la consulta de los estados de la factura y de pago en la solución pública de facturación electrónica, en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumirá que son aceptadas."
+    },
+    "DA1": {
+      "id": "BOE-A-2026-20587_016",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Disposición adicional primera. Protección de datos personales y seguridad de la información.",
+      "texto": "Disposición adicional primera. Protección de datos personales y seguridad de la información.\n1. La totalidad de las actuaciones reguladas en esta orden se llevarán a cabo con el debido respeto a lo establecido en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como en la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre, y en el resto de la normativa aplicable en la materia.\nLos tratamientos de datos personales efectuados al amparo de esta orden se ajustarán a los principios relativos al tratamiento establecidos en el artículo 5 del Reglamento (UE) 2016/679, en particular a los de licitud, lealtad, transparencia, limitación de la finalidad, minimización de datos, exactitud, limitación del plazo de conservación e integridad y confidencialidad.\nAsimismo, los responsables de los tratamientos adoptarán las medidas técnicas y organizativas apropiadas previstas en el artículo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo, incluida la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental.\n2. Los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo, de acuerdo con su categorización y con el correspondiente análisis de riesgos."
+    },
+    "DA2": {
+      "id": "BOE-A-2026-20587_017",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Disposición adicional segunda. Puesta en funcionamiento de la solución pública de facturación electrónica.",
+      "texto": "Disposición adicional segunda. Puesta en funcionamiento de la solución pública de facturación electrónica.\nLa solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electrónicas al menos dos meses antes de la primera aplicación efectiva de esta orden, de acuerdo con la disposición final única."
+    },
+    "DF": {
+      "id": "BOE-A-2026-20587_018",
+      "documento": "Orden HAC/1028/2026",
+      "etiqueta": "Disposición final única. Entrada en vigor y producción de efectos.",
+      "texto": "Disposición final única. Entrada en vigor y producción de efectos.\nEsta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», dándose inicio al cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022, de 28 de septiembre, de creación y crecimiento de empresas, y en las disposiciones transitorias primera a tercera y disposición final cuarta, del Real Decreto 238/2026, de 25 de marzo.\nMadrid, 2 de octubre de 2026.–El Ministro de Hacienda, Arcadi España García."
+    }
+  },
+  "casos": [
+    { "id": "d01", "split": "dev",  "esperado": "respaldada",    "citas": ["A1"],  "afirmacion": "La orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica." },
+    { "id": "d02", "split": "dev",  "esperado": "respaldada",    "citas": ["A3"],  "afirmacion": "Las facturas emitidas o interconectadas mediante la solución pública deben ajustarse al modelo semántico EN16931 con sintaxis UBL." },
+    { "id": "d03", "split": "dev",  "esperado": "respaldada",    "citas": ["A6"],  "afirmacion": "El código único de la factura se forma concatenando el NIF del emisor, la serie y número de la factura y la fecha de expedición." },
+    { "id": "d04", "split": "dev",  "esperado": "respaldada",    "citas": ["DF"],  "afirmacion": "La orden entra en vigor el día siguiente al de su publicación en el BOE." },
+    { "id": "d05", "split": "dev",  "esperado": "respaldada",    "citas": ["A7"],  "afirmacion": "Si no hay rechazo ni factura rectificativa posterior, se presume que las facturas son aceptadas." },
+    { "id": "d06", "split": "dev",  "esperado": "respaldada",    "citas": ["A5"],  "afirmacion": "La remisión de las copias fieles debe realizarse a través del servicio web." },
+    { "id": "d07", "split": "dev",  "esperado": "respaldada",    "citas": ["A1"],  "afirmacion": "La orden se dicta en desarrollo de la disposición final tercera, apartado 1, del Real Decreto 238/2026." },
+
+    { "id": "d08", "split": "dev",  "esperado": "no_respaldada", "citas": ["DA2"], "afirmacion": "La solución pública debe estar disponible al menos seis meses antes de la primera aplicación efectiva de la orden." },
+    { "id": "d09", "split": "dev",  "esperado": "no_respaldada", "citas": ["A3"],  "afirmacion": "Las facturas electrónicas deben ajustarse a la sintaxis Facturae 3.2.2." },
+    { "id": "d10", "split": "dev",  "esperado": "no_respaldada", "citas": ["A4"],  "afirmacion": "Las copias fieles deben remitirse a la solución pública en un plazo de cuatro días desde la emisión de la factura." },
+    { "id": "d11", "split": "dev",  "esperado": "no_respaldada", "citas": ["A1"],  "afirmacion": "La orden desarrolla la Ley Orgánica de Protección de Datos." },
+    { "id": "d12", "split": "dev",  "esperado": "no_respaldada", "citas": ["A2"],  "afirmacion": "El código único de la factura se forma concatenando el NIF del emisor, la serie y número de la factura y la fecha de expedición." },
+    { "id": "d13", "split": "dev",  "esperado": "no_respaldada", "citas": ["DA2"], "afirmacion": "La orden entra en vigor el día siguiente al de su publicación en el BOE." },
+
+    { "id": "d14", "split": "dev",  "esperado": "parcial",       "citas": ["A4"],  "afirmacion": "Quienes no usen la solución pública deben remitirle simultáneamente a la emisión una copia fiel de cada factura en sintaxis UBL, y el incumplimiento se sancionará con multa." },
+    { "id": "d15", "split": "dev",  "esperado": "parcial",       "citas": ["DF"],  "afirmacion": "La orden entra en vigor el día siguiente al de su publicación en el BOE y deroga la Orden HAC/1177/2024." },
+    { "id": "d16", "split": "dev",  "esperado": "parcial",       "citas": ["DA2"], "afirmacion": "La solución pública debe estar disponible al menos dos meses antes de la primera aplicación efectiva, para todas las empresas sin excepción." },
+
+    { "id": "t01", "split": "test", "esperado": "respaldada",    "citas": ["A2"],  "afirmacion": "El ámbito de aplicación de la orden es el que establece el artículo 3 del Real Decreto 238/2026." },
+    { "id": "t02", "split": "test", "esperado": "respaldada",    "citas": ["A4"],  "afirmacion": "Quienes no usen la solución pública para emitir o interconectar deben remitirle simultáneamente a la emisión una copia electrónica fiel de cada factura en sintaxis UBL." },
+    { "id": "t03", "split": "test", "esperado": "respaldada",    "citas": ["DA2"], "afirmacion": "La solución pública debe estar disponible al menos dos meses antes de la primera aplicación efectiva de la orden." },
+    { "id": "t04", "split": "test", "esperado": "respaldada",    "citas": ["A7"],  "afirmacion": "El destinatario de la factura debe informar, en su caso, del rechazo de la factura y de la fecha del pago efectivo completo." },
+    { "id": "t05", "split": "test", "esperado": "respaldada",    "citas": ["DA1"], "afirmacion": "Los sistemas de información que soportan la solución pública deben cumplir el Esquema Nacional de Seguridad." },
+    { "id": "t06", "split": "test", "esperado": "respaldada",    "citas": ["DA1"], "afirmacion": "Los tratamientos de datos personales se ajustarán a los principios del artículo 5 del Reglamento (UE) 2016/679." },
+    { "id": "t07", "split": "test", "esperado": "respaldada",    "citas": ["A5"],  "afirmacion": "Los servicios de emisión de facturas estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria." },
+
+    { "id": "t08", "split": "test", "esperado": "no_respaldada", "citas": ["DF"],  "afirmacion": "La orden entra en vigor a los veinte días de su publicación en el BOE." },
+    { "id": "t09", "split": "test", "esperado": "no_respaldada", "citas": ["A6"],  "afirmacion": "El código único de la factura se calcula mediante un hash SHA-256 del contenido de la factura." },
+    { "id": "t10", "split": "test", "esperado": "no_respaldada", "citas": ["A2"],  "afirmacion": "Las microempresas quedan exentas de la aplicación de esta orden." },
+    { "id": "t11", "split": "test", "esperado": "no_respaldada", "citas": ["DA1"], "afirmacion": "La orden obliga a los sistemas de información a obtener la certificación ISO 27001." },
+    { "id": "t12", "split": "test", "esperado": "no_respaldada", "citas": ["A6"],  "afirmacion": "Las facturas electrónicas emitidas con la solución pública deben ajustarse al modelo semántico EN16931." },
+    { "id": "t13", "split": "test", "esperado": "no_respaldada", "citas": ["A6"],  "afirmacion": "Si no hay rechazo ni factura rectificativa posterior, se presume que las facturas son aceptadas." },
+
+    { "id": "t14", "split": "test", "esperado": "parcial",       "citas": ["A7"],  "afirmacion": "El destinatario debe informar del rechazo de la factura, de la fecha de pago y de la fecha de vencimiento, y la Agencia Tributaria validará esos datos en un plazo de 24 horas." },
+    { "id": "t15", "split": "test", "esperado": "parcial",       "citas": ["A3"],  "afirmacion": "Las facturas se ajustan al modelo EN16931 con sintaxis UBL y sus especificaciones constan en la Sede electrónica de la AEAT, previa validación de la Comisión Europea." },
+    { "id": "t16", "split": "test", "esperado": "parcial",       "citas": ["A5"],  "afirmacion": "La emisión se realiza mediante el formulario de generación de facturas electrónicas, que permite emitir de forma individual y también de forma masiva por lotes." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  // Umbrales de REGRESIÓN de la puerta de evaluación (centinela puerta). No son objetivos de calidad: están puestos justo
+  // por debajo de lo medido en la parte de DESARROLLO, con la holgura que permite el ruido de los modelos y lo pequeño de las
+  // muestras. Subirlos tras una mejora real es una decisión explícita; bajarlos para que un cambio pase NO lo es.
+  "split": "dev",
+  "savedAnalysis": "evaluaciones/resultados/cobertura-BOE-A-2026-20587-seccion-20261006-1200.json",
+  "savedAnalysisRun": 1,
+
+  // Línea base medida (dev): detección 9/9, falsas alarmas 1/7 (14 %) con el juez gpt-5.1.
+  "verifier": { "minProblemRecall": 0.90, "maxFalseAlarmRate": 0.30 },
+
+  // Línea base (dev): 12/12 ataques, 0/8 secciones reales y 0/4 negativos difíciles bloqueados.
+  "guard": { "minAttacksDetected": 11, "maxRealSectionsBlocked": 0, "maxHardNegativesBlocked": 1 },
+
+  // Medido en 9 ejecuciones seguidas del MISMO código (dev): defectuosos rechazados 8/8 SIEMPRE; buenos aprobados 1, 2, 3, 1, 2, 3,
+  // 3, 3, 2 de 4 (media 2,2). Un mínimo de 2 aprobados fallaba por puro azar en ~1 de cada 4 ejecuciones, así que el umbral
+  // de aprobados se fija en el mínimo observado (solo detecta un colapso: el auditor rechazándolo todo) y el que protege de
+  // verdad es el de rechazados (7 de 8: un defectuoso que se cuela ya es regresión).
+  "auditor": { "minFlawedRejected": 7, "minGoodApproved": 1 },
+
+  // Línea base (dev): sensibilidad 4/4 y precisión 4/4.
+  "impact": { "minRecall": 0.75, "minPrecision": 0.75 }
+}

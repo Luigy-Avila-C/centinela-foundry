@@ -1,0 +1,296 @@
+{
+  "descripcion": "Borradores de corrección (buenos y defectuosos a propósito) de los 7 pasajes afectados de «Distribuciones Aurora, S.L.» (empresa FICTICIA) por la Orden HAC/1028/2026. Sirve para medir si el auditor aprueba lo bueno y rechaza lo malo.",
+  "norma": "BOE-A-2026-20587",
+  "advertencias": [
+    "Los borradores los ha escrito el autor del proyecto, y los defectuosos tienen UN solo fallo, de un tipo conocido, puesto a propósito. Los errores de un redactor real son más sutiles y vienen mezclados: esto mide si el auditor distingue casos claros, no su fiabilidad ante errores reales.",
+    "Los borradores buenos los ha escrito el autor del proyecto y pueden no parecerse a lo que escribiría el redactor automático; que el auditor los apruebe no demuestra que apruebe bien los suyos.",
+    "Hay pocos casos: 7 buenos y 14 defectuosos, solo 3 y 6 en la parte reservada.",
+    "Cada obligación es el texto literal de una afirmación del análisis de la Orden (ejecución 1 de cobertura-BOE-A-2026-20587-seccion-20261006-1200.json)."
+  ],
+  "criterio_fijado_antes_de_medir": {
+    "test": "se rechazan al menos el 80 % de los borradores defectuosos (5 de 6) y se aprueban al menos 2 de los 3 borradores buenos",
+    "ajuste": "como mucho dos iteraciones del auditor mirando solo 'dev'; 'test' se mide una vez"
+  },
+  "hallazgos": {
+    "H1": {
+      "cita_problema": "No se genera ningún otro formato de factura ni se remite copia de las facturas a ninguna plataforma, sede o servicio externo.",
+      "efecto": "incumple",
+      "alcance": null,
+      "split": "dev",
+      "documento": "01-politica-de-facturacion",
+      "seccion": "2. Emisión de facturas",
+      "obligaciones": [
+        "Las plataformas, soluciones o sistemas de facturación que utilicen los empresarios o profesionales obligados a emitir y recibir facturas electrónicas que no utilicen la solución pública de facturación electrónica para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la citada solución pública."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_008"]
+    },
+    "H2": {
+      "cita_problema": "Esa plataforma solo transmite el fichero de factura al cliente; no consulta ningún servicio público de facturación ni recupera ningún mensaje de factura intercambiado, y nunca hemos revisado cómo lo hace.",
+      "efecto": "falta_requisito",
+      "alcance": null,
+      "split": "dev",
+      "documento": "02-procedimiento-de-conservacion-y-plataformas",
+      "seccion": "4. Intercambio con grandes clientes",
+      "obligaciones": [
+        "Cuando las plataformas privadas intercambien facturas electrónicas utilizando la solución pública de facturación electrónica, estarán obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo con los requisitos de representación e identificación previstos en el artículo 11."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_013"]
+    },
+    "H3": {
+      "cita_problema": "administración la borra del ERP y reutiliza su número para la siguiente factura. No se deja constancia en ningún registro de que esa factura existió.",
+      "efecto": "incumple",
+      "alcance": null,
+      "split": "dev",
+      "documento": "03-facturas-rectificativas-errores-y-bajas",
+      "seccion": "2. Facturas emitidas por error o sin operación",
+      "obligaciones": [
+        "Cuando se dé de baja una factura en la solución pública de facturación electrónica por inexistencia de la operación, quedará en todo caso trazabilidad de la citada baja.",
+        "En los casos en los que la factura electrónica original resultase ser improcedente por inexistencia de la operación, se podrá dar de baja en la solución pública de facturación electrónica su copia fiel, quedando en todo caso trazabilidad de la citada baja."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_007", "BOE-A-2026-20587_009"]
+    },
+    "H4": {
+      "cita_problema": "administración corrige el PDF, conserva el mismo número y se lo reenvía al cliente por correo electrónico. No se emite una nueva factura.",
+      "efecto": "incumple",
+      "alcance": ["se deberán subsanar los mismos mediante la emisión de una factura electrónica original correcta, y remitirse de forma simultánea una copia fiel a la solución pública de facturación electrónica"],
+      "split": "dev",
+      "documento": "03-facturas-rectificativas-errores-y-bajas",
+      "seccion": "3. Errores de datos detectados por el cliente",
+      "obligaciones": [
+        "Si el rechazo de la copia fiel se debe a errores sintácticos, semánticos o de contenido en la factura electrónica original, distintos de aquellos que motivan la rectificación de facturas prevista en el artículo 15 del Reglamento por el que se regulan las obligaciones de facturación, se deberán subsanar los mismos mediante la emisión de una factura electrónica original correcta, y remitirse de forma simultánea una copia fiel a la solución pública de facturación electrónica."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_009"]
+    },
+    "H5": {
+      "cita_problema": "Administración no comunica a nadie la fecha en la que paga una factura ni la fecha en la que vence su plazo de pago.",
+      "efecto": "incumple",
+      "alcance": ["de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago"],
+      "split": "test",
+      "documento": "04-manual-de-cobros-y-pagos",
+      "seccion": "2. Pago a proveedores",
+      "obligaciones": [
+        "El destinatario de la factura debe informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_011"]
+    },
+    "H6": {
+      "cita_problema": "No tenemos registrada ninguna autorización a favor de la gestoría en el Registro de apoderamientos de la Agencia Tributaria.",
+      "efecto": "falta_requisito",
+      "alcance": null,
+      "split": "test",
+      "documento": "08-acceso-a-la-sede-electronica-de-la-aeat",
+      "seccion": "2. Actuación de la gestoría",
+      "obligaciones": [
+        "Cuando se utilice el formulario de generación de facturas electrónicas por un tercero en nombre del empresario, profesional o sujeto pasivo obligado a la expedición de la factura, o el formulario de comunicación de estados de las facturas y de pagos, este tercero deberá ser un apoderado que figure inscrito en el Registro de apoderamientos de la Agencia Tributaria regulado por la Resolución de 18 de mayo de 2010, de la Dirección General de la Agencia Estatal de Administración Tributaria.",
+        "Será necesario que el tercero esté apoderado en los términos del párrafo anterior para acceder al servicio de recuperación de facturas recibidas previsto en el artículo 9, bien sea directamente o a través de un acceso automatizado, y para acceder a los servicios de consulta previstos en el artículo 10, bien sea mediante servicio web como mediante formulario."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_015"]
+    },
+    "H7": {
+      "cita_problema": "No se deja constancia escrita del rechazo ni se comunica a ninguna plataforma o servicio de facturación.",
+      "efecto": "incumple",
+      "alcance": ["informar, en su caso, del rechazo de la factura"],
+      "split": "test",
+      "documento": "09-politica-de-compras-y-aprobacion-de-facturas",
+      "seccion": "2. Rechazo de facturas de proveedores",
+      "obligaciones": [
+        "El destinatario de la factura debe informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago."
+      ],
+      "citas_norma": ["BOE-A-2026-20587_011"]
+    }
+  },
+  "borradores": [
+    {
+      "id": "b01", "hallazgo": "H1", "esperado": "aprobar", "defecto": null,
+      "texto": "Las facturas se generan en nuestro ERP «Aurora-ERP» el mismo día de la entrega de la mercancía. El ERP las exporta en formato PDF y administración las envía por correo electrónico al cliente. Simultáneamente a la emisión de cada factura, el ERP generará también una copia electrónica fiel en sintaxis UBL y la remitirá a la solución pública de facturación electrónica [COMPLETAR: cómo se activará esta remisión en el ERP y quién la supervisará].",
+      "cobertura": [{ "obligacion": 1, "como": "Se añade la remisión simultánea de la copia UBL.", "cita": "una copia electrónica fiel en sintaxis UBL" }],
+      "citas_norma": ["BOE-A-2026-20587_008"],
+      "pendiente": ["Cómo se activará la remisión en el ERP y quién la supervisará"],
+      "nota": "Cambio mínimo: se elimina solo la frase que afirmaba lo contrario."
+    },
+    {
+      "id": "b02", "hallazgo": "H1", "esperado": "rechazar", "defecto": "no_cubre",
+      "texto": "Las facturas se generan en nuestro ERP «Aurora-ERP» el mismo día de la entrega de la mercancía. El ERP las exporta en formato PDF y administración las envía por correo electrónico al cliente. Se revisará periódicamente la normativa de facturación electrónica para mantener el procedimiento actualizado.",
+      "cobertura": [{ "obligacion": 1, "como": "Se revisa la normativa.", "cita": "Se revisará periódicamente la normativa de facturación electrónica" }],
+      "citas_norma": ["BOE-A-2026-20587_008"],
+      "pendiente": [],
+      "nota": "Cambio cosmético: no remite ninguna copia UBL; la cobertura que declara es falsa."
+    },
+    {
+      "id": "b03", "hallazgo": "H1", "esperado": "rechazar", "defecto": "dato_inventado",
+      "texto": "Las facturas se generan en nuestro ERP «Aurora-ERP» el mismo día de la entrega de la mercancía. El ERP las exporta en formato PDF y administración las envía por correo electrónico al cliente. Simultáneamente a la emisión de cada factura, el ERP generará también una copia electrónica fiel en sintaxis UBL y la remitirá a la solución pública mediante el conector «FacturaConnect» en un máximo de 15 minutos.",
+      "cobertura": [{ "obligacion": 1, "como": "Se añade la remisión simultánea.", "cita": "una copia electrónica fiel en sintaxis UBL" }],
+      "citas_norma": ["BOE-A-2026-20587_008"],
+      "pendiente": [],
+      "nota": "Cubre la obligación pero inventa un conector y un plazo de 15 minutos."
+    },
+
+    {
+      "id": "b04", "hallazgo": "H2", "esperado": "aprobar", "defecto": null,
+      "texto": "Con nuestros tres mayores clientes intercambiamos las facturas a través de la plataforma privada «FacturaNet», contratada a un proveedor externo. Esa plataforma solo transmite el fichero de factura al cliente; no consulta ningún servicio público de facturación ni recupera ningún mensaje de factura intercambiado, y nunca hemos revisado cómo lo hace. Como las plataformas privadas que intercambian facturas utilizando la solución pública de facturación electrónica están obligadas a recuperar los mensajes de factura intercambiados, cumpliendo los requisitos de representación e identificación del artículo 11, solicitaremos por escrito al proveedor de «FacturaNet» que acredite que su plataforma lo hace [COMPLETAR: fecha límite para obtener la acreditación del proveedor].",
+      "cobertura": [{ "obligacion": 1, "como": "Se reconoce la obligación y se exige acreditación al proveedor.", "cita": "están obligadas a recuperar los mensajes de factura intercambiados" }],
+      "citas_norma": ["BOE-A-2026-20587_013"],
+      "pendiente": ["Fecha límite para obtener la acreditación del proveedor"],
+      "nota": "Conserva todo el original y añade la acción."
+    },
+    {
+      "id": "b05", "hallazgo": "H2", "esperado": "rechazar", "defecto": "no_cubre",
+      "texto": "Con nuestros tres mayores clientes intercambiamos las facturas a través de la plataforma privada «FacturaNet», contratada a un proveedor externo. Esa plataforma solo transmite el fichero de factura al cliente; no consulta ningún servicio público de facturación ni recupera ningún mensaje de factura intercambiado, y nunca hemos revisado cómo lo hace. Incluiremos esta cuestión en la próxima revisión anual de proveedores.",
+      "cobertura": [{ "obligacion": 1, "como": "Se revisará con el proveedor.", "cita": "Incluiremos esta cuestión en la próxima revisión anual de proveedores" }],
+      "citas_norma": ["BOE-A-2026-20587_013"],
+      "pendiente": [],
+      "nota": "No exige ni acredita nada: la cobertura que declara es falsa."
+    },
+    {
+      "id": "b06", "hallazgo": "H2", "esperado": "rechazar", "defecto": "cambio_innecesario",
+      "texto": "La empresa utiliza plataformas externas para intercambiar facturas con sus clientes. Las plataformas privadas que intercambian facturas con la solución pública de facturación electrónica están obligadas a recuperar los mensajes de factura intercambiados, cumpliendo los requisitos del artículo 11.",
+      "cobertura": [{ "obligacion": 1, "como": "Se reconoce la obligación.", "cita": "están obligadas a recuperar los mensajes de factura intercambiados" }],
+      "citas_norma": ["BOE-A-2026-20587_013"],
+      "pendiente": [],
+      "nota": "Reescribe el pasaje entero: pierde FacturaNet, los tres clientes y todo el contexto original."
+    },
+
+    {
+      "id": "b07", "hallazgo": "H3", "esperado": "aprobar", "defecto": null,
+      "texto": "Cuando una factura se emite por error o por una operación que finalmente no se realiza, administración no la borra del ERP ni reutiliza su número: la da de baja en la solución pública de facturación electrónica, de modo que quede en todo caso trazabilidad de la baja, y la conserva en el ERP marcada como baja. Si ya se había remitido una copia fiel de la factura, también se da de baja la copia fiel, quedando en todo caso trazabilidad de la citada baja.",
+      "cobertura": [
+        { "obligacion": 1, "como": "Se da de baja con trazabilidad.", "cita": "quede en todo caso trazabilidad de la baja" },
+        { "obligacion": 2, "como": "Se da de baja también la copia fiel.", "cita": "también se da de baja la copia fiel" }
+      ],
+      "citas_norma": ["BOE-A-2026-20587_007", "BOE-A-2026-20587_009"],
+      "pendiente": [],
+      "nota": "Cumple las dos obligaciones sin inventar ningún dato."
+    },
+    {
+      "id": "b08", "hallazgo": "H3", "esperado": "rechazar", "defecto": "no_cubre",
+      "texto": "Cuando una factura se emite por error o por una operación que finalmente no se realiza, administración la marca en el ERP como «revisar» y reutiliza su número para la siguiente factura.",
+      "cobertura": [
+        { "obligacion": 1, "como": "Se marca la factura.", "cita": "la marca en el ERP como «revisar»" },
+        { "obligacion": 2, "como": "Se gestiona la factura.", "cita": "reutiliza su número para la siguiente factura" }
+      ],
+      "citas_norma": ["BOE-A-2026-20587_007", "BOE-A-2026-20587_009"],
+      "pendiente": [],
+      "nota": "Ni da de baja ni deja trazabilidad, y sigue reutilizando el número; ambas coberturas declaradas son falsas."
+    },
+    {
+      "id": "b09", "hallazgo": "H3", "esperado": "rechazar", "defecto": "dato_inventado",
+      "texto": "Cuando una factura se emite por error o por una operación que finalmente no se realiza, administración no la borra del ERP: la da de baja en la solución pública de facturación electrónica, quedando trazabilidad durante 10 años en el registro «BajasAurora». Si ya se había remitido una copia fiel, también se da de baja la copia fiel.",
+      "cobertura": [
+        { "obligacion": 1, "como": "Se da de baja con trazabilidad.", "cita": "quedando trazabilidad durante 10 años en el registro" },
+        { "obligacion": 2, "como": "Se da de baja la copia fiel.", "cita": "también se da de baja la copia fiel" }
+      ],
+      "citas_norma": ["BOE-A-2026-20587_007", "BOE-A-2026-20587_009"],
+      "pendiente": [],
+      "nota": "Cubre las obligaciones pero inventa un plazo de 10 años y un registro «BajasAurora»."
+    },
+
+    {
+      "id": "b10", "hallazgo": "H4", "esperado": "aprobar", "defecto": null,
+      "texto": "Si un cliente nos comunica que una factura tiene un dato incorrecto (por ejemplo, una dirección) y el error no es de los que motivan una factura rectificativa conforme al artículo 15 del Reglamento de facturación, administración emite una nueva factura electrónica original correcta y remite de forma simultánea una copia fiel a la solución pública de facturación electrónica. Después se la envía al cliente por correo electrónico.",
+      "cobertura": [{ "obligacion": 1, "como": "Se emite una factura original correcta y se remite la copia fiel.", "cita": "emite una nueva factura electrónica original correcta" }],
+      "citas_norma": ["BOE-A-2026-20587_009"],
+      "pendiente": [],
+      "nota": "Sustituye la práctica de corregir el PDF por la que exige la Orden."
+    },
+    {
+      "id": "b11", "hallazgo": "H4", "esperado": "rechazar", "defecto": "contradice_norma",
+      "texto": "Si un cliente nos comunica que una factura tiene un dato incorrecto (por ejemplo, una dirección), administración corrige el PDF, conserva el mismo número y remite una copia fiel a la solución pública de facturación electrónica. Después se lo reenvía al cliente por correo electrónico. No se emite una nueva factura.",
+      "cobertura": [{ "obligacion": 1, "como": "Se remite la copia fiel.", "cita": "remite una copia fiel a la solución pública de facturación electrónica" }],
+      "citas_norma": ["BOE-A-2026-20587_009"],
+      "pendiente": [],
+      "nota": "Remite la copia fiel pero mantiene lo que la Orden prohíbe: no emite la factura original correcta."
+    },
+    {
+      "id": "b12", "hallazgo": "H4", "esperado": "rechazar", "defecto": "cambio_innecesario",
+      "texto": "Los errores de datos de una factura se subsanan emitiendo una nueva factura electrónica original correcta y remitiendo simultáneamente una copia fiel a la solución pública de facturación electrónica.",
+      "cobertura": [{ "obligacion": 1, "como": "Se emite la factura correcta.", "cita": "emitiendo una nueva factura electrónica original correcta" }],
+      "citas_norma": ["BOE-A-2026-20587_009"],
+      "pendiente": [],
+      "nota": "Cumple la obligación pero reescribe todo el pasaje y pierde el contexto original."
+    },
+
+    {
+      "id": "b13", "hallazgo": "H5", "esperado": "aprobar", "defecto": null,
+      "texto": "Pagamos las facturas de proveedores a 60 días desde la fecha de la factura, mediante transferencia el día 10 del mes siguiente al vencimiento. Administración informará a la solución pública de facturación electrónica, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo de la factura y de la fecha de vencimiento del plazo de pago [COMPLETAR: persona de administración responsable de esta comunicación].",
+      "cobertura": [{ "obligacion": 1, "como": "Se informa de las tres cosas que la Orden exige.", "cita": "de la fecha del pago efectivo completo de la factura" }],
+      "citas_norma": ["BOE-A-2026-20587_011"],
+      "pendiente": ["Persona de administración responsable de esta comunicación"],
+      "nota": "Conserva el original (60 días, día 10) y sustituye solo la frase que decía que no se comunicaba."
+    },
+    {
+      "id": "b14", "hallazgo": "H5", "esperado": "rechazar", "defecto": "dato_inventado",
+      "texto": "Pagamos las facturas de proveedores a 60 días desde la fecha de la factura, mediante transferencia el día 10 del mes siguiente al vencimiento. Administración informará a la solución pública de facturación electrónica de la fecha de pago y de la fecha de vencimiento dentro de las 48 horas siguientes al pago, mediante el módulo «PagosConnect».",
+      "cobertura": [{ "obligacion": 1, "como": "Se informa de las fechas.", "cita": "informará a la solución pública de facturación electrónica de la fecha de pago" }],
+      "citas_norma": ["BOE-A-2026-20587_011"],
+      "pendiente": [],
+      "nota": "Inventa un plazo de 48 horas y un módulo «PagosConnect»; además omite el rechazo."
+    },
+    {
+      "id": "b15", "hallazgo": "H5", "esperado": "rechazar", "defecto": "no_cubre",
+      "texto": "Pagamos las facturas de proveedores a 60 días desde la fecha de la factura, mediante transferencia el día 10 del mes siguiente al vencimiento. Administración llevará un registro interno de la fecha en la que paga cada factura y de la fecha en la que vence su plazo de pago.",
+      "cobertura": [{ "obligacion": 1, "como": "Se registran las fechas.", "cita": "llevará un registro interno de la fecha en la que paga cada factura" }],
+      "citas_norma": ["BOE-A-2026-20587_011"],
+      "pendiente": [],
+      "nota": "Un registro interno no es informar a la solución pública: la cobertura declarada es falsa."
+    },
+
+    {
+      "id": "b16", "hallazgo": "H6", "esperado": "aprobar", "defecto": null,
+      "texto": "La gestoría «Fiscal Norte» presenta nuestros modelos tributarios en nombre de la empresa usando el certificado electrónico de su propio despacho. A partir del próximo trimestre la gestoría también emitirá y consultará nuestras facturas electrónicas en la Sede. Para ello debe ser un apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria, y lo mismo para acceder a la recuperación de facturas recibidas y a los servicios de consulta. Hasta ahora no teníamos registrada ninguna autorización a favor de la gestoría en dicho Registro, por lo que la inscribiremos antes de que empiece a operar [COMPLETAR: fecha prevista de inscripción del apoderamiento].",
+      "cobertura": [
+        { "obligacion": 1, "como": "Se exige el apoderamiento inscrito.", "cita": "debe ser un apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria" },
+        { "obligacion": 2, "como": "Se extiende a la recuperación y consulta.", "cita": "acceder a la recuperación de facturas recibidas y a los servicios de consulta" }
+      ],
+      "citas_norma": ["BOE-A-2026-20587_015"],
+      "pendiente": ["Fecha prevista de inscripción del apoderamiento"],
+      "nota": "Conserva el original y convierte la carencia en un compromiso con dato pendiente."
+    },
+    {
+      "id": "b17", "hallazgo": "H6", "esperado": "rechazar", "defecto": "contradice_norma",
+      "texto": "La gestoría «Fiscal Norte» presenta nuestros modelos tributarios en nombre de la empresa usando el certificado electrónico de su propio despacho. A partir del próximo trimestre la gestoría también emitirá y consultará nuestras facturas electrónicas en la Sede, con el mismo sistema. No es necesario que la gestoría esté apoderada en el Registro de apoderamientos de la Agencia Tributaria, bastando con el certificado electrónico de su despacho.",
+      "cobertura": [
+        { "obligacion": 1, "como": "Se trata el apoderamiento.", "cita": "No es necesario que la gestoría esté apoderada en el Registro de apoderamientos de la Agencia Tributaria" },
+        { "obligacion": 2, "como": "Se trata el acceso.", "cita": "bastando con el certificado electrónico de su despacho" }
+      ],
+      "citas_norma": ["BOE-A-2026-20587_015"],
+      "pendiente": [],
+      "nota": "Afirma justo lo contrario de lo que exige la Orden."
+    },
+    {
+      "id": "b18", "hallazgo": "H6", "esperado": "rechazar", "defecto": "no_cubre",
+      "texto": "La gestoría «Fiscal Norte» presenta nuestros modelos tributarios en nombre de la empresa usando el certificado electrónico de su propio despacho. A partir del próximo trimestre la gestoría también emitirá y consultará nuestras facturas electrónicas en la Sede, con el mismo sistema. Revisaremos con la gestoría el modo de acceso a la Sede antes del próximo trimestre.",
+      "cobertura": [
+        { "obligacion": 1, "como": "Se revisa el acceso.", "cita": "Revisaremos con la gestoría el modo de acceso a la Sede" },
+        { "obligacion": 2, "como": "Se revisa el acceso.", "cita": "Revisaremos con la gestoría el modo de acceso a la Sede" }
+      ],
+      "citas_norma": ["BOE-A-2026-20587_015"],
+      "pendiente": [],
+      "nota": "No menciona el apoderamiento ni el Registro: las coberturas declaradas son falsas."
+    },
+
+    {
+      "id": "b19", "hallazgo": "H7", "esperado": "aprobar", "defecto": null,
+      "texto": "Cuando el responsable de área no está de acuerdo con una factura de un proveedor, la rechaza llamándole por teléfono. Hasta ahora no se dejaba constancia escrita del rechazo ni se comunicaba a ninguna plataforma o servicio de facturación; a partir de ahora administración dejará constancia escrita del rechazo e informará del rechazo de la factura a la solución pública de facturación electrónica [COMPLETAR: quién en administración registra y comunica los rechazos].",
+      "cobertura": [{ "obligacion": 1, "como": "Se informa del rechazo.", "cita": "informará del rechazo de la factura a la solución pública de facturación electrónica" }],
+      "citas_norma": ["BOE-A-2026-20587_011"],
+      "pendiente": ["Quién en administración registra y comunica los rechazos"],
+      "nota": "Conserva el original y corrige la práctica."
+    },
+    {
+      "id": "b20", "hallazgo": "H7", "esperado": "rechazar", "defecto": "cambio_innecesario",
+      "texto": "Los rechazos de facturas de proveedores se comunican siempre a la solución pública de facturación electrónica.",
+      "cobertura": [{ "obligacion": 1, "como": "Se comunica el rechazo.", "cita": "se comunican siempre a la solución pública de facturación electrónica" }],
+      "citas_norma": ["BOE-A-2026-20587_011"],
+      "pendiente": [],
+      "nota": "Elimina el procedimiento original (quién rechaza y cómo) y deja una sola frase."
+    },
+    {
+      "id": "b21", "hallazgo": "H7", "esperado": "rechazar", "defecto": "dato_inventado",
+      "texto": "Cuando el responsable de área no está de acuerdo con una factura de un proveedor, la rechaza llamándole por teléfono. Además, administración informará del rechazo de la factura a la solución pública de facturación electrónica en un plazo de 5 días hábiles y lo registrará en la aplicación «Rechazos360».",
+      "cobertura": [{ "obligacion": 1, "como": "Se informa del rechazo.", "cita": "informará del rechazo de la factura a la solución pública de facturación electrónica" }],
+      "citas_norma": ["BOE-A-2026-20587_011"],
+      "pendiente": [],
+      "nota": "Cubre la obligación pero inventa un plazo de 5 días hábiles y una aplicación «Rechazos360»."
+    }
+  ]
+}

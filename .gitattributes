@@ -1,0 +1,4 @@
+# Saltos de línea normalizados: el repositorio guarda LF y cada sistema lo adapta.
+* text=auto
+*.png binary
+*.jpg binary

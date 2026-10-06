@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Centinela.Application\Centinela.Application.csproj" />
+    <ProjectReference Include="..\Centinela.Infrastructure\Centinela.Infrastructure.csproj" />
+    <ProjectReference Include="..\Centinela.Evaluation\Centinela.Evaluation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.12" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Using Include="Centinela.Evaluation" />
+  </ItemGroup>
+
+</Project>

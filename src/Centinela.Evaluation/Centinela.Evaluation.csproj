@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Código que MIDE a los agentes (conjuntos etiquetados, medidores, puerta de evaluación). No se despliega con la API ni con el
+       Worker: solo lo usan el CLI y las pruebas. El runtime (Domain, Application, Infrastructure) no depende de este proyecto. -->
+  <ItemGroup>
+    <ProjectReference Include="..\Centinela.Application\Centinela.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="10.0.12" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.12" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.12" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

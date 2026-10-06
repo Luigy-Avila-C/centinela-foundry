@@ -1,0 +1,1518 @@
+{
+  "DocumentId": "BOE-A-2026-20587",
+  "At": "2026-10-06T09:31:18.7229962+00:00",
+  "Judges": [
+    "gpt-4.1",
+    "gpt-5.1"
+  ],
+  "Calibration": [
+    {
+      "Judge": "gpt-4.1",
+      "Correct": 10,
+      "Total": 10,
+      "Failures": []
+    },
+    {
+      "Judge": "gpt-5.1",
+      "Correct": 10,
+      "Total": 10,
+      "Failures": []
+    }
+  ],
+  "Runs": [
+    {
+      "Index": 1,
+      "Claims": [
+        {
+          "Text": "La presente orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+          "Citations": [
+            "BOE-A-2026-20587_005"
+          ]
+        },
+        {
+          "Text": "El ámbito de aplicación de la orden es el establecido en el artículo 3 del Real Decreto 238/2026, de 25 de marzo, con excepciones o particularidades previstas en el artículo 4 y disposición adicional segunda del mismo real decreto y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.",
+          "Citations": [
+            "BOE-A-2026-20587_006"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deben ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "El contenido de la factura electrónica emitida por la solución pública se ajustará a los elementos definidos en el anexo I de la orden, conforme al Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas interconectadas por la solución pública contendrán como mínimo los elementos definidos en el anexo I de la orden, pudiendo incluir contenido adicional que cumpla los requisitos del apartado primero.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas a través de la solución pública quedan a disposición inmediata de la Administración y no se debe remitir copia fiel de las mismas.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos, salvo la firma electrónica en facturas interconectadas.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "Las copias fieles deben estar marcadas claramente como tales en la solución pública y contener la información de los conceptos de las facturas originales que tengan correspondencia semántica equivalente y estén contemplados en la sintaxis de la solución pública, cumpliendo el contenido mínimo regulado en el Reglamento por el que se regulan las obligaciones de facturación y ajustado a los elementos del anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La copia fiel de la factura debe identificarse como tal en el campo denominado «indicador de copia» del anexo I de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "Las copias fieles remitidas a la solución pública no podrán incorporar otros ficheros integrados o embebidos.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La emisión de facturas mediante la solución pública se realizará mediante el formulario de generación de facturas electrónicas habilitado en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La interconexión de facturas mediante la solución pública se realizará mediante servicios web habilitados a tal efecto.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La remisión de copias fieles se realizará a través del servicio web, con la identificación prevista en el artículo 4.3 de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas y copias fieles enviadas a través del servicio web se someterán a un proceso de validación de sintaxis, semántica y especificaciones previstas en los artículos 3 y 4.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de facturas o copias fieles admitidas o rechazadas, indicando el motivo del rechazo.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel o una factura electrónica original emitida o intercambiada usando la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "El código único de la factura se define por la concatenación de los valores correspondientes al NIF del emisor, serie, número y fecha de expedición, según el anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_010"
+          ]
+        },
+        {
+          "Text": "El destinatario de la factura debe informar del rechazo, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, pudiendo informar también de la fecha de recepción de mercancías, prestación de servicios o recepción de la factura cuando sea relevante.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "En ausencia de rechazo de la factura o de una factura rectificativa posterior, se presume que las facturas son aceptadas.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "El emisor de la factura puede comunicar información sobre el cobro o impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "La obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con la fecha de expedición y de la operación o devengo, salvo que el destinatario comunique expresamente el estado de pago.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "La información asociada al estado y pago de la factura puede remitirse mediante servicios web o formulario individual habilitado en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "La identificación de la factura para la comunicación de estados y pagos requiere su codificación única.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "La Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de comunicaciones de estados y pagos admitidas o rechazadas, indicando el motivo.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "En caso de imposibilidad técnica imputable a la solución pública por más de 24 horas, la remisión de facturas, copias fieles o información de estados y pagos podrá realizarse durante los cuatro días hábiles siguientes a la subsanación de la incidencia.",
+          "Citations": [
+            "BOE-A-2026-20587_009",
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "Las plataformas privadas que intercambien facturas electrónicas usando la solución pública están obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo los requisitos de representación e identificación del artículo 11.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "Las plataformas privadas deben automatizar el acceso a la solución pública para recuperar las facturas recibidas por sus clientes y ponerlas a su disposición de forma inmediata para el cumplimiento de obligaciones de conservación.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "El destinatario de las facturas puede recuperar en cualquier momento sus facturas recibidas, directamente o mediante acceso automatizado a la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "Emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a facturas electrónicas y copias fieles mediante servicios web o formulario.",
+          "Citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "Text": "Emisores y destinatarios pueden consultar los estados y pagos de las facturas electrónicas mediante servicios web o formulario.",
+          "Citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "Text": "La utilización de la solución pública requiere autenticación e identificación electrónica del remitente mediante certificados electrónicos válidos en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "El sistema Cl@ve puede usarse como medio de autenticación e identificación para formularios de generación de facturas, comunicación de estados y pagos, o consulta.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "La solución pública puede ser utilizada por el empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, conforme a la normativa tributaria aplicable.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "El tercero que utilice el formulario de generación de facturas o de comunicación de estados y pagos debe ser apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "La totalidad de las actuaciones reguladas en la orden se llevarán a cabo conforme al Reglamento (UE) 2016/679 y la Ley Orgánica 3/2018, así como la disposición adicional vigesimoprimera de la Ley 56/2007.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "Los sistemas de información que soportan la solución pública deben cumplir el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "La solución pública de facturación electrónica debe estar disponible para los empresarios y profesionales obligados al menos dos meses antes de la primera aplicación efectiva de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_017"
+          ]
+        },
+        {
+          "Text": "La orden entra en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, iniciando el cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022 y en las disposiciones transitorias primera a tercera y disposición final cuarta del Real Decreto 238/2026.",
+          "Citations": [
+            "BOE-A-2026-20587_018"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas y copias fieles transmitidas a la Agencia Estatal de Administración Tributaria deben contener como mínimo la información establecida en el anexo I, conforme al modelo UBL y la EN 16931.",
+          "Citations": [
+            "BOE-A-2026-20587_019"
+          ]
+        },
+        {
+          "Text": "El campo 'indicador de copia' del anexo I debe adoptar los valores True (copia) o False (original) para identificar la naturaleza de la factura.",
+          "Citations": [
+            "BOE-A-2026-20587_020"
+          ]
+        }
+      ],
+      "ChunkCoverage": 1,
+      "ByJudge": {
+        "gpt-4.1": {
+          "Verdicts": [
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported"
+          ],
+          "Reasons": [
+            "El texto citado indica literalmente que la orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+            "El texto citado reproduce exactamente el ámbito de aplicación y las excepciones o particularidades mencionadas en la afirmación.",
+            "El texto citado dice literalmente que las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+            "El texto citado indica que el contenido de la factura electrónica emitida por la solución pública se ajustará a los elementos definidos en el anexo I de la orden, conforme a lo previsto en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012.",
+            "El texto citado indica que las facturas electrónicas interconectadas contendrán como mínimo los elementos definidos en el anexo I y que podrán incluir contenido adicional que cumpla los requisitos del apartado primero.",
+            "El texto citado dice literalmente que las facturas electrónicas para cuya emisión o interconexión se utilice la solución pública de facturación electrónica quedan a disposición inmediata de la Administración, por lo que no se debe remitir copia fiel de las mismas.",
+            "El texto citado indica explícitamente que las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos, salvo que las facturas interconectadas podrán remitirse junto con la firma electrónica.",
+            "El texto citado indica explícitamente que las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública.",
+            "El texto citado indica que las copias fieles deben estar marcadas claramente como tales en la solución pública y que deben contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo regulado en el Reglamento y ajustado a los elementos del anexo I.",
+            "El texto citado dice literalmente que la copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden.",
+            "El texto citado dice literalmente: 'Las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos.'",
+            "El texto indica que la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado en el apartado 2 del artículo 5 indica expresamente que la interconexión se realizará mediante los servicios web habilitados a tal efecto.",
+            "El texto citado en el apartado 3 indica que la remisión de las copias fieles deberá realizarse a través del servicio web previsto en el apartado anterior, con la identificación a que se refiere el artículo 4.3 de esta orden.",
+            "El texto citado indica explícitamente que las facturas electrónicas y las copias fieles enviadas a través del servicio web se someterán a un proceso de validación de la sintaxis, semántica y especificaciones previstas en los artículos 3 y 4.",
+            "El texto citado indica que tras la validación, la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta que contendrá la relación de las facturas o copias fieles admitidas o, en su caso, la relación de los envíos rechazados con errores junto con la identificación del motivo por el que han sido calificados de este modo.",
+            "El texto dice explícitamente que se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel o una factura electrónica original emitida o intercambiada usando la solución pública de facturación electrónica.",
+            "El texto citado indica expresamente que las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6.",
+            "La afirmación repite literalmente lo dispuesto en el texto citado sobre la definición del código único de la factura.",
+            "El texto citado indica que el destinatario debe informar del rechazo, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, y que puede informar de la fecha de recepción de mercancías, prestación de servicios o recepción de la factura cuando sea relevante.",
+            "El texto citado dice literalmente que en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumirá que son aceptadas.",
+            "El texto citado indica expresamente que el emisor de la factura podrá comunicar la información sobre el cobro o del impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario.",
+            "El texto citado dice literalmente que la obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con su fecha de expedición y coincidente con la fecha de la operación o de devengo, y que esto no será de aplicación cuando el destinatario comunique expresamente el estado de pago.",
+            "El texto citado indica que la información puede remitirse mediante servicios web o formulario individual, y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto indica en el punto 2 que para el supuesto del apartado 1.a) es necesaria la previa identificación de la factura con su codificación única según el artículo 6.",
+            "El texto citado indica que la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta que contendrá la relación de comunicaciones de estados y de pagos admitidas o, en su caso, la relación de los envíos rechazados con errores junto con la identificación del motivo por el que han sido calificados de este modo.",
+            "El texto citado indica que si la imposibilidad técnica de la solución pública supera 24 horas, la remisión de facturas, copias fieles o información de estados y pagos podrá hacerse durante los cuatro días hábiles siguientes a la subsanación de la incidencia.",
+            "El texto citado indica expresamente que las plataformas privadas que intercambien facturas electrónicas utilizando la solución pública están obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo con los requisitos de representación e identificación previstos en el artículo 11.",
+            "El texto citado indica que las plataformas privadas deben automatizar el acceso para recuperar las facturas recibidas por sus clientes y ponerlas a su disposición de forma inmediata para el cumplimiento de sus obligaciones de conservación.",
+            "El texto citado dice literalmente que el destinatario de las facturas podrá recuperar en cualquier momento sus facturas recibidas, directamente o a través de un acceso automatizado a la solución pública de facturación electrónica.",
+            "El texto citado menciona explícitamente que emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a facturas electrónicas y copias fieles mediante servicios web o formulario.",
+            "El texto citado indica explícitamente que los emisores y destinatarios de las facturas electrónicas pueden consultar los estados y pagos de las mismas mediante servicios web o formulario.",
+            "El texto citado indica expresamente que la utilización de la solución pública de facturación electrónica requerirá la autenticación e identificación electrónica del remitente mediante el uso de los certificados electrónicos válidos en cada momento en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado indica explícitamente que para el formulario de generación de facturas electrónicas, de comunicación de estados de la factura y pagos, o de consulta de la solución pública de facturación electrónica, el remitente podrá utilizar también como medio de autenticación e identificación el sistema Cl@ve.",
+            "El texto citado indica expresamente que la solución pública de facturación electrónica podrá ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, de acuerdo con la normativa tributaria aplicable.",
+            "El texto citado indica expresamente que si un tercero utiliza el formulario de generación de facturas electrónicas o el de comunicación de estados de las facturas y de pagos en nombre del obligado, debe ser un apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria.",
+            "El texto citado indica expresamente que la totalidad de las actuaciones reguladas en la orden se llevarán a cabo con el debido respeto a lo establecido en el Reglamento (UE) 2016/679, la Ley Orgánica 3/2018 y la disposición adicional vigesimoprimera de la Ley 56/2007.",
+            "El texto citado dice explícitamente que los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo.",
+            "El texto citado indica literalmente que la solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados al menos dos meses antes de la primera aplicación efectiva de la orden.",
+            "El texto citado indica literalmente que la orden entra en vigor el día siguiente al de su publicación en el BOE y que se inicia el cómputo de los plazos previstos en las disposiciones mencionadas.",
+            "El texto citado indica que las facturas electrónicas y copias fieles transmitidas a la Agencia Estatal de Administración Tributaria deben contener como mínimo la información que se muestra en el anexo I, conforme al modelo UBL y la EN 16931.",
+            "El texto indica que el indicador de copia adoptará los valores True: copia y False (o sin informar): original, tal como afirma la afirmación."
+          ],
+          "CoveredFacts": [
+            "f01",
+            "f02",
+            "f03",
+            "f04",
+            "f05",
+            "f06",
+            "f08",
+            "f09",
+            "f11",
+            "f12",
+            "f13",
+            "f14",
+            "f15",
+            "f16",
+            "f17",
+            "f19",
+            "f23",
+            "f24",
+            "f25",
+            "f26",
+            "f27",
+            "f28",
+            "f30",
+            "f31",
+            "f32",
+            "f33",
+            "f34",
+            "f35"
+          ]
+        },
+        "gpt-5.1": {
+          "Verdicts": [
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported"
+          ],
+          "Reasons": [
+            "La afirmación reproduce literalmente el contenido del artículo 1, donde se indica que la orden tiene por objeto regular los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+            "La afirmación reproduce literalmente el contenido del apartado 1 del artículo 2, incluyendo el ámbito de aplicación y las excepciones o particularidades mencionadas.",
+            "El artículo 3.1 indica literalmente que las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+            "El texto citado establece que el contenido de la factura se ajustará al anexo I solo cuando la solución pública actúe como medio de emisión o generación; la afirmación generaliza a toda factura emitida por la solución pública sin matizar ese supuesto concreto.",
+            "El apartado 3 indica que cuando la solución actúe como medio de interconexión la factura contendrá, como mínimo, los elementos del anexo I y que estas facturas podrán incluir contenido adicional que cumpla los requisitos del apartado primero, coincidiendo con la afirmación.",
+            "El apartado 4 establece literalmente que las facturas electrónicas emitidas o interconectadas mediante la solución pública quedan a disposición inmediata de la Administración y que no se debe remitir copia fiel de las mismas, coincidiendo plenamente con la afirmación.",
+            "El texto establece que las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos y añade expresamente que, no obstante, las facturas interconectadas podrán remitirse junto con la firma electrónica, coincidiendo plenamente con la afirmación.",
+            "La afirmación recoge correctamente la obligación de remitir una copia electrónica fiel en sintaxis UBL a la solución pública y que debe hacerse simultáneamente a la emisión, pero omite que esta obligación recae específicamente sobre empresarios o profesionales obligados a emitir y recibir facturas electrónicas, matiz que sí aparece en el texto citado.",
+            "El texto indica que las copias electrónicas fieles quedarán marcadas claramente como tales en la solución pública y que deberán contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, contemplados en la sintaxis de la solución pública, cumpliendo el contenido mínimo del Reglamento de facturación y ajustado a los elementos del anexo I, exactamente como recoge la afirmación.",
+            "El texto indica explícitamente que la copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden, coincidiendo exactamente con la afirmación.",
+            "El apartado 4 del artículo 4 establece literalmente que las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos, coincidiendo exactamente con la afirmación.",
+            "El texto indica que cuando la solución pública actúe como medio de facturación, la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo plenamente con la afirmación.",
+            "El apartado 2 del artículo 5 indica expresamente que cuando la solución pública actúe como medio de interconexión, esta deberá realizarse mediante los servicios web habilitados a tal efecto, coincidiendo plenamente con la afirmación.",
+            "El apartado 3 del artículo 5 indica expresamente que la remisión de las copias fieles deberá realizarse a través del servicio web previsto en el apartado anterior, con la identificación a que se refiere el artículo 4.3 de la orden, coincidiendo plenamente con la afirmación.",
+            "El apartado 4 indica que, en el caso de envío a través del servicio web, las facturas electrónicas y las copias fieles se someterán a un proceso de validación de la sintaxis, semántica y especificaciones previstas en los artículos 3 y 4, coincidiendo exactamente con la afirmación.",
+            "El texto indica que, tras la validación, la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de facturas o copias fieles admitidas o, en su caso, la relación de los envíos rechazados con errores junto con la identificación del motivo por el que han sido calificados de este modo, lo que coincide con la afirmación.",
+            "El apartado 5 indica expresamente que se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel en la solución pública, así como para las que conste una factura electrónica original emitida o intercambiada usando la solución pública de facturación electrónica, coincidiendo íntegramente con la afirmación.",
+            "El texto indica literalmente que, a estos efectos, las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6, coincidiendo exactamente con la afirmación.",
+            "La afirmación reproduce fielmente lo indicado en el artículo 6: el código único se define por la concatenación del NIF del emisor, la serie, el número de la factura y la fecha de expedición, según lo especificado en el anexo I.",
+            "El texto establece que el destinatario deberá informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, y que podrá informar de la fecha de recepción de las mercancías, de la prestación de los servicios o de la recepción de la factura cuando resulte relevante, coincidiendo con lo afirmado.",
+            "El texto establece expresamente que, en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumirá que son aceptadas, coincidiendo plenamente con la afirmación.",
+            "El artículo 7.2 indica expresamente que el emisor de la factura podrá comunicar la información sobre el cobro o del impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario, coincidiendo plenamente con la afirmación.",
+            "La afirmación reproduce el contenido del apartado 4: se indica que la obligación se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con la fecha de expedición y coincidente con la fecha de la operación o devengo, y se recoge la excepción de que lo anterior no será de aplicación cuando el destinatario comunique expresamente el estado de pago.",
+            "El texto indica que la información sobre el estado y pago de la factura puede remitirse mediante servicios web o mediante un formulario de comunicación que permite la remisión individual por factura, y especifica que estos servicios de envío estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo plenamente con la afirmación.",
+            "El texto solo exige la identificación de la factura con su codificación única en el supuesto de remisión mediante servicios web (apartado 1.a y 2). La afirmación lo presenta como requisito general para la comunicación de estados y pagos, sin limitarlo a ese supuesto, por lo que generaliza más allá de lo indicado.",
+            "El texto indica que la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de comunicaciones de estados y de pagos admitidas y la relación de envíos rechazados con errores junto con la identificación del motivo. Sin embargo, la afirmación no menciona que los rechazados son específicamente \"envíos rechazados con errores\" y simplifica la formulación, por lo que no reproduce con exactitud todo el contenido.",
+            "Los artículos 5.7 y 8.4 establecen que, cuando por razones técnicas imputables a la solución pública no sea posible su utilización por un periodo superior a 24 horas, la remisión de facturas electrónicas y copias fieles (art. 5.7) y la remisión de la información asociada al estado y pago de las facturas (art. 8.4) podrá realizarse durante los cuatro días hábiles siguientes a la subsanación de la incidencia, coincidiendo exactamente con lo afirmado.",
+            "El artículo 9.1 establece literalmente que las plataformas privadas que intercambien facturas electrónicas utilizando la solución pública estarán obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo los requisitos de representación e identificación previstos en el artículo 11, coincidiendo plenamente con la afirmación.",
+            "El artículo 9.2 establece expresamente que las plataformas privadas de facturación electrónica deberán automatizar el acceso a la solución pública para recuperar las facturas recibidas por sus clientes y, una vez recuperadas, ponerlas a su disposición de forma inmediata, a los efectos del cumplimiento de sus obligaciones de conservación, coincidiendo plenamente con la afirmación.",
+            "El texto indica literalmente que el destinatario de las facturas podrá recuperar en cualquier momento sus facturas recibidas, directamente o a través de un acceso automatizado a la solución pública de facturación electrónica, coincidiendo plenamente con la afirmación.",
+            "El artículo 10.1 indica expresamente que emisores, destinatarios y, en su caso, terceros que hayan emitido en nombre del emisor pueden acceder a las facturas electrónicas y copias fieles mediante servicios web o mediante la utilización del formulario, coincidiendo plenamente con la afirmación.",
+            "El artículo 10.2 establece expresamente que los emisores y destinatarios de las facturas electrónicas podrán consultar los estados y pagos de las mismas mediante servicios web o mediante la utilización del formulario, coincidiendo plenamente con la afirmación.",
+            "El artículo 11.1 establece literalmente que la utilización de la solución pública de facturación electrónica requerirá la autenticación e identificación electrónica del remitente mediante el uso de los certificados electrónicos válidos en cada momento en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo plenamente con la afirmación.",
+            "El texto indica explícitamente que, en el caso de utilizar el formulario de generación de facturas electrónicas, de comunicación de estados de la factura y pagos, o de consulta de la solución pública de facturación electrónica, el remitente podrá utilizar también como medio de autenticación e identificación el sistema Cl@ve.",
+            "El artículo 11.2 indica expresamente que la solución pública de facturación electrónica podrá ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, remitiéndose además a la normativa tributaria aplicable (artículos 79 a 81 del Reglamento General de gestión e inspección tributaria y la Orden HAC/1398/2003).",
+            "El texto indica explícitamente que cuando un tercero utiliza el formulario de generación de facturas electrónicas o el de comunicación de estados y pagos en nombre del obligado, dicho tercero debe ser un apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria.",
+            "La afirmación recoge correctamente que las actuaciones se llevarán a cabo conforme al Reglamento (UE) 2016/679, la Ley Orgánica 3/2018 y la disposición adicional vigesimoprimera de la Ley 56/2007, pero omite que el texto también exige respeto al resto de la normativa aplicable en la materia, por lo que no refleja todo lo establecido.",
+            "El texto establece explícitamente que los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo, coincidiendo plenamente con la afirmación.",
+            "El texto establece literalmente que la solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electrónicas al menos dos meses antes de la primera aplicación efectiva de la orden, coincidiendo con la afirmación.",
+            "El texto indica explícitamente que la orden entra en vigor el día siguiente al de su publicación en el BOE y que con ello se inicia el cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022 y en las disposiciones transitorias primera a tercera y disposición final cuarta del Real Decreto 238/2026, coincidiendo plenamente con la afirmación.",
+            "El texto citado sí indica que las facturas electrónicas y copias fieles transmitidas a la AEAT deben contener como mínimo la información que se muestra a continuación en el anexo, y menciona que es conforme al modelo UBL y la EN 16931. Sin embargo, la afirmación añade que esa información es la “establecida en el anexo I”, mientras que el texto se refiere a “la información que se muestra a continuación” sin decir explícitamente que todo el contenido del anexo I sea el mínimo obligatorio, por lo que hay una ligera generalización.",
+            "El texto indica que el 'Indicador de copia' adoptará alguno de los siguientes valores: True: copia. False (o sin informar): original, lo que coincide exactamente con la afirmación sobre los valores y su significado para identificar la naturaleza de la factura."
+          ],
+          "CoveredFacts": [
+            "f01",
+            "f02",
+            "f03",
+            "f04",
+            "f05",
+            "f06",
+            "f08",
+            "f09",
+            "f11",
+            "f12",
+            "f13",
+            "f14",
+            "f15",
+            "f16",
+            "f17",
+            "f19",
+            "f23",
+            "f24",
+            "f25",
+            "f27",
+            "f28",
+            "f30",
+            "f31",
+            "f32",
+            "f33",
+            "f34",
+            "f35"
+          ]
+        }
+      }
+    },
+    {
+      "Index": 2,
+      "Claims": [
+        {
+          "Text": "La Orden HAC/1028/2026 regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+          "Citations": [
+            "BOE-A-2026-20587_005"
+          ]
+        },
+        {
+          "Text": "El ámbito de aplicación de la orden es el establecido en el artículo 3 del Real Decreto 238/2026, de 25 de marzo, con excepciones o particularidades previstas en el artículo 4 y disposición adicional segunda del mismo real decreto y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.",
+          "Citations": [
+            "BOE-A-2026-20587_006"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deben ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "El contenido de la factura electrónica emitida por la solución pública se ajustará a los elementos definidos en el anexo I de la orden, conforme al Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas interconectadas por la solución pública contendrán como mínimo los elementos definidos en el anexo I de la orden, pudiendo incluir contenido adicional que cumpla los requisitos del apartado primero.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas a través de la solución pública quedan a disposición inmediata de la Administración y no se debe remitir copia fiel de las mismas.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos, salvo la firma electrónica en facturas interconectadas.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La copia fiel debe estar marcada claramente como tal en la solución pública y contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo regulado en el Reglamento de facturación y ajustado a los elementos del anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La copia fiel de la factura debe identificarse como tal en el campo denominado 'indicador de copia' del anexo I de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "Las copias fieles remitidas a la solución pública no podrán incorporar otros ficheros integrados o embebidos.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La emisión de facturas por la solución pública se realizará mediante el formulario de generación de facturas electrónicas habilitado en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La interconexión de facturas por la solución pública se realizará mediante servicios web habilitados a tal efecto.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La remisión de copias fieles se realizará a través del servicio web, identificando la copia fiel según el artículo 4.3 de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas y copias fieles enviadas por servicio web se someterán a un proceso de validación de sintaxis, semántica y especificaciones; la Agencia Tributaria emitirá un mensaje de respuesta con admitidas o rechazadas y el motivo.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Se rechazarán envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel o una factura electrónica original en la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "El código único de la factura se define por la concatenación de NIF del emisor, serie, número y fecha de expedición, según el anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_010"
+          ]
+        },
+        {
+          "Text": "El destinatario de la factura debe informar del rechazo, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, y puede informar de la fecha de recepción de mercancías, servicios o factura cuando sea relevante.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "El emisor de la factura puede comunicar información sobre el cobro o impago de las facturas, así como diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "La obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con la fecha de expedición y de la operación o devengo, salvo comunicación expresa del estado de pago.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "La información asociada al estado y pago de la factura puede remitirse mediante servicios web o formulario individual habilitado en la Sede electrónica de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "La identificación previa de la factura con su codificación única es necesaria para el envío por servicios web.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "La Agencia Tributaria emitirá un mensaje de respuesta con comunicaciones de estados y pagos admitidas o rechazadas y el motivo.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "En caso de imposibilidad técnica de uso de la solución pública por más de 24 horas, la remisión de facturas y copias fieles podrá realizarse durante los 4 días hábiles siguientes a la subsanación de la incidencia.",
+          "Citations": [
+            "BOE-A-2026-20587_009",
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "Las plataformas privadas que intercambien facturas electrónicas usando la solución pública están obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo los requisitos de representación e identificación del artículo 11.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "Las plataformas privadas deben automatizar el acceso a la solución pública para recuperar facturas recibidas por sus clientes y ponerlas a su disposición de forma inmediata para el cumplimiento de obligaciones de conservación.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "El destinatario de las facturas puede recuperar en cualquier momento sus facturas recibidas, directamente o mediante acceso automatizado a la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "Emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a facturas electrónicas y copias fieles mediante servicios web o formulario.",
+          "Citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "Text": "Emisores y destinatarios pueden consultar los estados y pagos de las facturas electrónicas mediante servicios web o formulario.",
+          "Citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "Text": "La utilización de la solución pública requiere autenticación e identificación electrónica del remitente mediante certificados electrónicos válidos en la Sede electrónica de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "El sistema Cl@ve puede usarse como medio de autenticación e identificación para formularios de generación de facturas, comunicación de estados y pagos, o consulta.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "La solución pública puede ser utilizada por el empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, conforme a la normativa tributaria aplicable.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "El tercero debe ser apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria para usar formularios en nombre del obligado o acceder a servicios de recuperación y consulta.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "Los servicios de emisión, interconexión, remisión de copias fieles, recuperación, consulta y comunicación de estados y pagos se ajustarán a las especificaciones, condiciones técnicas y volumetría previstas en la Sede electrónica de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "Las actuaciones reguladas en la orden se llevarán a cabo conforme al Reglamento (UE) 2016/679, la Ley Orgánica 3/2018, la disposición adicional vigesimoprimera de la Ley 56/2007 y el resto de normativa aplicable en materia de protección de datos.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "Los responsables de los tratamientos adoptarán medidas técnicas y organizativas apropiadas previstas en el artículo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "Los sistemas de información que soportan la solución pública deben cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "La solución pública de facturación electrónica debe estar disponible para los empresarios y profesionales obligados al menos dos meses antes de la primera aplicación efectiva de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_017"
+          ]
+        },
+        {
+          "Text": "La orden entra en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, iniciando el cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022 y en las disposiciones transitorias primera a tercera y disposición final cuarta del Real Decreto 238/2026.",
+          "Citations": [
+            "BOE-A-2026-20587_018"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas y copias fieles transmitidas a la Agencia Tributaria deben contener como mínimo la información establecida en el anexo I, conforme al modelo UBL y la EN 16931.",
+          "Citations": [
+            "BOE-A-2026-20587_019"
+          ]
+        },
+        {
+          "Text": "El campo 'indicador de copia' del anexo I debe adoptar el valor 'True' para copia y 'False' (o sin informar) para original.",
+          "Citations": [
+            "BOE-A-2026-20587_020"
+          ]
+        },
+        {
+          "Text": "El contenido mínimo de la factura electrónica incluye serie y número, fecha de expedición, código de tipo de factura, código de moneda, datos del vendedor y comprador, dirección postal, contacto, y otros campos definidos en el anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_020",
+            "BOE-A-2026-20587_021",
+            "BOE-A-2026-20587_022"
+          ]
+        }
+      ],
+      "ChunkCoverage": 1,
+      "ByJudge": {
+        "gpt-4.1": {
+          "Verdicts": [
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported"
+          ],
+          "Reasons": [
+            "El texto citado indica expresamente que la orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+            "El texto citado reproduce exactamente el ámbito de aplicación y las excepciones o particularidades mencionadas en la afirmación.",
+            "El texto citado dice explícitamente que las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+            "El texto citado indica explícitamente que el contenido de la factura electrónica emitida por la solución pública se ajustará a los elementos definidos en el anexo I de la orden, conforme a lo previsto en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+            "El texto citado indica que las facturas electrónicas interconectadas contendrán, como mínimo, los elementos definidos en el anexo I y que podrán incluir contenido adicional que cumpla los requisitos del apartado primero.",
+            "El texto citado dice literalmente que las facturas electrónicas para cuya emisión o interconexión se utilice la solución pública de facturación electrónica quedan a disposición inmediata de la Administración, por lo que no se debe remitir copia fiel de las mismas.",
+            "El texto dice literalmente que las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos, salvo que las interconectadas podrán remitirse junto con la firma electrónica.",
+            "El texto citado indica expresamente que las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública.",
+            "El texto citado indica que las copias quedarán marcadas claramente como tales en la solución pública y que deben contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo regulado en el Reglamento y ajustado a los elementos del anexo I.",
+            "El texto citado dice explícitamente que la copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden.",
+            "El texto citado dice literalmente: 'Las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos.'",
+            "El texto indica que la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas, y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado dice explícitamente en el punto 2 que la interconexión se realizará mediante los servicios web habilitados a tal efecto.",
+            "El texto citado indica que la remisión de las copias fieles deberá realizarse a través del servicio web previsto y con la identificación a que se refiere el artículo 4.3 de la orden.",
+            "El texto citado indica que las facturas electrónicas y copias fieles enviadas por servicio web se someterán a un proceso de validación de sintaxis, semántica y especificaciones, y que la Agencia Tributaria emitirá un mensaje de respuesta con la relación de admitidas o rechazadas y el motivo del rechazo.",
+            "El texto dice explícitamente que se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel o una factura electrónica original en la solución pública de facturación electrónica.",
+            "El texto citado indica explícitamente que las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6.",
+            "El texto citado indica que el código único de la factura se define por la concatenación del NIF del emisor, la serie, el número de la factura y la fecha de expedición, según el anexo I, igual que la afirmación.",
+            "El texto citado indica que el destinatario debe informar del rechazo, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, y que puede informar de la fecha de recepción de mercancías, servicios o factura cuando sea relevante.",
+            "El texto citado indica explícitamente que el emisor de la factura podrá comunicar la información sobre el cobro o del impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario.",
+            "El texto citado en el apartado 4 indica literalmente que la obligación del destinatario de informar sobre el estado de pago de la factura electrónica se entenderá cumplida cuando la propia factura, o su copia fiel, incluya una fecha de pago anterior o coincidente con su fecha de expedición y coincidente con la fecha de la operación o de devengo, y que esto no será de aplicación cuando el destinatario comunique expresamente el estado de pago.",
+            "El texto citado indica que la información puede remitirse mediante servicios web o formulario individual, y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado indica explícitamente en el apartado 2 que en el supuesto previsto en el apartado 1.a) (servicios web), será necesaria la previa identificación de la factura con su codificación única.",
+            "El texto citado indica que la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta que contendrá la relación de comunicaciones de estados y de pagos admitidas o, en su caso, la relación de los envíos rechazados con errores junto con la identificación del motivo por el que han sido calificados de este modo.",
+            "El texto citado en el artículo 5.7 establece que si la solución pública no puede usarse por más de 24 horas por razones técnicas, la remisión de facturas electrónicas y copias fieles podrá hacerse durante los cuatro días hábiles siguientes a la subsanación de la incidencia, coincidiendo exactamente con la afirmación.",
+            "El texto citado indica explícitamente que las plataformas privadas que intercambien facturas electrónicas utilizando la solución pública están obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo con los requisitos de representación e identificación previstos en el artículo 11.",
+            "El texto citado indica explícitamente que las plataformas privadas de facturación electrónica deberán automatizar el acceso a la solución pública para recuperar las facturas recibidas por sus clientes y ponerlas a su disposición de forma inmediata para el cumplimiento de sus obligaciones de conservación.",
+            "El texto citado dice literalmente que el destinatario de las facturas podrá recuperar en cualquier momento sus facturas recibidas, directamente o a través de un acceso automatizado a la solución pública de facturación electrónica.",
+            "El texto citado indica explícitamente que emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a facturas electrónicas y copias fieles mediante servicios web o formulario.",
+            "El texto citado indica explícitamente que los emisores y destinatarios de las facturas electrónicas pueden consultar los estados y pagos de las mismas mediante servicios web o formulario.",
+            "El texto citado indica expresamente que la utilización de la solución pública de facturación electrónica requerirá la autenticación e identificación electrónica del remitente mediante el uso de los certificados electrónicos válidos en cada momento en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado indica explícitamente que para el formulario de generación de facturas electrónicas, de comunicación de estados de la factura y pagos, o de consulta de la solución pública de facturación electrónica, el remitente podrá utilizar también como medio de autenticación e identificación el sistema Cl@ve.",
+            "El texto citado indica expresamente que la solución pública de facturación electrónica podrá ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, de acuerdo con la normativa tributaria aplicable.",
+            "El texto citado establece que el tercero debe ser apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria para usar el formulario de generación de facturas electrónicas, de comunicación de estados y pagos, así como para acceder a los servicios de recuperación y consulta de facturas.",
+            "El texto citado indica expresamente que los servicios mencionados se ajustarán a las especificaciones, condiciones técnicas y volumetría previstos en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado menciona expresamente que la totalidad de las actuaciones reguladas en la orden se llevarán a cabo con el debido respeto a lo establecido en el Reglamento (UE) 2016/679, la Ley Orgánica 3/2018, la disposición adicional vigesimoprimera de la Ley 56/2007 y el resto de la normativa aplicable en la materia.",
+            "El texto citado indica expresamente que los responsables de los tratamientos adoptarán las medidas técnicas y organizativas apropiadas previstas en el artículo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo.",
+            "El texto citado dice explícitamente que los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad, aprobado por el Real Decreto 311/2022, de 3 de mayo.",
+            "El texto citado indica explícitamente que la solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados al menos dos meses antes de la primera aplicación efectiva de la orden.",
+            "El texto citado indica literalmente que la orden entra en vigor el día siguiente al de su publicación en el BOE e inicia el cómputo de los plazos previstos en las disposiciones mencionadas.",
+            "El texto indica que las facturas electrónicas y copias fieles transmitidas a la Agencia Tributaria deben contener como mínimo la información que se muestra en el anexo I, conforme al modelo UBL y la EN 16931.",
+            "El texto indica que el indicador de copia adoptará el valor True para copia y False (o sin informar) para original.",
+            "El texto citado enumera como obligatorios o definidos en el anexo I los campos de serie y número, fecha de expedición, código de tipo de factura, código de moneda, datos del vendedor y comprador, dirección postal, contacto y otros campos, coincidiendo con la afirmación."
+          ],
+          "CoveredFacts": [
+            "f01",
+            "f02",
+            "f03",
+            "f04",
+            "f05",
+            "f06",
+            "f08",
+            "f09",
+            "f11",
+            "f12",
+            "f13",
+            "f14",
+            "f15",
+            "f16",
+            "f17",
+            "f19",
+            "f23",
+            "f24",
+            "f25",
+            "f26",
+            "f28",
+            "f30",
+            "f31",
+            "f32",
+            "f33",
+            "f34",
+            "f35"
+          ]
+        },
+        "gpt-5.1": {
+          "Verdicts": [
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Partial"
+          ],
+          "Reasons": [
+            "El artículo 1 indica literalmente que la orden tiene por objeto regular los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1, del Real Decreto 238/2026.",
+            "La afirmación reproduce literalmente el contenido del apartado 1 del artículo 2, incluyendo el ámbito de aplicación y las excepciones o particularidades mencionadas.",
+            "El artículo 3.1 indica expresamente que las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+            "El apartado 2 del artículo 3 indica que cuando la solución pública actúe como medio de emisión, el contenido de la factura electrónica se ajustará a los elementos definidos en el anexo I de la orden, en los que se concreta el contenido de las facturas de acuerdo con el Reglamento aprobado por el Real Decreto 1619/2012, de 30 de noviembre, coincidiendo con lo afirmado.",
+            "El apartado 3 indica que cuando la solución actúe como medio de interconexión, la factura electrónica contendrá como mínimo los elementos definidos en el anexo I y que estas facturas interconectadas podrán incluir contenido adicional que cumpla los requisitos del apartado primero, coincidiendo plenamente con la afirmación.",
+            "El apartado 4 establece literalmente que las facturas electrónicas emitidas o interconectadas mediante la solución pública quedan a disposición inmediata de la Administración y que no se debe remitir copia fiel de las mismas, coincidiendo plenamente con la afirmación.",
+            "El texto establece que las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos y añade expresamente que las facturas interconectadas podrán remitirse junto con la firma electrónica, coincidiendo plenamente con la afirmación.",
+            "El texto establece literalmente que las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública de facturación electrónica.",
+            "El texto indica que las copias quedarán marcadas claramente como tales en la solución pública y que deberán contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo del Reglamento de facturación y ajustado a los elementos del anexo I, exactamente como recoge la afirmación.",
+            "El apartado 3 del artículo 4 indica expresamente que la copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden, coincidiendo plenamente con la afirmación.",
+            "El texto citado establece literalmente que las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos, coincidiendo exactamente con la afirmación.",
+            "El texto indica que cuando la solución pública actúe como medio de facturación, la emisión se realizará mediante el formulario de generación de facturas electrónicas, y que estos servicios estarán habilitados en la Sede electrónica de la AEAT. Sin embargo, la afirmación generaliza como si toda emisión de facturas por la solución pública se realizara así, sin limitarse al supuesto específico en que actúa como medio de facturación, por lo que está solo parcialmente respaldada.",
+            "El apartado 2 del artículo 5 indica explícitamente que cuando la solución pública actúe como medio de interconexión, esta deberá realizarse mediante los servicios web habilitados a tal efecto, coincidiendo plenamente con la afirmación.",
+            "El apartado 3 establece que la remisión de las copias fieles deberá realizarse a través del servicio web previsto en el apartado anterior, con la identificación a que se refiere el artículo 4.3 de la orden para que se trate como copia fiel, coincidiendo plenamente con la afirmación.",
+            "El apartado 4 establece que las facturas electrónicas y copias fieles enviadas a través del servicio web se someterán a un proceso de validación de sintaxis, semántica y especificaciones, y que tras esta validación la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de admitidas o rechazadas junto con el motivo del rechazo, coincidiendo plenamente con la afirmación.",
+            "El texto indica expresamente que se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel en la solución pública, así como para las que conste una factura electrónica original emitida o intercambiada usando dicha solución, coincidiendo con la afirmación.",
+            "El texto indica explícitamente que, a estos efectos, las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6, coincidiendo exactamente con la afirmación.",
+            "La afirmación reproduce fielmente el contenido del artículo citado: el código único se define por la concatenación del NIF del emisor, la serie, el número de la factura y la fecha de expedición, según lo especificado en el anexo I.",
+            "El texto establece que el destinatario deberá informar del rechazo de la factura, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, y que podrá informar de la fecha de recepción de las mercancías, de la prestación de los servicios o de la recepción de la factura cuando resulte relevante, coincidiendo íntegramente con la afirmación.",
+            "El artículo 7.2 establece que el emisor de la factura podrá comunicar la información sobre el cobro o del impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario, coincidiendo exactamente con la afirmación.",
+            "El texto indica que la obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con su fecha de expedición y coincidente con la fecha de la operación o de devengo, y añade que esto no aplica cuando el destinatario comunique expresamente el estado de pago, exactamente como recoge la afirmación.",
+            "El texto indica que la información sobre el estado y pago de la factura podrá remitirse mediante servicios web o mediante un formulario de comunicación de estados y de pago, y que estos servicios de envío estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo con la afirmación.",
+            "El apartado 2 establece explícitamente que en el supuesto del apartado 1.a) (envío mediante servicios web) será necesaria la previa identificación de la factura con su codificación única, coincidiendo exactamente con la afirmación.",
+            "El texto indica que la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de comunicaciones de estados y pagos admitidas o rechazadas junto con la identificación del motivo, coincidiendo con la afirmación.",
+            "El artículo 5.7 establece que cuando por razones técnicas imputables a la solución pública no sea posible su utilización por un periodo superior a 24 horas, la remisión de las facturas electrónicas y de las copias fieles podrá realizarse durante los cuatro días hábiles siguientes a la subsanación de la incidencia técnica, coincidiendo exactamente con lo afirmado.",
+            "El texto citado indica explícitamente que las plataformas privadas que intercambien facturas electrónicas utilizando la solución pública estarán obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo con los requisitos de representación e identificación previstos en el artículo 11, coincidiendo plenamente con la afirmación.",
+            "El artículo 9.2 establece que las plataformas privadas de facturación electrónica deberán automatizar el acceso a la solución pública para recuperar las facturas recibidas por sus clientes y, una vez recuperadas, ponerlas a su disposición de forma inmediata, a los efectos del cumplimiento de sus obligaciones de conservación, coincidiendo plenamente con la afirmación.",
+            "El artículo 9.3 indica literalmente que el destinatario de las facturas podrá recuperar en cualquier momento sus facturas recibidas, directamente o a través de un acceso automatizado a la solución pública de facturación electrónica, coincidiendo plenamente con la afirmación.",
+            "El artículo 10.1 indica expresamente que emisores, destinatarios y, en su caso, terceros que hayan emitido en nombre del emisor pueden acceder a las facturas electrónicas y copias fieles mediante servicios web o mediante la utilización del formulario, coincidiendo plenamente con la afirmación.",
+            "El artículo 10.2 indica expresamente que los emisores y destinatarios de las facturas electrónicas podrán consultar los estados y pagos de las mismas mediante servicios web o mediante la utilización del formulario, coincidiendo plenamente con la afirmación.",
+            "El texto indica expresamente que la utilización de la solución pública de facturación electrónica requerirá la autenticación e identificación electrónica del remitente mediante el uso de certificados electrónicos válidos en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo con la afirmación.",
+            "El texto indica expresamente que, cuando se utilice el formulario de generación de facturas electrónicas, de comunicación de estados de la factura y pagos, o de consulta de la solución pública de facturación electrónica, el remitente podrá utilizar también como medio de autenticación e identificación el sistema Cl@ve.",
+            "El texto indica explícitamente que la solución pública de facturación electrónica podrá ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, y remite a la normativa tributaria aplicable (artículos 79 a 81 del Reglamento General de gestión e inspección tributaria y la Orden HAC/1398/2003).",
+            "El texto establece que cuando un tercero utiliza los formularios en nombre del empresario, profesional o sujeto pasivo obligado, debe ser un apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria, y también exige que el tercero esté apoderado en esos términos para acceder al servicio de recuperación de facturas y a los servicios de consulta, por lo que la afirmación coincide plenamente con lo dispuesto.",
+            "El texto indica que todos esos servicios se ajustarán a lo previsto en la orden y a las especificaciones, condiciones técnicas y volumetría previstas en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo con la afirmación.",
+            "El texto citado indica que las actuaciones se llevarán a cabo con respeto a esas normas, pero no dice explícitamente que se harán “conforme” a ellas ni limita el ámbito solo a protección de datos; menciona también seguridad de la información y otros principios, por lo que la afirmación generaliza ligeramente.",
+            "La afirmación reproduce literalmente lo indicado en el texto citado sobre la obligación de los responsables de tratamiento de adoptar medidas técnicas y organizativas apropiadas conforme al artículo 32 del Reglamento (UE) 2016/679 para garantizar un nivel de seguridad adecuado al riesgo.",
+            "El texto establece literalmente que los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad aprobado por el Real Decreto 311/2022, de 3 de mayo, coincidiendo con la afirmación.",
+            "El texto citado establece literalmente que la solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electrónicas al menos dos meses antes de la primera aplicación efectiva de la orden, coincidiendo con la afirmación.",
+            "El texto indica explícitamente que la orden entra en vigor el día siguiente al de su publicación en el BOE y que con ello se inicia el cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022 y en las disposiciones transitorias primera a tercera y disposición final cuarta del Real Decreto 238/2026, coincidiendo plenamente con la afirmación.",
+            "El texto indica que las facturas electrónicas y copias fieles transmitidas a la AEAT deben contener como mínimo la información que se muestra a continuación en el anexo, pero no afirma explícitamente que dicha información sea ‘la establecida en el anexo I, conforme al modelo UBL y la EN 16931’; la referencia al modelo UBL y la EN 16931 aparece en el título del anexo, por lo que la relación se deduce pero no se enuncia de forma completa en el cuerpo del texto citado.",
+            "El texto indica explícitamente que el indicador de copia adoptará los valores: True: copia. False (o sin informar): original, coincidiendo exactamente con la afirmación.",
+            "El texto citado enumera muchos campos (serie y número, fecha de expedición, código de tipo de factura, código de moneda, datos y direcciones del vendedor y comprador, contactos, etc.) como términos de negocio de la factura electrónica, pero en ningún momento los califica explícitamente como “contenido mínimo” obligatorio en su conjunto. La afirmación generaliza diciendo que todos esos elementos forman el contenido mínimo, mientras que el anexo solo describe campos y su cardinalidad, algunos opcionales."
+          ],
+          "CoveredFacts": [
+            "f01",
+            "f02",
+            "f03",
+            "f04",
+            "f05",
+            "f06",
+            "f08",
+            "f09",
+            "f10",
+            "f11",
+            "f12",
+            "f13",
+            "f14",
+            "f15",
+            "f16",
+            "f17",
+            "f19",
+            "f23",
+            "f24",
+            "f25",
+            "f26",
+            "f28",
+            "f30",
+            "f31",
+            "f32",
+            "f33",
+            "f34",
+            "f35"
+          ]
+        }
+      }
+    },
+    {
+      "Index": 3,
+      "Claims": [
+        {
+          "Text": "La Orden HAC/1028/2026 regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+          "Citations": [
+            "BOE-A-2026-20587_005"
+          ]
+        },
+        {
+          "Text": "El ámbito de aplicación de la orden es el establecido en el artículo 3 del Real Decreto 238/2026, de 25 de marzo, con excepciones o particularidades previstas en el artículo 4 y disposición adicional segunda del mismo real decreto y en el apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007, de 28 de diciembre.",
+          "Citations": [
+            "BOE-A-2026-20587_006"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deben ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "El contenido de la factura electrónica emitida por la solución pública se ajustará a los elementos definidos en el anexo I de la orden, conforme al Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas interconectadas por la solución pública contendrán como mínimo los elementos definidos en el anexo I de la orden, pudiendo incluir contenido adicional que cumpla los requisitos del apartado primero.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas a través de la solución pública quedan a disposición inmediata de la Administración y no se debe remitir copia fiel de las mismas.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos, salvo la firma electrónica en facturas interconectadas.",
+          "Citations": [
+            "BOE-A-2026-20587_007"
+          ]
+        },
+        {
+          "Text": "Las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La copia fiel debe estar marcada claramente como tal en la solución pública y contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo regulado en el Reglamento de facturación y ajustado a los elementos del anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La copia fiel de la factura debe identificarse como tal en el campo denominado «indicador de copia» del anexo I de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "Las copias fieles remitidas a la solución pública no podrán incorporar otros ficheros integrados o embebidos.",
+          "Citations": [
+            "BOE-A-2026-20587_008"
+          ]
+        },
+        {
+          "Text": "La emisión de facturas por la solución pública se realizará mediante el formulario de generación de facturas electrónicas habilitado en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La interconexión de facturas por la solución pública se realizará mediante servicios web habilitados a tal efecto.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "La remisión de copias fieles se realizará a través del servicio web, identificando la copia fiel según el artículo 4.3 de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas y copias fieles enviadas por servicio web se someterán a un proceso de validación de sintaxis, semántica y especificaciones; la Agencia Tributaria emitirá un mensaje de respuesta con admitidos o rechazados y el motivo.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Se rechazarán envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel o una factura electrónica original en la solución pública.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6.",
+          "Citations": [
+            "BOE-A-2026-20587_009"
+          ]
+        },
+        {
+          "Text": "El código único de la factura se define por la concatenación de NIF del emisor, serie, número y fecha de expedición, según el anexo I.",
+          "Citations": [
+            "BOE-A-2026-20587_010"
+          ]
+        },
+        {
+          "Text": "El destinatario de la factura debe informar del rechazo, de la fecha de pago efectivo completo y de la fecha de vencimiento del plazo de pago, y puede informar de la fecha de recepción de mercancías, servicios o factura cuando sea relevante.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "En ausencia de rechazo o factura rectificativa posterior, las facturas se presumirán aceptadas.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "El emisor de la factura puede comunicar información sobre el cobro o impago de las facturas y posibles diferencias respecto a las fechas comunicadas por el destinatario.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "La obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con la fecha de expedición y de la operación o devengo, salvo comunicación expresa del estado de pago.",
+          "Citations": [
+            "BOE-A-2026-20587_011"
+          ]
+        },
+        {
+          "Text": "La información sobre el estado y pago de la factura puede remitirse mediante servicios web o formulario individual habilitado en la Sede electrónica de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "La identificación de la factura para la comunicación de estados y pagos requiere su codificación única.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "La Agencia Tributaria emitirá un mensaje de respuesta con comunicaciones admitidas o rechazadas y el motivo; tras el envío, se facilitará un acuse de recibo con código seguro de verificación.",
+          "Citations": [
+            "BOE-A-2026-20587_012"
+          ]
+        },
+        {
+          "Text": "Las plataformas privadas que intercambien facturas electrónicas usando la solución pública están obligadas a recuperar los mensajes de factura intercambiados, cumpliendo requisitos de representación e identificación.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "Las plataformas privadas deben automatizar el acceso a la solución pública para recuperar facturas recibidas por sus clientes y ponerlas a su disposición de forma inmediata.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "El destinatario de las facturas puede recuperar en cualquier momento sus facturas recibidas, directamente o mediante acceso automatizado.",
+          "Citations": [
+            "BOE-A-2026-20587_013"
+          ]
+        },
+        {
+          "Text": "Emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a facturas electrónicas y copias fieles mediante servicios web o formulario.",
+          "Citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "Text": "Emisores y destinatarios pueden consultar los estados y pagos de las facturas electrónicas mediante servicios web o formulario.",
+          "Citations": [
+            "BOE-A-2026-20587_014"
+          ]
+        },
+        {
+          "Text": "La utilización de la solución pública requiere autenticación e identificación electrónica del remitente mediante certificados electrónicos válidos en la Sede electrónica de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "El sistema Cl@ve puede usarse como medio de autenticación e identificación para formularios de generación de facturas, comunicación de estados y pagos, o consulta.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "La solución pública puede ser utilizada por el empresario, profesional o sujeto pasivo obligado, o por un tercero apoderado inscrito en el Registro de apoderamientos de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "Los servicios de emisión, interconexión, remisión de copias fieles, recuperación, consulta y comunicación de estados y pagos se ajustarán a las especificaciones, condiciones técnicas y volumetría previstas en la Sede electrónica de la Agencia Tributaria.",
+          "Citations": [
+            "BOE-A-2026-20587_015"
+          ]
+        },
+        {
+          "Text": "Las actuaciones reguladas en la orden se llevarán a cabo conforme al Reglamento (UE) 2016/679, la Ley Orgánica 3/2018, la disposición adicional vigesimoprimera de la Ley 56/2007 y el resto de normativa aplicable en materia de protección de datos.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "Los sistemas de información de la solución pública deben cumplir el Esquema Nacional de Seguridad, según su categorización y análisis de riesgos.",
+          "Citations": [
+            "BOE-A-2026-20587_016"
+          ]
+        },
+        {
+          "Text": "La solución pública de facturación electrónica debe estar disponible para los empresarios y profesionales obligados al menos dos meses antes de la primera aplicación efectiva de la orden.",
+          "Citations": [
+            "BOE-A-2026-20587_017"
+          ]
+        },
+        {
+          "Text": "La orden entra en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, iniciando el cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022 y en las disposiciones transitorias primera a tercera y disposición final cuarta del Real Decreto 238/2026.",
+          "Citations": [
+            "BOE-A-2026-20587_018"
+          ]
+        },
+        {
+          "Text": "Las facturas electrónicas y copias fieles transmitidas a la Agencia Tributaria deben contener como mínimo la información establecida en el anexo I, conforme al modelo UBL y la EN 16931.",
+          "Citations": [
+            "BOE-A-2026-20587_019"
+          ]
+        },
+        {
+          "Text": "El anexo I detalla los campos obligatorios y condicionales, su semántica, cardinalidad y ruta UBL para facturas electrónicas y copias fieles.",
+          "Citations": [
+            "BOE-A-2026-20587_020",
+            "BOE-A-2026-20587_021",
+            "BOE-A-2026-20587_022"
+          ]
+        }
+      ],
+      "ChunkCoverage": 1,
+      "ByJudge": {
+        "gpt-4.1": {
+          "Verdicts": [
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial"
+          ],
+          "Reasons": [
+            "El texto citado indica explícitamente que la orden regula los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1 del Real Decreto 238/2026, de 25 de marzo.",
+            "El texto citado reproduce literalmente el ámbito de aplicación y las excepciones mencionadas en la afirmación.",
+            "El texto citado dice explícitamente que las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL.",
+            "El texto citado indica que el contenido de la factura electrónica emitida por la solución pública se ajustará a los elementos definidos en el anexo I de la orden, conforme a lo previsto en el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012.",
+            "El texto citado indica que las facturas electrónicas interconectadas contendrán como mínimo los elementos definidos en el anexo I y que podrán incluir contenido adicional que cumpla los requisitos del apartado primero.",
+            "El apartado 4 dice literalmente que las facturas electrónicas para cuya emisión o interconexión se utilice la solución pública de facturación electrónica quedan a disposición inmediata de la Administración, por lo que no se debe remitir copia fiel de las mismas.",
+            "El texto citado dice literalmente que las facturas electrónicas emitidas o interconectadas a través de la solución pública no podrán incorporar otros ficheros integrados o embebidos, salvo que las facturas interconectadas podrán remitirse junto con la firma electrónica.",
+            "El texto citado indica explícitamente que las plataformas, soluciones o sistemas de facturación que no utilicen la solución pública para la emisión o interconexión deben remitir simultáneamente a su emisión una copia electrónica fiel de cada factura en la sintaxis UBL a la solución pública.",
+            "El texto citado indica que las copias quedarán marcadas claramente como tales en la solución pública y que deben contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo regulado en el Reglamento y ajustado a los elementos del anexo I.",
+            "El texto citado dice explícitamente que la copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden.",
+            "El texto citado dice literalmente que las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos.",
+            "El texto citado indica que la emisión de la factura se realizará mediante la utilización del formulario de generación de facturas electrónicas y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado dice explícitamente que la interconexión se realizará mediante los servicios web habilitados a tal efecto.",
+            "El texto citado indica que la remisión de las copias fieles deberá realizarse a través del servicio web previsto y con la identificación a que se refiere el artículo 4.3 de la orden, tal como afirma la afirmación.",
+            "El texto citado indica que las facturas electrónicas y copias fieles enviadas por servicio web se someterán a un proceso de validación de sintaxis, semántica y especificaciones, y que la Agencia Tributaria emitirá un mensaje de respuesta con la relación de admitidos o rechazados y el motivo.",
+            "El texto citado indica expresamente que se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel o una factura electrónica original en la solución pública de facturación electrónica.",
+            "El texto citado dice explícitamente: 'A los efectos de lo previsto en los párrafos anteriores, las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6.'",
+            "El texto citado indica exactamente que el código único de la factura se define por la concatenación del NIF del emisor, la serie, el número y la fecha de expedición, según el anexo I.",
+            "El texto citado indica que el destinatario debe informar del rechazo, de la fecha de pago efectivo completo y de la fecha de vencimiento del plazo de pago, y que puede informar de la fecha de recepción de mercancías, servicios o factura cuando sea relevante.",
+            "El texto citado dice literalmente que en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumirá que son aceptadas.",
+            "El texto citado indica que el emisor de la factura podrá comunicar la información sobre el cobro o del impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario.",
+            "El texto citado en el punto 4 indica exactamente que la obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con la fecha de expedición y coincidente con la fecha de la operación o de devengo, salvo que el destinatario comunique expresamente el estado de pago.",
+            "El texto citado indica que la información puede remitirse mediante servicios web o formulario individual, y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado indica que en el supuesto de uso de servicios web será necesaria la previa identificación de la factura con su codificación única según el artículo 6.",
+            "El texto citado indica que la Agencia Tributaria emitirá un mensaje de respuesta con la relación de comunicaciones admitidas o rechazadas y el motivo, y que tras el envío se facilitará un acuse de recibo con código seguro de verificación.",
+            "El texto citado dice explícitamente que las plataformas privadas que intercambien facturas electrónicas utilizando la solución pública estarán obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo con los requisitos de representación e identificación previstos en el artículo 11.",
+            "El texto citado dice explícitamente que las plataformas privadas de facturación electrónica deberán automatizar el acceso a la solución pública para recuperar las facturas recibidas por sus clientes y ponerlas a su disposición de forma inmediata.",
+            "El texto citado dice explícitamente que el destinatario de las facturas podrá recuperar en cualquier momento sus facturas recibidas, directamente o a través de un acceso automatizado.",
+            "El texto citado menciona explícitamente que emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a facturas electrónicas y copias fieles mediante servicios web o formulario.",
+            "El texto citado indica explícitamente que los emisores y destinatarios de las facturas electrónicas pueden consultar los estados y pagos de las mismas mediante servicios web o formulario.",
+            "El texto citado indica expresamente que la utilización de la solución pública de facturación electrónica requerirá la autenticación e identificación electrónica del remitente mediante el uso de los certificados electrónicos válidos en cada momento en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado indica expresamente que el sistema Cl@ve puede utilizarse como medio de autenticación e identificación en los casos de uso del formulario de generación de facturas electrónicas, de comunicación de estados de la factura y pagos, o de consulta de la solución pública de facturación electrónica.",
+            "El texto citado indica que la solución pública de facturación electrónica puede ser utilizada por el propio empresario, profesional o sujeto pasivo obligado a la expedición de la factura o por un tercero que actúe en su representación, y especifica que, en caso de uso por un tercero, este debe figurar inscrito en el Registro de apoderamientos de la Agencia Tributaria.",
+            "El texto citado indica expresamente que todos esos servicios se ajustarán a las especificaciones, condiciones técnicas y volumetría previstas en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El texto citado menciona explícitamente que la totalidad de las actuaciones reguladas en la orden se llevarán a cabo con el debido respeto a lo establecido en el Reglamento (UE) 2016/679, la Ley Orgánica 3/2018, la disposición adicional vigesimoprimera de la Ley 56/2007 y el resto de la normativa aplicable en la materia.",
+            "El texto citado indica expresamente que los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad, de acuerdo con su categorización y con el correspondiente análisis de riesgos.",
+            "El texto citado indica literalmente que la solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados al menos dos meses antes de la primera aplicación efectiva de la orden.",
+            "El texto citado indica literalmente que la orden entra en vigor el día siguiente al de su publicación en el BOE e inicia el cómputo de los plazos mencionados en la afirmación.",
+            "El texto citado indica que las facturas electrónicas y copias fieles transmitidas a la Agencia Tributaria deben contener como mínimo la información que se muestra en el anexo I, conforme al modelo UBL y la EN 16931.",
+            "El texto citado muestra que el anexo I detalla campos, su semántica, cardinalidad y ruta UBL para facturas electrónicas, pero no menciona explícitamente 'copias fieles'."
+          ],
+          "CoveredFacts": [
+            "f01",
+            "f02",
+            "f03",
+            "f04",
+            "f05",
+            "f06",
+            "f08",
+            "f09",
+            "f11",
+            "f12",
+            "f13",
+            "f14",
+            "f15",
+            "f16",
+            "f17",
+            "f18",
+            "f19",
+            "f20",
+            "f24",
+            "f25",
+            "f26",
+            "f27",
+            "f28",
+            "f30",
+            "f31",
+            "f32",
+            "f33",
+            "f34",
+            "f35"
+          ]
+        },
+        "gpt-5.1": {
+          "Verdicts": [
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Partial",
+            "Supported",
+            "Supported",
+            "Supported",
+            "Partial",
+            "Partial"
+          ],
+          "Reasons": [
+            "El artículo 1 indica expresamente que la orden tiene por objeto regular los elementos técnicos y funcionales de la solución pública de facturación electrónica previstos en la disposición final tercera, apartado 1, del Real Decreto 238/2026, coincidiendo plenamente con la afirmación.",
+            "La afirmación reproduce fielmente lo indicado en el apartado 1 del artículo 2: el ámbito de aplicación es el del artículo 3 del Real Decreto 238/2026, sin perjuicio de las excepciones o particularidades del artículo 4 y la disposición adicional segunda de dicho real decreto y del apartado séptimo de la disposición adicional vigesimoprimera de la Ley 56/2007.",
+            "El apartado 1 del artículo 3 establece literalmente que las facturas electrónicas emitidas o interconectadas usando la solución pública de facturación electrónica se deberán ajustar al modelo semántico de datos EN16931 bajo la sintaxis UBL, coincidiendo exactamente con la afirmación.",
+            "El apartado 2 establece que cuando la solución pública actúe como medio de emisión, el contenido de la factura electrónica se ajustará a los elementos definidos en el anexo I, concretando el contenido de las facturas según el Reglamento de obligaciones de facturación aprobado por el Real Decreto 1619/2012, exactamente como indica la afirmación.",
+            "El apartado 3 indica que cuando la solución actúe como medio de interconexión la factura contendrá, como mínimo, los elementos del anexo I y que estas facturas interconectadas podrán incluir contenido adicional que cumpla los requisitos del apartado primero, coincidiendo con la afirmación.",
+            "El apartado 4 establece literalmente que las facturas electrónicas emitidas o interconectadas mediante la solución pública quedan a disposición inmediata de la Administración y que no se debe remitir copia fiel de las mismas, coincidiendo plenamente con la afirmación.",
+            "El texto establece que las facturas electrónicas emitidas o interconectadas no podrán incorporar otros ficheros integrados o embebidos y añade expresamente que las facturas interconectadas podrán remitirse junto con la firma electrónica, coincidiendo plenamente con la afirmación.",
+            "El texto citado sí establece la obligación de remitir simultáneamente una copia electrónica fiel de cada factura en sintaxis UBL a la solución pública, pero limita esa obligación a los empresarios o profesionales obligados a emitir y recibir facturas electrónicas. La afirmación omite esta condición sobre los sujetos, generalizando más allá de lo que dice la norma.",
+            "El texto indica que las copias quedarán marcadas claramente como tales en la solución pública y que deberán contener la información de los conceptos de las facturas originales con correspondencia semántica equivalente, cumpliendo el contenido mínimo del Reglamento de facturación y ajustado a los elementos del anexo I, exactamente como recoge la afirmación.",
+            "El apartado 3 del artículo 4 establece literalmente que la copia fiel de la factura deberá identificarse como tal en el elemento o campo denominado «indicador de copia» del anexo I de esta orden, coincidiendo plenamente con la afirmación.",
+            "El apartado 4 del artículo 4 establece literalmente que las copias fieles remitidas a la solución pública de facturación electrónica no podrán incorporar otros ficheros integrados o embebidos, coincidiendo plenamente con la afirmación.",
+            "El texto indica que cuando la solución pública actúe como medio de facturación, la emisión se realizará mediante el formulario de generación de facturas electrónicas y que estos servicios estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo plenamente con la afirmación.",
+            "El apartado 2 del artículo 5 establece que cuando la solución pública actúe como medio de interconexión, esta deberá realizarse mediante los servicios web habilitados a tal efecto, coincidiendo exactamente con la afirmación.",
+            "El apartado 3 del artículo 5 establece que la remisión de las copias fieles deberá realizarse a través del servicio web del apartado anterior, con la identificación a que se refiere el artículo 4.3 de la orden, coincidiendo exactamente con la afirmación.",
+            "El apartado 4 indica que las facturas electrónicas y copias fieles enviadas por el servicio web se someten a un proceso de validación de sintaxis, semántica y especificaciones, y que tras esta validación la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de admitidos o rechazados junto con la identificación del motivo.",
+            "El texto indica expresamente que se rechazarán los envíos de copias fieles de facturas electrónicas para las que ya conste una copia fiel en la solución pública, así como para las que conste una factura electrónica original emitida o intercambiada usando dicha solución, coincidiendo con la afirmación.",
+            "El texto indica explícitamente que, a estos efectos, las facturas electrónicas originales y copias fieles se identificarán por su código único, regulado en el artículo 6, coincidiendo exactamente con la afirmación.",
+            "La afirmación reproduce fielmente que el código único de la factura se define por la concatenación del NIF del emisor, la serie, el número de la factura y la fecha de expedición, según lo especificado en el anexo I.",
+            "El artículo 7.1 indica que el destinatario deberá informar, en su caso, del rechazo de la factura, de la fecha del pago efectivo completo y de la fecha de vencimiento del plazo de pago, y que podrá informar de la fecha de recepción de las mercancías, de la prestación de los servicios o de la recepción de la factura cuando resulte relevante, coincidiendo con la afirmación.",
+            "El texto indica que, en ausencia de rechazo de la factura o de una factura rectificativa posterior, las facturas se presumirá que son aceptadas, lo que coincide plenamente con la afirmación.",
+            "El apartado 2 del artículo 7 indica expresamente que el emisor de la factura podrá comunicar la información sobre el cobro o del impago de las facturas, así como posibles diferencias respecto a las fechas contenidas en la comunicación de pago realizada por el destinatario, coincidiendo plenamente con la afirmación.",
+            "El texto indica que la obligación del destinatario de informar sobre el estado de pago se entiende cumplida cuando la factura o su copia fiel incluye una fecha de pago anterior o coincidente con su fecha de expedición y coincidente con la fecha de la operación o de devengo, y añade que esto no aplica cuando el destinatario comunique expresamente el estado de pago, exactamente lo recogido en la afirmación.",
+            "El texto indica que la información sobre el estado y pago de la factura podrá remitirse mediante servicios web o mediante un formulario de comunicación que permite la remisión individual por factura, y que estos servicios de envío estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.",
+            "El apartado 2 establece que en el supuesto de remisión mediante servicios web será necesaria la previa identificación de la factura con su codificación única, lo que respalda que la identificación para la comunicación de estados y pagos requiere dicha codificación única en ese contexto.",
+            "El texto indica que la Agencia Estatal de Administración Tributaria emitirá un mensaje de respuesta con la relación de comunicaciones admitidas o rechazadas junto con el motivo, y también que tras el envío la solución pública de facturación electrónica facilitará un acuse de recibo informando del código seguro de verificación correspondiente, coincidiendo con la afirmación.",
+            "El artículo 9.1 establece expresamente que las plataformas privadas que intercambien facturas electrónicas utilizando la solución pública estarán obligadas a recuperar los mensajes de factura electrónica intercambiados, cumpliendo los requisitos de representación e identificación del artículo 11, coincidiendo con la afirmación.",
+            "El artículo 9.2 establece expresamente que las plataformas privadas deberán automatizar el acceso a la solución pública para recuperar las facturas recibidas por sus clientes y, una vez recuperadas, ponerlas a su disposición de forma inmediata.",
+            "El artículo 9.3 indica literalmente que el destinatario de las facturas podrá recuperar en cualquier momento sus facturas recibidas, directamente o a través de un acceso automatizado a la solución pública de facturación electrónica, coincidiendo plenamente con la afirmación.",
+            "El texto indica explícitamente que emisores, destinatarios y terceros que hayan emitido en nombre del emisor pueden acceder a las facturas electrónicas y copias fieles mediante servicios web o mediante la utilización del formulario, coincidiendo plenamente con la afirmación.",
+            "El texto indica explícitamente que los emisores y destinatarios de las facturas electrónicas podrán consultar los estados y pagos de las mismas mediante servicios web o mediante la utilización del formulario, coincidiendo plenamente con la afirmación.",
+            "El texto establece expresamente que la utilización de la solución pública de facturación electrónica requerirá la autenticación e identificación electrónica del remitente mediante el uso de certificados electrónicos válidos en la Sede electrónica de la Agencia Estatal de Administración Tributaria, coincidiendo con la afirmación.",
+            "El texto indica explícitamente que, cuando se utilice el formulario de generación de facturas electrónicas, de comunicación de estados de la factura y pagos, o de consulta de la solución pública de facturación electrónica, el remitente podrá utilizar también como medio de autenticación e identificación el sistema Cl@ve.",
+            "El texto indica que la solución pública puede ser utilizada por el propio empresario, profesional o sujeto pasivo obligado, o por un tercero que actúe en su representación según cierta normativa. Solo exige que el tercero esté inscrito en el Registro de apoderamientos para casos concretos (uso de formularios y determinados servicios), no de forma general para cualquier uso de la solución pública, como afirma la frase.",
+            "El texto indica explícitamente que todos esos servicios (emisión, interconexión, remisión de copias fieles, recuperación, consulta y comunicación de estados y pagos) se ajustarán a lo previsto en la orden y a las especificaciones, condiciones técnicas y volumetría previstas en la Sede electrónica de la Agencia Estatal de Administración Tributaria, que es la Agencia Tributaria.",
+            "El texto citado indica que las actuaciones se realizarán con respeto al Reglamento (UE) 2016/679, la Ley Orgánica 3/2018, la disposición adicional vigesimoprimera de la Ley 56/2007 y el resto de normativa aplicable en la materia, pero no especifica que dicha materia sea exclusivamente protección de datos, como afirma la oración.",
+            "El texto indica explícitamente que los sistemas de información que soportan la solución pública de facturación electrónica deberán cumplir lo dispuesto en el Esquema Nacional de Seguridad, de acuerdo con su categorización y con el correspondiente análisis de riesgos, coincidiendo plenamente con la afirmación.",
+            "El texto citado establece literalmente que la solución pública de facturación electrónica deberá estar disponible para los empresarios y profesionales obligados a emitir y recibir facturas electrónicas al menos dos meses antes de la primera aplicación efectiva de la orden, coincidiendo con lo afirmado.",
+            "El texto indica expresamente que la orden entra en vigor el día siguiente al de su publicación en el BOE y que con ello se inicia el cómputo de los plazos previstos en la disposición final octava de la Ley 18/2022 y en las disposiciones transitorias primera a tercera y disposición final cuarta del Real Decreto 238/2026, coincidiendo plenamente con la afirmación.",
+            "El texto indica que las facturas electrónicas y copias fieles transmitidas a la AEAT deben contener como mínimo la información que se muestra a continuación en el anexo, y menciona que es conforme al modelo UBL y la EN 16931. Sin embargo, la afirmación añade que esa información es la “establecida en el anexo I”, mientras que el texto solo dice “la información que se muestra a continuación”, sin explicitar que sea toda la del anexo I ni que no haya más requisitos fuera de él.",
+            "El texto muestra que el Anexo I define campos con su descripción semántica, cardinalidad (1..1, 0..1, 0..n, etc.) y ruta UBL, y se indica cuándo ciertos campos son obligatorios o condicionales (por ejemplo, si la dirección está en España, si otro campo no tiene contenido, etc.). Sin embargo, en el fragmento citado no aparece explícitamente la referencia a “copias fieles”, por lo que esa parte de la afirmación no queda respaldada."
+          ],
+          "CoveredFacts": [
+            "f01",
+            "f02",
+            "f03",
+            "f04",
+            "f05",
+            "f06",
+            "f08",
+            "f09",
+            "f11",
+            "f12",
+            "f13",
+            "f14",
+            "f15",
+            "f16",
+            "f17",
+            "f18",
+            "f19",
+            "f24",
+            "f25",
+            "f26",
+            "f27",
+            "f28",
+            "f30",
+            "f31",
+            "f33",
+            "f34",
+            "f35"
+          ]
+        }
+      }
+    }
+  ]
+}
